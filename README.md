@@ -18,3 +18,9 @@ Query online and get:
 Query either
  - Semantic scholar
  - Google scholar https://serpapi.com/google-scholar-api 
+
+
+
+Let's make this simple
+ - Data storage = Pandas dataframe
+ - querying with BeautifulSoup
