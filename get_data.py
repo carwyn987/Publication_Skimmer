@@ -1,6 +1,6 @@
 """
 Run syntax:
-python main.py -k keyword1 keyword2 keyword3
+python get_data.py -k keyword1 keyword2 keyword3
 """
 
 import json
@@ -12,6 +12,7 @@ pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
 
 from src.querier import google_scholar_search
+from src.ds_helper import load_one_record, load_all_records
 
 def main(keywords):
     print(f"Keywords: {keywords}")
@@ -22,28 +23,10 @@ def main(keywords):
         # df = pd.json_normalize(search_results, record_path=['resources'])
         print(search_results)
 
-
-        # NEEDS FIXING!
-        # df = pd.json_normalize(search_results[0], record_path=['publication_info.authors', 'resources'], meta=None, record_prefix=['Prefix_A.', 'Prefix_B.'])
-        data = search_results[0]
-        df1 = pd.json_normalize(data, 
-                       record_path='publication_info', 
-                       meta=['title', 'link', 'snippet'], 
-                       record_prefix='Prefix_')
-
-        df2 = pd.json_normalize(data, 
-                            record_path='resources', 
-                            meta=['title', 'link', 'snippet'], 
-                            record_prefix='Prefix_')
-
-        df = pd.concat([df1, df2], ignore_index=True)
-        
-        # df = pd.json_normalize(search_results[0], 
-        #                     record_path='resources')
-
-        # df = pd.concat([df1, df2], ignore_index=True)
-
+        data = search_results
+        df = load_all_records(data)
         print(df)
+        print("!!! ", df.columns)
         
         df.to_csv("data/" + f'{keyword.replace("+","").replace(" ","").strip()}.csv', index=False)
 
