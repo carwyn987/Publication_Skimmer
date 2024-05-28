@@ -1,0 +1,510 @@
+author,citations,titles
+H Van Hasselt,11553.0,"['Deep reinforcement learning with double q-learning', 'Rainbow: Combining improvements in deep reinforcement learning', 'Reinforcement learning algorithms for solving classification problems']"
+D Silver,9481.0,"['Deep reinforcement learning with double q-learning', 'Reinforcement learning via AIXI approximation', 'Reinforcement learning', 'Reinforcement learning via AIXI approximation', 'A monte-carlo aixi approximation', 'A monte-carlo aixi approximation', 'Reinforcement learning via AIXI approximation']"
+A Guez,8926.0,['Deep reinforcement learning with double q-learning']
+J Modayil,2545.0,['Rainbow: Combining improvements in deep reinforcement learning']
+T Schaul,2545.0,['Rainbow: Combining improvements in deep reinforcement learning']
+M Hessel,2545.0,['Rainbow: Combining improvements in deep reinforcement learning']
+Y Li,1761.0,"['Deep reinforcement learning: An overview', 'An edge server placement method based on reinforcement learning', 'Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network']"
+S Elfwing,1271.0,['Sigmoid-weighted linear units for neural network function approximation in reinforcement learning']
+E Uchibe,1271.0,['Sigmoid-weighted linear units for neural network function approximation in reinforcement learning']
+K Doya,1271.0,['Sigmoid-weighted linear units for neural network function approximation in reinforcement learning']
+M Hutter,1155.0,"['Reinforcement learning via AIXI approximation', 'Reinforcement learning via AIXI approximation', 'Dynamic Knowledge Injection for AIXI Agents', 'A monte-carlo aixi approximation', 'A gentle introduction to the universal algorithmic agent AIXI', 'On the computability of AIXI', 'Self-Predictive Universal AI', 'Optimistic AIXI', 'On the computability of Solomonoff induction and AIXI', 'Universal reinforcement learning algorithms: Survey and experiments', 'Feature reinforcement learning in practice', 'Feature reinforcement learning: state of the art', 'Feature reinforcement learning: Part I. unstructured MDPs', 'Rationality, optimism and guarantees in general reinforcement learning', 'On the Optimality of General Reinforcement Learners', 'Context tree maximizing', 'Using Localization and Factorization to Reduce the Complexity of Reinforcement Learning', 'An Introduction to Universal Artificial Intelligence', 'Bad universal priors and notions of optimality', 'On ensemble techniques for AIXI approximation', 'On Reward Binarisation and Bayesian Agents', 'Death and suicide in universal artificial intelligence', 'Algorithm for Aligned Artificial General Intelligence', 'Optimal Universal Explorative Agents', 'Feature Reinforcement Learning: Part II. Structured MDPs', 'A monte-carlo aixi approximation', 'A gentle introduction to the universal algorithmic agent AIXI', 'Reinforcement learning via AIXI approximation', 'Dynamic Knowledge Injection for AIXI Agents', 'On the computability of AIXI', 'Principles of Solomonoff induction and AIXI', 'On the computability of Solomonoff induction and AIXI', 'Optimistic AIXI', 'On ensemble techniques for AIXI approximation', 'Universal algorithmic intelligence: A mathematical top→ down approach', 'A theory of universal artificial intelligence based on algorithmic complexity', 'Bad universal priors and notions of optimality']"
+T Hoang,783.0,['Deeppath: A reinforcement learning method for knowledge graph reasoning']
+WY Wang,783.0,['Deeppath: A reinforcement learning method for knowledge graph reasoning']
+W Xiong,783.0,['Deeppath: A reinforcement learning method for knowledge graph reasoning']
+J Veness,618.0,"['Reinforcement learning via AIXI approximation', 'Reinforcement learning via AIXI approximation', 'A monte-carlo aixi approximation', 'Universal RL: Applications and approximations', 'On ensemble techniques for AIXI approximation', 'On Reward Binarisation and Bayesian Agents', 'An approximation of the universal intelligence measure', 'A monte-carlo aixi approximation', 'Reinforcement learning via AIXI approximation', 'On ensemble techniques for AIXI approximation']"
+P Srinivasan,618.0,['Massively parallel methods for deep reinforcement learning']
+S Blackwell,618.0,['Massively parallel methods for deep reinforcement learning']
+C Alcicek,618.0,['Massively parallel methods for deep reinforcement learning']
+A Nair,618.0,['Massively parallel methods for deep reinforcement learning']
+L Vilnis,560.0,['Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning']
+S Dhuliawala,560.0,['Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning']
+M Zaheer,560.0,['Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning']
+R Das,560.0,['Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning']
+KS Ng,548.0,"['Reinforcement learning via AIXI approximation', 'Reinforcement learning via AIXI approximation', 'Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions', 'A monte-carlo aixi approximation', 'A monte-carlo aixi approximation', 'Reinforcement learning via AIXI approximation', 'Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions']"
+D Schuurmans,535.0,['An optimistic perspective on offline reinforcement learning']
+R Agarwal,535.0,['An optimistic perspective on offline reinforcement learning']
+H Liu,516.0,"['Deep reinforcement learning for dynamic multichannel access in wireless networks', 'Deep reinforcement learning for dynamic multichannel access', 'Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning', 'Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning']"
+PH Gomes,501.0,"['Deep reinforcement learning for dynamic multichannel access in wireless networks', 'Deep reinforcement learning for dynamic multichannel access']"
+S Wang,501.0,"['Deep reinforcement learning for dynamic multichannel access in wireless networks', 'Deep reinforcement learning for dynamic multichannel access']"
+E Howley,467.0,"['Deep reinforcement learning: an overview', 'Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning', 'Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning']"
+W Uther,442.0,"['A monte-carlo aixi approximation', 'A monte-carlo aixi approximation']"
+M Schukat,436.0,['Deep reinforcement learning: an overview']
+SS Mousavi,436.0,['Deep reinforcement learning: an overview']
+P Ammanabrolu,424.0,"['Transfer in deep reinforcement learning using knowledge graphs', 'Playing text-adventure games with graph-based deep reinforcement learning', 'Playing text-adventure games with graph-based deep reinforcement learning', 'Graph constrained reinforcement learning for natural language action spaces']"
+J Jiang,408.0,['Graph convolutional reinforcement learning']
+Z Lu,408.0,['Graph convolutional reinforcement learning']
+C Dun,408.0,['Graph convolutional reinforcement learning']
+T Huang,408.0,['Graph convolutional reinforcement learning']
+N Shimkin,360.0,['Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning']
+N Baram,360.0,['Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning']
+O Anschel,360.0,['Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning']
+L Orseau,359.0,"['Delusion, survival, and intelligent agents', 'Asymptotic non-learnability of universal agents with computable horizon functions', 'Self-modification and mortality in artificial agents', 'Safely interruptible agents', 'Universal knowledge-seeking agents', 'Optimality issues of universal greedy agents with static priors', 'Optimal Universal Explorative Agents', 'Teleporting universal intelligent agents']"
+K Kwok,353.0,['Opponent modeling in deep reinforcement learning']
+J Boyd-Graber,353.0,['Opponent modeling in deep reinforcement learning']
+H He,353.0,['Opponent modeling in deep reinforcement learning']
+J Boyd,353.0,['Opponent modeling in deep reinforcement learning']
+H Li,350.0,"['Deep-reinforcement-learning-based autonomous voltage control for power grid operations', 'Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network', 'Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm']"
+D Shi,332.0,['Deep-reinforcement-learning-based autonomous voltage control for power grid operations']
+J Duan,332.0,['Deep-reinforcement-learning-based autonomous voltage control for power grid operations']
+R Diao,332.0,['Deep-reinforcement-learning-based autonomous voltage control for power grid operations']
+Z Wang,332.0,['Deep-reinforcement-learning-based autonomous voltage control for power grid operations']
+V Behzadan,319.0,['Vulnerability of deep reinforcement learning to policy induction attacks']
+A Munir,319.0,['Vulnerability of deep reinforcement learning to policy induction attacks']
+MO Riedl,315.0,"['Transfer in deep reinforcement learning using knowledge graphs', 'Playing text-adventure games with graph-based deep reinforcement learning', 'Playing text-adventure games with graph-based deep reinforcement learning']"
+Q Wang,292.0,"['GRL: Knowledge graph completion with GAN-based reinforcement learning', 'ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning', 'Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs', 'Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space']"
+Z Zhang,282.0,"['Internal Logical Induction for Pixel-Symbolic Reinforcement Learning', 'Deep reinforcement learning for digital materials design', 'Deep reinforcement learning for trading', 'Towards robust knowledge graph embedding via multi-task reinforcement learning']"
+F Pardo,278.0,['Action branching architectures for deep reinforcement learning']
+P Kormushev,278.0,['Action branching architectures for deep reinforcement learning']
+A Tavakoli,278.0,['Action branching architectures for deep reinforcement learning']
+X Li,277.0,"['Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach', 'Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams', 'Recurrent reinforcement learning: a hybrid approach', 'An Introduction to Induction from an AIT View']"
+L Xia,249.0,"['KERL: A knowledge-guided reinforcement learning model for sequential recommendation', 'Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach', 'Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs']"
+Z Yang,242.0,"['A Systematic Literature Review of reinforcement learning-based knowledge graph research', 'Explainable knowledge graph-based recommendation via deep reinforcement learning', 'Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space']"
+C Zhou,230.0,"['Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning', '3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds']"
+S Zohren,216.0,['Deep reinforcement learning for trading']
+S Roberts,216.0,['Deep reinforcement learning for trading']
+F Liu,204.0,"['3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds', 'A reinforcement learning approach to irrigation decision-making for rice using weather forecasts']"
+J Pineau,201.0,['A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.']
+S Ross,201.0,['A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.']
+B Chaib,201.0,['A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.']
+B Chaib-draa,201.0,['A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.']
+S Li,200.0,"['Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning', '3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds']"
+J Foerster,196.0,['Exploratory combinatorial optimization with reinforcement learning']
+T Barrett,196.0,['Exploratory combinatorial optimization with reinforcement learning']
+A Lvovsky,196.0,['Exploratory combinatorial optimization with reinforcement learning']
+W Clements,196.0,['Exploratory combinatorial optimization with reinforcement learning']
+K Zhang,195.0,"['Deep reinforcement learning for resource protection and real-time detection in IoT environment', 'Autonomous platoon control with integrated deep reinforcement learning and dynamic programming']"
+P Wang,193.0,"['KERL: A knowledge-guided reinforcement learning model for sequential recommendation', 'Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams']"
+J Xiong,190.0,['Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space']
+L Han,190.0,['Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space']
+P Sun,190.0,['Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space']
+J Leike,180.0,"['On the computability of AIXI', 'On the computability of Solomonoff induction and AIXI', 'Universal reinforcement learning algorithms: Survey and experiments', 'Nonparametric general reinforcement learning', 'On the Optimality of General Reinforcement Learners', 'Bad universal priors and notions of optimality', 'On the computability of AIXI', 'On the computability of Solomonoff induction and AIXI', 'Bad universal priors and notions of optimality']"
+T Hester,178.0,['Texplore: real-time sample-efficient reinforcement learning for robots']
+P Stone,178.0,['Texplore: real-time sample-efficient reinforcement learning for robots']
+D Litman,177.0,['Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies']
+P Jordan,177.0,['Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies']
+K VanLehn,177.0,['Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies']
+M Chi,177.0,['Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies']
+W Huang,175.0,['Deep reinforcement learning for resource protection and real-time detection in IoT environment']
+J Long,175.0,['Deep reinforcement learning for resource protection and real-time detection in IoT environment']
+W Liang,175.0,['Deep reinforcement learning for resource protection and real-time detection in IoT environment']
+CA Desoer,163.0,['Slowly varying discrete system xi+ 1= Aixi']
+Z Li,161.0,"['Rule-aware reinforcement learning for knowledge graph reasoning', 'Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method', 'Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning', 'ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings', 'Opponent portrait for multiagent reinforcement learning in competitive environment', 'A deep reinforcement learning method for mobile robot collision avoidance based on double dqn', 'Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning']"
+J Tan,158.0,['Stabilizing reinforcement learning in dynamic environment with application to online recommendation']
+HK Huang,158.0,['Stabilizing reinforcement learning in dynamic environment with application to online recommendation']
+Y Yu,158.0,['Stabilizing reinforcement learning in dynamic environment with application to online recommendation']
+SY Chen,158.0,['Stabilizing reinforcement learning in dynamic environment with application to online recommendation']
+Q Da,158.0,['Stabilizing reinforcement learning in dynamic environment with application to online recommendation']
+S Zhou,156.0,['Interactive recommender system via knowledge graph-enhanced reinforcement learning']
+H Chen,156.0,['Interactive recommender system via knowledge graph-enhanced reinforcement learning']
+X Dai,156.0,['Interactive recommender system via knowledge graph-enhanced reinforcement learning']
+W Zhang,156.0,['Interactive recommender system via knowledge graph-enhanced reinforcement learning']
+K Ren,156.0,['Interactive recommender system via knowledge graph-enhanced reinforcement learning']
+L Juntao,155.0,['Multi‐robot path planning based on a deep reinforcement learning DQN algorithm']
+P Lingling,155.0,['Multi‐robot path planning based on a deep reinforcement learning DQN algorithm']
+Y Yang,155.0,"['Multi‐robot path planning based on a deep reinforcement learning DQN algorithm', 'Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach']"
+M Armstrong,144.0,['Safely interruptible agents']
+R Ye,143.0,['3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds']
+L Zhang,143.0,['3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds']
+L Belzner,139.0,['Deep reinforcement learning for semiconductor production scheduling']
+A Reichstaller,139.0,['Deep reinforcement learning for semiconductor production scheduling']
+B Waschneck,139.0,['Deep reinforcement learning for semiconductor production scheduling']
+A Stooke,138.0,['Accelerated methods for deep reinforcement learning']
+P Abbeel,138.0,['Accelerated methods for deep reinforcement learning']
+M Ring,137.0,"['Delusion, survival, and intelligent agents', 'Self-modification and mortality in artificial agents']"
+P Sunehag,136.0,"['Q-learning for history-based reinforcement learning', 'Optimistic AIXI', 'Feature reinforcement learning in practice', 'Feature reinforcement learning: state of the art', 'Rationality, optimism and guarantees in general reinforcement learning', 'Context tree maximizing', 'Using Localization and Factorization to Reduce the Complexity of Reinforcement Learning', 'On ensemble techniques for AIXI approximation', 'Principles of Solomonoff induction and AIXI', 'Optimistic AIXI', 'On ensemble techniques for AIXI approximation']"
+C Li,127.0,"['Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach', 'Towards robust knowledge graph embedding via multi-task reinforcement learning']"
+Y Ma,122.0,"['Timetraveler: Reinforcement learning for temporal knowledge graph forecasting', 'Opponent portrait for multiagent reinforcement learning in competitive environment']"
+SZ Niu,121.0,['KERL: A knowledge-guided reinforcement learning model for sequential recommendation']
+Y Fan,121.0,['KERL: A knowledge-guided reinforcement learning model for sequential recommendation']
+WX Zhao,121.0,['KERL: A knowledge-guided reinforcement learning model for sequential recommendation']
+B Liu,121.0,['Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach']
+P Zheng,121.0,['Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach']
+J Chen,121.0,"['Recurrent reinforcement learning: a hybrid approach', 'ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']"
+M Hausknecht,109.0,['Graph constrained reinforcement learning for natural language action spaces']
+H Zhu,108.0,"['Explainable knowledge graph-based recommendation via deep reinforcement learning', 'DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning', 'Towards robust knowledge graph embedding via multi-task reinforcement learning']"
+X Ruan,108.0,['Mobile robot navigation based on deep reinforcement learning']
+X Zhu,108.0,['Mobile robot navigation based on deep reinforcement learning']
+D Ren,108.0,['Mobile robot navigation based on deep reinforcement learning']
+J Huang,108.0,"['Mobile robot navigation based on deep reinforcement learning', 'Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']"
+X He,107.0,"['Recurrent reinforcement learning: a hybrid approach', 'Deep reinforcement learning for greenhouse climate control']"
+K He,103.0,['Timetraveler: Reinforcement learning for temporal knowledge graph forecasting']
+Z Han,103.0,['Timetraveler: Reinforcement learning for temporal knowledge graph forecasting']
+J Zhong,103.0,['Timetraveler: Reinforcement learning for temporal knowledge graph forecasting']
+H Sun,103.0,['Timetraveler: Reinforcement learning for temporal knowledge graph forecasting']
+Y Hao,101.0,"['GRL: Knowledge graph completion with GAN-based reinforcement learning', 'ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning']"
+J Cao,101.0,"['GRL: Knowledge graph completion with GAN-based reinforcement learning', 'ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning']"
+S Mannor,101.0,['Bayesian reinforcement learning']
+N Vlassis,101.0,['Bayesian reinforcement learning']
+M Ghavamzadeh,101.0,['Bayesian reinforcement learning']
+X Wang,98.0,"['Knowledge-guided deep reinforcement learning for interactive recommendation', 'A reinforcement learning approach to irrigation decision-making for rice using weather forecasts']"
+H Wang,95.0,"['Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning', 'DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection', 'Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker']"
+B Ster,92.0,['On monte carlo tree search and reinforcement learning']
+S Samothrakis,92.0,['On monte carlo tree search and reinforcement learning']
+T Vodopivec,92.0,['On monte carlo tree search and reinforcement learning']
+M Turchetta,90.0,['Safe reinforcement learning via curriculum induction']
+A Kolobov,90.0,['Safe reinforcement learning via curriculum induction']
+S Shah,90.0,"['Safe reinforcement learning via curriculum induction', 'A Fourier AIXI Approximation (Universal AI)']"
+R Beuran,90.0,['Automated penetration testing using deep reinforcement learning']
+Z Hu,90.0,['Automated penetration testing using deep reinforcement learning']
+Y Tan,90.0,['Automated penetration testing using deep reinforcement learning']
+E Talvitie,90.0,['Self-correcting models for model-based reinforcement learning']
+C Gong,87.0,['Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning']
+G Wan,87.0,['Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning']
+S Pan,87.0,['Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning']
+S Jagannathan,86.0,['Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration']
+V Narayanan,86.0,['Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration']
+L Deng,84.0,['Recurrent reinforcement learning: a hybrid approach']
+J He,84.0,['Recurrent reinforcement learning: a hybrid approach']
+L Li,84.0,['Recurrent reinforcement learning: a hybrid approach']
+J Gao,84.0,['Recurrent reinforcement learning: a hybrid approach']
+J Han,83.0,"['End-to-end reinforcement learning for automatic taxonomy induction', 'Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering', 'Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning']"
+MA Wiering,82.0,['Reinforcement learning algorithms for solving classification problems']
+H Xie,80.0,"['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0', 'A reinforcement learning approach to irrigation decision-making for rice using weather forecasts']"
+R Arakawa,79.0,['Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback']
+S Kobayashi,79.0,['Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback']
+Y Unno,79.0,['Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback']
+Y Tsuboi,79.0,['Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback']
+F Doshi-Velez,77.0,['Bayesian nonparametric methods for partially-observable reinforcement learning']
+F Wood,77.0,['Bayesian nonparametric methods for partially-observable reinforcement learning']
+F Doshi,77.0,['Bayesian nonparametric methods for partially-observable reinforcement learning']
+D Pfau,77.0,['Bayesian nonparametric methods for partially-observable reinforcement learning']
+MS Ausin,75.0,"['Hierarchical reinforcement learning for pedagogical policy induction', 'Leveraging deep reinforcement learning for pedagogical policy induction in an intelligent tutoring system']"
+D Dewey,74.0,['Learning what to value']
+L Jiang,72.0,['Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams']
+K Liu,72.0,['Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams']
+Y Fu,72.0,['Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams']
+D Furelos,69.0,"['Induction and exploitation of subgoal automata for reinforcement learning', 'Induction of subgoal automata for reinforcement learning']"
+M Law,69.0,"['Induction and exploitation of subgoal automata for reinforcement learning', 'Induction of subgoal automata for reinforcement learning']"
+D Furelos-Blanco,69.0,"['Induction and exploitation of subgoal automata for reinforcement learning', 'Induction of subgoal automata for reinforcement learning']"
+Y Cui,69.0,"['A reinforcement learning approach to irrigation decision-making for rice using weather forecasts', 'Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network']"
+Y Wang,67.0,"['Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method', 'ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']"
+RS Sutton,67.0,['Understanding multi-step deep reinforcement learning: A systematic study of the DQN target']
+JF Hernandez,67.0,['Understanding multi-step deep reinforcement learning: A systematic study of the DQN target']
+JF Hernandez-Garcia,67.0,['Understanding multi-step deep reinforcement learning: A systematic study of the DQN target']
+G Zhou,66.0,"['Hierarchical reinforcement learning for pedagogical policy induction', 'Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning', 'Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning']"
+Y Song,66.0,['Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning']
+S Zuo,66.0,['Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning']
+FL Lewis,66.0,['Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning']
+J Luo,61.0,"['Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning', 'Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning', 'ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']"
+M Chen,61.0,"['Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning', 'A reinforcement learning approach to irrigation decision-making for rice using weather forecasts']"
+T Luo,61.0,['A reinforcement learning approach to irrigation decision-making for rice using weather forecasts']
+GX Gu,60.0,['Deep reinforcement learning for digital materials design']
+R Guo,60.0,['Deep reinforcement learning for digital materials design']
+L Lin,60.0,['Deep reinforcement learning for digital materials design']
+F Sui,60.0,['Deep reinforcement learning for digital materials design']
+S Legg,60.0,['An approximation of the universal intelligence measure']
+H Sheng,60.0,"['Tribological properties and hydrolysis stability study of benzothiazole borate derivative', 'Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate', 'Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+X Liping,60.0,"['Tribological properties and hydrolysis stability study of benzothiazole borate derivative', 'Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate', 'Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+C Aixi,60.0,"['Tribological properties and hydrolysis stability study of benzothiazole borate derivative', 'Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate', 'Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+H Guo,59.0,['Generating text with deep reinforcement learning']
+P Nguyen,58.0,"['Feature reinforcement learning in practice', 'Context tree maximizing', 'Optimal regret bounds for selecting the state representation in reinforcement learning']"
+,58.0,"['Tribological properties and hydrolysis stability study of benzothiazole borate derivative', 'Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation']"
+R Pan,57.0,['Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning']
+M Mao,57.0,['Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning']
+J Shen,56.0,['End-to-end reinforcement learning for automatic taxonomy induction']
+X Ren,56.0,['End-to-end reinforcement learning for automatic taxonomy induction']
+X Gu,56.0,['End-to-end reinforcement learning for automatic taxonomy induction']
+Y Mao,56.0,['End-to-end reinforcement learning for automatic taxonomy induction']
+D Zhang,56.0,"['A deep reinforcement learning method for mobile robot collision avoidance based on double dqn', 'Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network']"
+X Chen,55.0,"['Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning', 'Knowledge-guided deep reinforcement learning for interactive recommendation']"
+H Ma,54.0,"['Multi-modal knowledge-aware reinforcement learning network for explainable recommendation', 'Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm']"
+Y Aixi,54.0,"['Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro', 'The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells', 'Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults', 'An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform']"
+HM Pandey,53.0,['DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning']
+P Tiwari,53.0,['DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning']
+FL Da Silva,53.0,['Towards knowledge transfer in deep reinforcement learning']
+AHR Costa,53.0,['Towards knowledge transfer in deep reinforcement learning']
+R Glatt,53.0,['Towards knowledge transfer in deep reinforcement learning']
+W Yu,53.0,"['Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker', 'The separation of catechol from carbofuran phenol by extractive distillation']"
+D Kudenko,52.0,['Deep multi-agent reinforcement learning with relevance graphs']
+A Malysheva,52.0,['Deep multi-agent reinforcement learning with relevance graphs']
+CB Sohn,52.0,['Deep multi-agent reinforcement learning with relevance graphs']
+TT Sung,52.0,['Deep multi-agent reinforcement learning with relevance graphs']
+X Jin,51.0,"['Rule-aware reinforcement learning for knowledge graph reasoning', 'Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method']"
+W Song,49.0,['Explainable knowledge graph-based recommendation via deep reinforcement learning']
+Z Duan,49.0,['Explainable knowledge graph-based recommendation via deep reinforcement learning']
+Y Yan,48.0,['A deep reinforcement learning method for mobile robot collision avoidance based on double dqn']
+X Xue,48.0,['A deep reinforcement learning method for mobile robot collision avoidance based on double dqn']
+DL Dowe,48.0,['Evaluating a reinforcement learning algorithm with a general intelligence test']
+J Insa,48.0,['Evaluating a reinforcement learning algorithm with a general intelligence test']
+L Lei,48.0,"['Deep reinforcement learning aided platoon control relying on V2X information', 'Autonomous platoon control with integrated deep reinforcement learning and dynamic programming']"
+T Liu,48.0,"['Deep reinforcement learning aided platoon control relying on V2X information', 'Autonomous platoon control with integrated deep reinforcement learning and dynamic programming']"
+K Zheng,48.0,"['Deep reinforcement learning aided platoon control relying on V2X information', 'Autonomous platoon control with integrated deep reinforcement learning and dynamic programming']"
+HU Aixi,48.0,"['Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation', 'The separation of catechol from carbofuran phenol by extractive distillation']"
+Y Ji,47.0,['GRL: Knowledge graph completion with GAN-based reinforcement learning']
+T Everitt,47.0,"['Death and suicide in universal artificial intelligence', 'Towards safe artificial general intelligence']"
+G Mai,44.0,['A spatially explicit reinforcement learning model for geographic knowledge graph summarization']
+K Janowicz,44.0,['A spatially explicit reinforcement learning model for geographic knowledge graph summarization']
+B Yan,44.0,['A spatially explicit reinforcement learning model for geographic knowledge graph summarization']
+R Zhu,44.0,['A spatially explicit reinforcement learning model for geographic knowledge graph summarization']
+R Qiu,44.0,['Multi-modal knowledge-aware reinforcement learning network for explainable recommendation']
+S Tao,44.0,['Multi-modal knowledge-aware reinforcement learning network for explainable recommendation']
+Y Ping,44.0,['Multi-modal knowledge-aware reinforcement learning network for explainable recommendation']
+Q Liang,43.0,"['Tribological properties and hydrolysis stability study of benzothiazole borate derivative', 'Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+H Azizsoltani,42.0,['Hierarchical reinforcement learning for pedagogical policy induction']
+T Barnes,42.0,['Hierarchical reinforcement learning for pedagogical policy induction']
+M Daswani,41.0,"['Q-learning for history-based reinforcement learning', 'Feature reinforcement learning: state of the art', 'Generic Reinforcement Learning Beyond Small MDPs']"
+B Hibbard,39.0,['Bias and no free lunch in formal measures of intelligence']
+Y Lu,38.0,"['Causal Reinforcement Learning for Knowledge Graph Reasoning', 'ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']"
+L Yao,37.0,['Knowledge-guided deep reinforcement learning for interactive recommendation']
+C Huang,37.0,"['Knowledge-guided deep reinforcement learning for interactive recommendation', 'Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning']"
+Z Ding,37.0,['ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']
+Q Fu,37.0,['ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings']
+T Peng,35.0,"['Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering', 'Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning', 'Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']"
+L Liu,35.0,"['Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering', 'Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning', 'Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']"
+R Han,35.0,"['Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering', 'Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning', 'Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']"
+H Cui,35.0,"['Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering', 'Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning', 'Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']"
+A Jonsson,35.0,"['Induction and exploitation of subgoal automata for reinforcement learning', 'Provably Efficient Offline Reinforcement Learning in Regular Decision Processes']"
+P Dai,35.0,['Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker']
+G Wen,35.0,['Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker']
+S Ak,34.0,['Avoiding jammers: A reinforcement learning approach']
+S Brüggenwirth,34.0,['Avoiding jammers: A reinforcement learning approach']
+A Russo,34.0,['Induction of subgoal automata for reinforcement learning']
+M Egorov,32.0,['Deep reinforcement learning with pomdps']
+H Zhongyi,32.0,"['Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate', 'Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+J Aslanides,31.0,"['AIXIjs: A software demo for general reinforcement learning', 'Universal reinforcement learning algorithms: Survey and experiments']"
+CF Hayes,31.0,"['Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning', 'Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning']"
+DM Roijers,31.0,"['Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning', 'Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning']"
+M Reymond,31.0,"['Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning', 'Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning']"
+OA Maillard,31.0,['Optimal regret bounds for selecting the state representation in reinforcement learning']
+R Ortner,31.0,['Optimal regret bounds for selecting the state representation in reinforcement learning']
+L Bai,30.0,"['Rule-aware reinforcement learning for knowledge graph reasoning', 'RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism', 'Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning']"
+S Guan,30.0,['Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method']
+W Furong,30.0,['Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation']
+LÜ Yangxiao,30.0,['Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation']
+S Hongbing,30.0,['Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation']
+C Chen,29.0,"['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0', 'Internal Logical Induction for Pixel-Symbolic Reinforcement Learning', 'Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning', 'Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning']"
+L Hanzo,28.0,['Deep reinforcement learning aided platoon control relying on V2X information']
+T Wang,27.0,"['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0', 'A Direct Approximation of AIXI Using Logical State Abstractions', 'A Direct Approximation of AIXI Using Logical State Abstractions']"
+J Zhang,26.0,"['Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis', 'Teamwork Reinforcement Learning With Concave Utilities', 'The separation of catechol from carbofuran phenol by extractive distillation']"
+S Zheng,24.0,"['Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning', 'An edge server placement method based on reinforcement learning']"
+M Lan,24.0,"['Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning', 'Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning']"
+Y Xia,24.0,"['Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning', 'Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning']"
+W Fei,24.0,['The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells']
+P Zhengren,24.0,['The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells']
+X Danmou,24.0,['The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells']
+K Wusheng,24.0,['The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells']
+F Xiao,23.0,['Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering']
+L Wang,23.0,['Deep reinforcement learning for greenhouse climate control']
+D Luo,23.0,['Deep reinforcement learning for greenhouse climate control']
+Z Hou,21.0,['Rule-aware reinforcement learning for knowledge graph reasoning']
+A Aboussalah,21.0,['A deep reinforcement learning framework for column generation']
+E Khalil,21.0,['A deep reinforcement learning framework for column generation']
+J Wang,21.0,['A deep reinforcement learning framework for column generation']
+C Chi,21.0,['A deep reinforcement learning framework for column generation']
+Q Baiwen,21.0,['Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro']
+Z Jin,21.0,['Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro']
+L Zonghuan,21.0,['Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro']
+SH Huang,20.0,['Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning']
+ZW Wu,20.0,['Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning']
+CT Chen,20.0,['Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning']
+J Deng,19.0,['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0']
+Y Zheng,19.0,['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0']
+Y Liu,19.0,['Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0']
+M Shen,19.0,['Opponent portrait for multiagent reinforcement learning in competitive environment']
+X Tong,19.0,['Opponent portrait for multiagent reinforcement learning in competitive environment']
+Y Zhao,19.0,['Opponent portrait for multiagent reinforcement learning in competitive environment']
+X Xuhui,18.0,['The separation of catechol from carbofuran phenol by extractive distillation']
+GUO Jiabin,18.0,['The separation of catechol from carbofuran phenol by extractive distillation']
+M Nie,17.0,['Reinforcement learning on graphs: A survey']
+D Chen,17.0,['Reinforcement learning on graphs: A survey']
+D Wang,17.0,['Reinforcement learning on graphs: A survey']
+W Liu,17.0,['Deep reinforcement learning for wireless scheduling in distributed networked control']
+K Huang,17.0,['Deep reinforcement learning for wireless scheduling in distributed networked control']
+B Vucetic,17.0,['Deep reinforcement learning for wireless scheduling in distributed networked control']
+DE Quevedo,17.0,['Deep reinforcement learning for wireless scheduling in distributed networked control']
+J Sun,17.0,"['An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks', 'Deep reinforcement learning for optimal denial-of-service attacks scheduling']"
+Q Jianwei,17.0,['Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate']
+SH Lee,16.0,['Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation']
+K Farkhodov,16.0,['Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation']
+JH Park,16.0,['Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation']
+KR Kwon,16.0,['Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation']
+E Ben,16.0,['Deep reinforcement learning with modulated hebbian plus Q-network architecture']
+P Ladosz,16.0,['Deep reinforcement learning with modulated hebbian plus Q-network architecture']
+J Dick,16.0,['Deep reinforcement learning with modulated hebbian plus Q-network architecture']
+N Ketz,16.0,['Deep reinforcement learning with modulated hebbian plus Q-network architecture']
+W Ding,15.0,['An edge server placement method based on reinforcement learning']
+J Fuentes,15.0,['An edge server placement method based on reinforcement learning']
+F Luo,15.0,['An edge server placement method based on reinforcement learning']
+J Martin,15.0,['Death and suicide in universal artificial intelligence']
+R Lieck,15.0,['Temporally extended features in model-based reinforcement learning with partial observability']
+M Toussaint,15.0,['Temporally extended features in model-based reinforcement learning with partial observability']
+A Critch,15.0,['Toward negotiable reinforcement learning: shifting priorities in Pareto optimal sequential decision-making']
+M Lin,15.0,"['Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative']"
+T Ogawa,14.0,"['Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features', 'Controllable music playlist generation based on knowledge graph and reinforcement learning']"
+K Sakurai,14.0,"['Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features', 'Controllable music playlist generation based on knowledge graph and reinforcement learning']"
+R Togo,14.0,"['Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features', 'Controllable music playlist generation based on knowledge graph and reinforcement learning']"
+A Ramesh,13.0,['The benefits of model-based generalization in reinforcement learning']
+K Young,13.0,['The benefits of model-based generalization in reinforcement learning']
+L Kirsch,13.0,['The benefits of model-based generalization in reinforcement learning']
+Q Yang,13.0,['Deep reinforcement learning for optimal denial-of-service attacks scheduling']
+Z Pang,13.0,['Deep reinforcement learning for optimal denial-of-service attacks scheduling']
+F Hou,13.0,['Deep reinforcement learning for optimal denial-of-service attacks scheduling']
+JA Mumith,12.0,['Design and optimization of a thermoacoustic heat engine using reinforcement learning']
+T Karayiannis,12.0,['Design and optimization of a thermoacoustic heat engine using reinforcement learning']
+W Lin,12.0,['Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning']
+W Zhao,12.0,['Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning']
+A Zakharenkov,11.0,['Deep reinforcement learning with dqn vs. ppo in vizdoom']
+I Makarov,11.0,['Deep reinforcement learning with dqn vs. ppo in vizdoom']
+GP Licks,11.0,['Markov abstractions for PAC reinforcement learning in non-markov decision processes']
+G De Giacomo,11.0,['Markov abstractions for PAC reinforcement learning in non-markov decision processes']
+A Ronca,11.0,"['Markov abstractions for PAC reinforcement learning in non-markov decision processes', 'Provably Efficient Offline Reinforcement Learning in Regular Decision Processes']"
+S Pankov,11.0,['A computational approximation to the AIXI model']
+S Yang,10.0,"['Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions', 'Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions']"
+S Yang-Zhao,10.0,"['Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions', 'Dynamic Knowledge Injection for AIXI Agents', 'A Direct Approximation of AIXI Using Logical State Abstractions']"
+W Cao,10.0,['Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning']
+X Yang,10.0,['Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning']
+J Yan,10.0,['Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning']
+Q Zhou,10.0,['Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm']
+A Luo,10.0,['Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm']
+H Yin,9.0,['Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning']
+T Chen,9.0,['Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning']
+QVH Nguyen,9.0,['Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning']
+D Chai,9.0,['RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism']
+L Zhu,9.0,['RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism']
+Y Guo,9.0,['Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults']
+P Zhenyu,9.0,['Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults']
+B Zhu,8.0,['Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']
+H Bi,8.0,['Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph']
+Y Jia,8.0,['Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis']
+Z Tan,8.0,['Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis']
+C Amato,8.0,['Asymmetric DQN for partially observable reinforcement learning']
+B Daley,8.0,['Asymmetric DQN for partially observable reinforcement learning']
+A Baisero,8.0,['Asymmetric DQN for partially observable reinforcement learning']
+A Zhu,8.0,['Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network']
+G Franzè,8.0,"['Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control', 'Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach']"
+F Giannini,8.0,"['Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control', 'Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach']"
+AB Altuner,7.0,['A novel deep reinforcement learning based stock direction prediction using knowledge graph and community aware sentiments']
+ZH Kilimci,7.0,['A novel deep reinforcement learning based stock direction prediction using knowledge graph and community aware sentiments']
+S Katayama,7.0,"['Ideas for a reinforcement learning algorithm that learns programs', 'Computable Variants of AIXI which are More Powerful than AIXI']"
+G Fortino,7.0,['Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control']
+Q Li,7.0,['Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs']
+R Song,7.0,['Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs']
+J Liu,6.0,"['A Systematic Literature Review of reinforcement learning-based knowledge graph research', 'Reinforcement learning-based knowledge graph reasoning for aluminum alloy applications']"
+S Liu,6.0,"['Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning', 'The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise']"
+F Zhuang,6.0,['Towards robust knowledge graph embedding via multi-task reinforcement learning']
+S Volodin,6.0,['Causeoccam: Learning interpretable abstract representations in reinforcement learning environments via model sparsity']
+EME Mhamdi,6.0,['Virtuously safe reinforcement learning']
+R Guerraoui,6.0,['Virtuously safe reinforcement learning']
+H Aslund,6.0,"['Virtuously safe reinforcement learning', 'Virtuously Safe Reinforcement Learning (Master Thesis version)']"
+M Haseyama,5.0,['Controllable music playlist generation based on knowledge graph and reinforcement learning']
+Z Al,5.0,['QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography']
+Z Al-Ars,5.0,['QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography']
+A Sarkar,5.0,['QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography']
+K Bertels,5.0,['QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography']
+H Gandhi,5.0,['QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography']
+E Congeduti,5.0,['Influence-based abstraction in deep reinforcement learning']
+RA Starre,5.0,['Influence-based abstraction in deep reinforcement learning']
+MS de Castro,5.0,['Influence-based abstraction in deep reinforcement learning']
+A Safron,4.0,"['AIXI, FEP-AI, and integrated world models: Towards a unified understanding of intelligence and consciousness', 'AIXI, FEP-AI, and integrated world models: Towards a unified understanding of intelligence and consciousness']"
+M Gendron-Bellemare,4.0,"['Fast, Scalable Algorithms for Reinforcement Learning in High Dimensional Domains']"
+M Gendron,4.0,"['Fast, Scalable Algorithms for Reinforcement Learning in High Dimensional Domains']"
+G Qi,4.0,['An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks']
+Z Zhu,4.0,['An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks']
+Y Chai,4.0,['An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks']
+G Jing,4.0,['Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent']
+J George,4.0,['Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent']
+H Bai,4.0,['Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent']
+A Chakrabortty,4.0,['Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent']
+L Qi,4.0,['Ecological landscape design of urban wetland park: a case study of the Aixi Lake Wetland Park in Nanchang City']
+L Wenjing,4.0,['Ecological landscape design of urban wetland park: a case study of the Aixi Lake Wetland Park in Nanchang City']
+Z Tang,3.0,['A Systematic Literature Review of reinforcement learning-based knowledge graph research']
+D Wu,3.0,['A Systematic Literature Review of reinforcement learning-based knowledge graph research']
+T Li,3.0,['A Systematic Literature Review of reinforcement learning-based knowledge graph research']
+Q Qian,3.0,['Reinforcement learning-based knowledge graph reasoning for aluminum alloy applications']
+Y Zhang,3.0,['DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection']
+W Shen,3.0,['DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection']
+E Brunskill,3.0,['Value driven representation for human-in-the-loop reinforcement learning']
+R Keramati,3.0,['Value driven representation for human-in-the-loop reinforcement learning']
+MT Bennett,3.0,"['Enactivism & Objectively Optimal Super-Intelligence', 'Is Complexity an Illusion?']"
+F Peng,3.0,['Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning']
+H Modares,3.0,"['Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning', 'Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach']"
+B Kiumarsi,3.0,['Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning']
+Y Zihui,3.0,['Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran']
+L Wan,3.0,['Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran']
+Y Jiao,3.0,['Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran']
+O Xiaoming,3.0,['Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran']
+H Aixi,3.0,['Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran']
+B Fallenstein,3.0,['Reflective variants of Solomonoff induction and AIXI']
+N Soares,3.0,['Reflective variants of Solomonoff induction and AIXI']
+J Taylor,3.0,['Reflective variants of Solomonoff induction and AIXI']
+G Nikopensius,2.0,['Reinforcement learning-based knowledge graph reasoning for explainable fact-checking']
+M Mayank,2.0,['Reinforcement learning-based knowledge graph reasoning for explainable fact-checking']
+OC Phukan,2.0,['Reinforcement learning-based knowledge graph reasoning for explainable fact-checking']
+C Jiang,2.0,['Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning']
+C Liu,2.0,['Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning']
+T Zhu,2.0,['Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning']
+H Zhou,2.0,['Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning']
+T Deng,2.0,['Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning']
+E Catt,2.0,"['Self-Predictive Universal AI', 'An Introduction to Universal Artificial Intelligence', 'Quantum Algorithms for Universal Prediction', 'On Reward Binarisation and Bayesian Agents']"
+S Sarkar,2.0,['Categorizing Wireheading in Partially Embedded Agents']
+A Majha,2.0,['Categorizing Wireheading in Partially Embedded Agents']
+D Zagami,2.0,"['Categorizing Wireheading in Partially Embedded Agents', 'AIXI Responses to Newcomblike Problems']"
+E Özkural,2.0,"['Measures of Intelligence, Perception and Intelligent Agents']"
+D Li,1.0,['Causal Reinforcement Learning for Knowledge Graph Reasoning']
+J Wu,1.0,['Causal Reinforcement Learning for Knowledge Graph Reasoning']
+W Zhou,1.0,['Causal Reinforcement Learning for Knowledge Graph Reasoning']
+G Zeng,1.0,['Causal Reinforcement Learning for Knowledge Graph Reasoning']
+Q Sun,1.0,['Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs']
+Z Gao,1.0,['Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs']
+B Guan,1.0,['Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs']
+N Quach,1.0,['Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs']
+D Quarel,1.0,['An Introduction to Universal Artificial Intelligence']
+W Wu,1.0,['Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning']
+B Wu,1.0,['Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning']
+L D'Alfonso,1.0,['Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach']
+Z Aixi,1.0,['Study on creation of artistic conception in modern clothing design.']
+GUO Fengqiu,1.0,['Study on creation of artistic conception in modern clothing design.']
+J Xu,0,['Internal Logical Induction for Pixel-Symbolic Reinforcement Learning']
+L Yuan,0,['Internal Logical Induction for Pixel-Symbolic Reinforcement Learning']
+F Zhang,0,['Internal Logical Induction for Pixel-Symbolic Reinforcement Learning']
+Q Xiao,0,['Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning']
+J Grau,0,['Self-Predictive Universal AI']
+J Grau-Moya,0,['Self-Predictive Universal AI']
+D Johnston,0,['Non-Markovian State Aggregation for Reinforcement Learning']
+C Maze,0,['Context Tree Maximizing Reinforcement Learning']
+D Bossens,0,['Reinforcement learning with limited prior knowledge in long-term environments']
+K Xie,0,['Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning']
+R Cipollone,0,['Provably Efficient Offline Reinforcement Learning in Regular Decision Processes']
+MK Cohen,0,['Algorithm for Aligned Artificial General Intelligence']
+B Vellambi,0,['Algorithm for Aligned Artificial General Intelligence']
+T Lattimore,0,['Optimal Universal Explorative Agents']
+A Tacchetti,0,['Teamwork Reinforcement Learning With Concave Utilities']
+Z Yu,0,['Teamwork Reinforcement Learning With Concave Utilities']
+Z Wen,0,['Teamwork Reinforcement Learning With Concave Utilities']
+N Lin,0,['Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']
+Y Guan,0,['Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']
+A Hawbani,0,['Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']
+L Zhao,0,['Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']
+H Tang,0,['Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks']
+D Newth,0,['An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management']
+R Omari,0,['An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management']
+M Böhm,0,['An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management']
+S Zhang,0,['The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise']
+S Chen,0,['The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise']
+M Mazouchi,0,['Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach']
+T Matricon,0,['Theoretical foundations for programmatic reinforcement learning']
+G Shabadi,0,['Theoretical foundations for programmatic reinforcement learning']
+N Fijalkow,0,['Theoretical foundations for programmatic reinforcement learning']
+L Guodong,0,['An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform']
+X Zhiyu,0,['An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform']
+L Weiguo,0,['An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform']
+Y Yue,0,['Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019']
+YU Aixi,0,['Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019']
+X Wenxia,0,['Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019']
+SUN Zhibo,0,['Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019']
+Z Minghao,0,"[""How does Social Capital Improve Farmers' Credit?——Based on Empirical Study on Network, Trust and Standardization""]"
+C Jingping,0,"[""How does Social Capital Improve Farmers' Credit?——Based on Empirical Study on Network, Trust and Standardization""]"
+LI Aixi,0,"[""How does Social Capital Improve Farmers' Credit?——Based on Empirical Study on Network, Trust and Standardization""]"
+W Xiaoduo,0,"['Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin']"
+Z Yaxiong,0,"['Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin']"
+C Zhijun,0,"['Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin']"
+GAO Yiwen,0,"['Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin']"
+CK Chen Kui,0,['Study on application of biogas slurry in cyclic utilization of sugarcane leaves.']
+SAX Shen AiXi,0,['Study on application of biogas slurry in cyclic utilization of sugarcane leaves.']
+CLM Chen LiuMeng,0,['Study on application of biogas slurry in cyclic utilization of sugarcane leaves.']
+F Xiongying,0,['Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property']
+Y Shiying,0,['Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property']
+L Xiaochang,0,['Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property']
+Z Fakhraaia,0,"['… of a Homologous Series of Molecular Glassformers Sarah E. Wolf, Tianyi Liu, Shivajee Govind, Haoqiang Zhao, Georgia Huang, Aixi Zhang, Yu Wu …']"

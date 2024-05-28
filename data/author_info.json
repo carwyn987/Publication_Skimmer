@@ -1,0 +1,3798 @@
+{
+    "1": {
+        "author": "H Van Hasselt",
+        "citations": 11553.0,
+        "titles": [
+            "Deep reinforcement learning with double q-learning",
+            "Rainbow: Combining improvements in deep reinforcement learning",
+            "Reinforcement learning algorithms for solving classification problems"
+        ]
+    },
+    "2": {
+        "author": "D Silver",
+        "citations": 9481.0,
+        "titles": [
+            "Deep reinforcement learning with double q-learning",
+            "Reinforcement learning via AIXI approximation",
+            "Reinforcement learning",
+            "Reinforcement learning via AIXI approximation",
+            "A monte-carlo aixi approximation",
+            "A monte-carlo aixi approximation",
+            "Reinforcement learning via AIXI approximation"
+        ]
+    },
+    "3": {
+        "author": "A Guez",
+        "citations": 8926.0,
+        "titles": [
+            "Deep reinforcement learning with double q-learning"
+        ]
+    },
+    "4": {
+        "author": "J Modayil",
+        "citations": 2545.0,
+        "titles": [
+            "Rainbow: Combining improvements in deep reinforcement learning"
+        ]
+    },
+    "5": {
+        "author": "T Schaul",
+        "citations": 2545.0,
+        "titles": [
+            "Rainbow: Combining improvements in deep reinforcement learning"
+        ]
+    },
+    "6": {
+        "author": "M Hessel",
+        "citations": 2545.0,
+        "titles": [
+            "Rainbow: Combining improvements in deep reinforcement learning"
+        ]
+    },
+    "7": {
+        "author": "Y Li",
+        "citations": 1761.0,
+        "titles": [
+            "Deep reinforcement learning: An overview",
+            "An edge server placement method based on reinforcement learning",
+            "Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network"
+        ]
+    },
+    "8": {
+        "author": "S Elfwing",
+        "citations": 1271.0,
+        "titles": [
+            "Sigmoid-weighted linear units for neural network function approximation in reinforcement learning"
+        ]
+    },
+    "9": {
+        "author": "E Uchibe",
+        "citations": 1271.0,
+        "titles": [
+            "Sigmoid-weighted linear units for neural network function approximation in reinforcement learning"
+        ]
+    },
+    "10": {
+        "author": "K Doya",
+        "citations": 1271.0,
+        "titles": [
+            "Sigmoid-weighted linear units for neural network function approximation in reinforcement learning"
+        ]
+    },
+    "11": {
+        "author": "M Hutter",
+        "citations": 1155.0,
+        "titles": [
+            "Reinforcement learning via AIXI approximation",
+            "Reinforcement learning via AIXI approximation",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A monte-carlo aixi approximation",
+            "A gentle introduction to the universal algorithmic agent AIXI",
+            "On the computability of AIXI",
+            "Self-Predictive Universal AI",
+            "Optimistic AIXI",
+            "On the computability of Solomonoff induction and AIXI",
+            "Universal reinforcement learning algorithms: Survey and experiments",
+            "Feature reinforcement learning in practice",
+            "Feature reinforcement learning: state of the art",
+            "Feature reinforcement learning: Part I. unstructured MDPs",
+            "Rationality, optimism and guarantees in general reinforcement learning",
+            "On the Optimality of General Reinforcement Learners",
+            "Context tree maximizing",
+            "Using Localization and Factorization to Reduce the Complexity of Reinforcement Learning",
+            "An Introduction to Universal Artificial Intelligence",
+            "Bad universal priors and notions of optimality",
+            "On ensemble techniques for AIXI approximation",
+            "On Reward Binarisation and Bayesian Agents",
+            "Death and suicide in universal artificial intelligence",
+            "Algorithm for Aligned Artificial General Intelligence",
+            "Optimal Universal Explorative Agents",
+            "Feature Reinforcement Learning: Part II. Structured MDPs",
+            "A monte-carlo aixi approximation",
+            "A gentle introduction to the universal algorithmic agent AIXI",
+            "Reinforcement learning via AIXI approximation",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "On the computability of AIXI",
+            "Principles of Solomonoff induction and AIXI",
+            "On the computability of Solomonoff induction and AIXI",
+            "Optimistic AIXI",
+            "On ensemble techniques for AIXI approximation",
+            "Universal algorithmic intelligence: A mathematical top\u2192 down approach",
+            "A theory of universal artificial intelligence based on algorithmic complexity",
+            "Bad universal priors and notions of optimality"
+        ]
+    },
+    "12": {
+        "author": "T Hoang",
+        "citations": 783.0,
+        "titles": [
+            "Deeppath: A reinforcement learning method for knowledge graph reasoning"
+        ]
+    },
+    "13": {
+        "author": "WY Wang",
+        "citations": 783.0,
+        "titles": [
+            "Deeppath: A reinforcement learning method for knowledge graph reasoning"
+        ]
+    },
+    "14": {
+        "author": "W Xiong",
+        "citations": 783.0,
+        "titles": [
+            "Deeppath: A reinforcement learning method for knowledge graph reasoning"
+        ]
+    },
+    "15": {
+        "author": "J Veness",
+        "citations": 618.0,
+        "titles": [
+            "Reinforcement learning via AIXI approximation",
+            "Reinforcement learning via AIXI approximation",
+            "A monte-carlo aixi approximation",
+            "Universal RL: Applications and approximations",
+            "On ensemble techniques for AIXI approximation",
+            "On Reward Binarisation and Bayesian Agents",
+            "An approximation of the universal intelligence measure",
+            "A monte-carlo aixi approximation",
+            "Reinforcement learning via AIXI approximation",
+            "On ensemble techniques for AIXI approximation"
+        ]
+    },
+    "16": {
+        "author": "P Srinivasan",
+        "citations": 618.0,
+        "titles": [
+            "Massively parallel methods for deep reinforcement learning"
+        ]
+    },
+    "17": {
+        "author": "S Blackwell",
+        "citations": 618.0,
+        "titles": [
+            "Massively parallel methods for deep reinforcement learning"
+        ]
+    },
+    "18": {
+        "author": "C Alcicek",
+        "citations": 618.0,
+        "titles": [
+            "Massively parallel methods for deep reinforcement learning"
+        ]
+    },
+    "19": {
+        "author": "A Nair",
+        "citations": 618.0,
+        "titles": [
+            "Massively parallel methods for deep reinforcement learning"
+        ]
+    },
+    "20": {
+        "author": "L Vilnis",
+        "citations": 560.0,
+        "titles": [
+            "Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning"
+        ]
+    },
+    "21": {
+        "author": "S Dhuliawala",
+        "citations": 560.0,
+        "titles": [
+            "Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning"
+        ]
+    },
+    "22": {
+        "author": "M Zaheer",
+        "citations": 560.0,
+        "titles": [
+            "Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning"
+        ]
+    },
+    "23": {
+        "author": "R Das",
+        "citations": 560.0,
+        "titles": [
+            "Go for a walk and arrive at the answer: Reasoning over paths in knowledge bases using reinforcement learning"
+        ]
+    },
+    "24": {
+        "author": "KS Ng",
+        "citations": 548.0,
+        "titles": [
+            "Reinforcement learning via AIXI approximation",
+            "Reinforcement learning via AIXI approximation",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions",
+            "A monte-carlo aixi approximation",
+            "A monte-carlo aixi approximation",
+            "Reinforcement learning via AIXI approximation",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions"
+        ]
+    },
+    "25": {
+        "author": "D Schuurmans",
+        "citations": 535.0,
+        "titles": [
+            "An optimistic perspective on offline reinforcement learning"
+        ]
+    },
+    "26": {
+        "author": "R Agarwal",
+        "citations": 535.0,
+        "titles": [
+            "An optimistic perspective on offline reinforcement learning"
+        ]
+    },
+    "27": {
+        "author": "H Liu",
+        "citations": 516.0,
+        "titles": [
+            "Deep reinforcement learning for dynamic multichannel access in wireless networks",
+            "Deep reinforcement learning for dynamic multichannel access",
+            "Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning",
+            "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning"
+        ]
+    },
+    "28": {
+        "author": "PH Gomes",
+        "citations": 501.0,
+        "titles": [
+            "Deep reinforcement learning for dynamic multichannel access in wireless networks",
+            "Deep reinforcement learning for dynamic multichannel access"
+        ]
+    },
+    "29": {
+        "author": "S Wang",
+        "citations": 501.0,
+        "titles": [
+            "Deep reinforcement learning for dynamic multichannel access in wireless networks",
+            "Deep reinforcement learning for dynamic multichannel access"
+        ]
+    },
+    "30": {
+        "author": "E Howley",
+        "citations": 467.0,
+        "titles": [
+            "Deep reinforcement learning: an overview",
+            "Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning",
+            "Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning"
+        ]
+    },
+    "31": {
+        "author": "W Uther",
+        "citations": 442.0,
+        "titles": [
+            "A monte-carlo aixi approximation",
+            "A monte-carlo aixi approximation"
+        ]
+    },
+    "32": {
+        "author": "M Schukat",
+        "citations": 436.0,
+        "titles": [
+            "Deep reinforcement learning: an overview"
+        ]
+    },
+    "33": {
+        "author": "SS Mousavi",
+        "citations": 436.0,
+        "titles": [
+            "Deep reinforcement learning: an overview"
+        ]
+    },
+    "34": {
+        "author": "P Ammanabrolu",
+        "citations": 424.0,
+        "titles": [
+            "Transfer in deep reinforcement learning using knowledge graphs",
+            "Playing text-adventure games with graph-based deep reinforcement learning",
+            "Playing text-adventure games with graph-based deep reinforcement learning",
+            "Graph constrained reinforcement learning for natural language action spaces"
+        ]
+    },
+    "35": {
+        "author": "J Jiang",
+        "citations": 408.0,
+        "titles": [
+            "Graph convolutional reinforcement learning"
+        ]
+    },
+    "36": {
+        "author": "Z Lu",
+        "citations": 408.0,
+        "titles": [
+            "Graph convolutional reinforcement learning"
+        ]
+    },
+    "37": {
+        "author": "C Dun",
+        "citations": 408.0,
+        "titles": [
+            "Graph convolutional reinforcement learning"
+        ]
+    },
+    "38": {
+        "author": "T Huang",
+        "citations": 408.0,
+        "titles": [
+            "Graph convolutional reinforcement learning"
+        ]
+    },
+    "39": {
+        "author": "N Shimkin",
+        "citations": 360.0,
+        "titles": [
+            "Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning"
+        ]
+    },
+    "40": {
+        "author": "N Baram",
+        "citations": 360.0,
+        "titles": [
+            "Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning"
+        ]
+    },
+    "41": {
+        "author": "O Anschel",
+        "citations": 360.0,
+        "titles": [
+            "Averaged-dqn: Variance reduction and stabilization for deep reinforcement learning"
+        ]
+    },
+    "42": {
+        "author": "L Orseau",
+        "citations": 359.0,
+        "titles": [
+            "Delusion, survival, and intelligent agents",
+            "Asymptotic non-learnability of universal agents with computable horizon functions",
+            "Self-modification and mortality in artificial agents",
+            "Safely interruptible agents",
+            "Universal knowledge-seeking agents",
+            "Optimality issues of universal greedy agents with static priors",
+            "Optimal Universal Explorative Agents",
+            "Teleporting universal intelligent agents"
+        ]
+    },
+    "43": {
+        "author": "K Kwok",
+        "citations": 353.0,
+        "titles": [
+            "Opponent modeling in deep reinforcement learning"
+        ]
+    },
+    "44": {
+        "author": "J Boyd-Graber",
+        "citations": 353.0,
+        "titles": [
+            "Opponent modeling in deep reinforcement learning"
+        ]
+    },
+    "45": {
+        "author": "H He",
+        "citations": 353.0,
+        "titles": [
+            "Opponent modeling in deep reinforcement learning"
+        ]
+    },
+    "46": {
+        "author": "J Boyd",
+        "citations": 353.0,
+        "titles": [
+            "Opponent modeling in deep reinforcement learning"
+        ]
+    },
+    "47": {
+        "author": "H Li",
+        "citations": 350.0,
+        "titles": [
+            "Deep-reinforcement-learning-based autonomous voltage control for power grid operations",
+            "Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network",
+            "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
+        ]
+    },
+    "48": {
+        "author": "D Shi",
+        "citations": 332.0,
+        "titles": [
+            "Deep-reinforcement-learning-based autonomous voltage control for power grid operations"
+        ]
+    },
+    "49": {
+        "author": "J Duan",
+        "citations": 332.0,
+        "titles": [
+            "Deep-reinforcement-learning-based autonomous voltage control for power grid operations"
+        ]
+    },
+    "50": {
+        "author": "R Diao",
+        "citations": 332.0,
+        "titles": [
+            "Deep-reinforcement-learning-based autonomous voltage control for power grid operations"
+        ]
+    },
+    "51": {
+        "author": "Z Wang",
+        "citations": 332.0,
+        "titles": [
+            "Deep-reinforcement-learning-based autonomous voltage control for power grid operations"
+        ]
+    },
+    "52": {
+        "author": "V Behzadan",
+        "citations": 319.0,
+        "titles": [
+            "Vulnerability of deep reinforcement learning to policy induction attacks"
+        ]
+    },
+    "53": {
+        "author": "A Munir",
+        "citations": 319.0,
+        "titles": [
+            "Vulnerability of deep reinforcement learning to policy induction attacks"
+        ]
+    },
+    "54": {
+        "author": "MO Riedl",
+        "citations": 315.0,
+        "titles": [
+            "Transfer in deep reinforcement learning using knowledge graphs",
+            "Playing text-adventure games with graph-based deep reinforcement learning",
+            "Playing text-adventure games with graph-based deep reinforcement learning"
+        ]
+    },
+    "55": {
+        "author": "Q Wang",
+        "citations": 292.0,
+        "titles": [
+            "GRL: Knowledge graph completion with GAN-based reinforcement learning",
+            "ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning",
+            "Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs",
+            "Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space"
+        ]
+    },
+    "56": {
+        "author": "Z Zhang",
+        "citations": 282.0,
+        "titles": [
+            "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning",
+            "Deep reinforcement learning for digital materials design",
+            "Deep reinforcement learning for trading",
+            "Towards robust knowledge graph embedding via multi-task reinforcement learning"
+        ]
+    },
+    "57": {
+        "author": "F Pardo",
+        "citations": 278.0,
+        "titles": [
+            "Action branching architectures for deep reinforcement learning"
+        ]
+    },
+    "58": {
+        "author": "P Kormushev",
+        "citations": 278.0,
+        "titles": [
+            "Action branching architectures for deep reinforcement learning"
+        ]
+    },
+    "59": {
+        "author": "A Tavakoli",
+        "citations": 278.0,
+        "titles": [
+            "Action branching architectures for deep reinforcement learning"
+        ]
+    },
+    "60": {
+        "author": "X Li",
+        "citations": 277.0,
+        "titles": [
+            "Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach",
+            "Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams",
+            "Recurrent reinforcement learning: a hybrid approach",
+            "An Introduction to Induction from an AIT View"
+        ]
+    },
+    "61": {
+        "author": "L Xia",
+        "citations": 249.0,
+        "titles": [
+            "KERL: A knowledge-guided reinforcement learning model for sequential recommendation",
+            "Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach",
+            "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
+        ]
+    },
+    "62": {
+        "author": "Z Yang",
+        "citations": 242.0,
+        "titles": [
+            "A Systematic Literature Review of reinforcement learning-based knowledge graph research",
+            "Explainable knowledge graph-based recommendation via deep reinforcement learning",
+            "Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space"
+        ]
+    },
+    "63": {
+        "author": "C Zhou",
+        "citations": 230.0,
+        "titles": [
+            "Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning",
+            "3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds"
+        ]
+    },
+    "64": {
+        "author": "S Zohren",
+        "citations": 216.0,
+        "titles": [
+            "Deep reinforcement learning for trading"
+        ]
+    },
+    "65": {
+        "author": "S Roberts",
+        "citations": 216.0,
+        "titles": [
+            "Deep reinforcement learning for trading"
+        ]
+    },
+    "66": {
+        "author": "F Liu",
+        "citations": 204.0,
+        "titles": [
+            "3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds",
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts"
+        ]
+    },
+    "67": {
+        "author": "J Pineau",
+        "citations": 201.0,
+        "titles": [
+            "A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes."
+        ]
+    },
+    "68": {
+        "author": "S Ross",
+        "citations": 201.0,
+        "titles": [
+            "A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes."
+        ]
+    },
+    "69": {
+        "author": "B Chaib",
+        "citations": 201.0,
+        "titles": [
+            "A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes."
+        ]
+    },
+    "70": {
+        "author": "B Chaib-draa",
+        "citations": 201.0,
+        "titles": [
+            "A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes."
+        ]
+    },
+    "71": {
+        "author": "S Li",
+        "citations": 200.0,
+        "titles": [
+            "Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning",
+            "3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds"
+        ]
+    },
+    "72": {
+        "author": "J Foerster",
+        "citations": 196.0,
+        "titles": [
+            "Exploratory combinatorial optimization with reinforcement learning"
+        ]
+    },
+    "73": {
+        "author": "T Barrett",
+        "citations": 196.0,
+        "titles": [
+            "Exploratory combinatorial optimization with reinforcement learning"
+        ]
+    },
+    "74": {
+        "author": "A Lvovsky",
+        "citations": 196.0,
+        "titles": [
+            "Exploratory combinatorial optimization with reinforcement learning"
+        ]
+    },
+    "75": {
+        "author": "W Clements",
+        "citations": 196.0,
+        "titles": [
+            "Exploratory combinatorial optimization with reinforcement learning"
+        ]
+    },
+    "76": {
+        "author": "K Zhang",
+        "citations": 195.0,
+        "titles": [
+            "Deep reinforcement learning for resource protection and real-time detection in IoT environment",
+            "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming"
+        ]
+    },
+    "77": {
+        "author": "P Wang",
+        "citations": 193.0,
+        "titles": [
+            "KERL: A knowledge-guided reinforcement learning model for sequential recommendation",
+            "Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams"
+        ]
+    },
+    "78": {
+        "author": "J Xiong",
+        "citations": 190.0,
+        "titles": [
+            "Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space"
+        ]
+    },
+    "79": {
+        "author": "L Han",
+        "citations": 190.0,
+        "titles": [
+            "Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space"
+        ]
+    },
+    "80": {
+        "author": "P Sun",
+        "citations": 190.0,
+        "titles": [
+            "Parametrized deep q-networks learning: Reinforcement learning with discrete-continuous hybrid action space"
+        ]
+    },
+    "81": {
+        "author": "J Leike",
+        "citations": 180.0,
+        "titles": [
+            "On the computability of AIXI",
+            "On the computability of Solomonoff induction and AIXI",
+            "Universal reinforcement learning algorithms: Survey and experiments",
+            "Nonparametric general reinforcement learning",
+            "On the Optimality of General Reinforcement Learners",
+            "Bad universal priors and notions of optimality",
+            "On the computability of AIXI",
+            "On the computability of Solomonoff induction and AIXI",
+            "Bad universal priors and notions of optimality"
+        ]
+    },
+    "82": {
+        "author": "T Hester",
+        "citations": 178.0,
+        "titles": [
+            "Texplore: real-time sample-efficient reinforcement learning for robots"
+        ]
+    },
+    "83": {
+        "author": "P Stone",
+        "citations": 178.0,
+        "titles": [
+            "Texplore: real-time sample-efficient reinforcement learning for robots"
+        ]
+    },
+    "84": {
+        "author": "D Litman",
+        "citations": 177.0,
+        "titles": [
+            "Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies"
+        ]
+    },
+    "85": {
+        "author": "P Jordan",
+        "citations": 177.0,
+        "titles": [
+            "Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies"
+        ]
+    },
+    "86": {
+        "author": "K VanLehn",
+        "citations": 177.0,
+        "titles": [
+            "Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies"
+        ]
+    },
+    "87": {
+        "author": "M Chi",
+        "citations": 177.0,
+        "titles": [
+            "Empirically evaluating the application of reinforcement learning to the induction of effective and adaptive pedagogical strategies"
+        ]
+    },
+    "88": {
+        "author": "W Huang",
+        "citations": 175.0,
+        "titles": [
+            "Deep reinforcement learning for resource protection and real-time detection in IoT environment"
+        ]
+    },
+    "89": {
+        "author": "J Long",
+        "citations": 175.0,
+        "titles": [
+            "Deep reinforcement learning for resource protection and real-time detection in IoT environment"
+        ]
+    },
+    "90": {
+        "author": "W Liang",
+        "citations": 175.0,
+        "titles": [
+            "Deep reinforcement learning for resource protection and real-time detection in IoT environment"
+        ]
+    },
+    "91": {
+        "author": "CA Desoer",
+        "citations": 163.0,
+        "titles": [
+            "Slowly varying discrete system xi+ 1= Aixi"
+        ]
+    },
+    "92": {
+        "author": "Z Li",
+        "citations": 161.0,
+        "titles": [
+            "Rule-aware reinforcement learning for knowledge graph reasoning",
+            "Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method",
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning",
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings",
+            "Opponent portrait for multiagent reinforcement learning in competitive environment",
+            "A deep reinforcement learning method for mobile robot collision avoidance based on double dqn",
+            "Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning"
+        ]
+    },
+    "93": {
+        "author": "J Tan",
+        "citations": 158.0,
+        "titles": [
+            "Stabilizing reinforcement learning in dynamic environment with application to online recommendation"
+        ]
+    },
+    "94": {
+        "author": "HK Huang",
+        "citations": 158.0,
+        "titles": [
+            "Stabilizing reinforcement learning in dynamic environment with application to online recommendation"
+        ]
+    },
+    "95": {
+        "author": "Y Yu",
+        "citations": 158.0,
+        "titles": [
+            "Stabilizing reinforcement learning in dynamic environment with application to online recommendation"
+        ]
+    },
+    "96": {
+        "author": "SY Chen",
+        "citations": 158.0,
+        "titles": [
+            "Stabilizing reinforcement learning in dynamic environment with application to online recommendation"
+        ]
+    },
+    "97": {
+        "author": "Q Da",
+        "citations": 158.0,
+        "titles": [
+            "Stabilizing reinforcement learning in dynamic environment with application to online recommendation"
+        ]
+    },
+    "98": {
+        "author": "S Zhou",
+        "citations": 156.0,
+        "titles": [
+            "Interactive recommender system via knowledge graph-enhanced reinforcement learning"
+        ]
+    },
+    "99": {
+        "author": "H Chen",
+        "citations": 156.0,
+        "titles": [
+            "Interactive recommender system via knowledge graph-enhanced reinforcement learning"
+        ]
+    },
+    "100": {
+        "author": "X Dai",
+        "citations": 156.0,
+        "titles": [
+            "Interactive recommender system via knowledge graph-enhanced reinforcement learning"
+        ]
+    },
+    "101": {
+        "author": "W Zhang",
+        "citations": 156.0,
+        "titles": [
+            "Interactive recommender system via knowledge graph-enhanced reinforcement learning"
+        ]
+    },
+    "102": {
+        "author": "K Ren",
+        "citations": 156.0,
+        "titles": [
+            "Interactive recommender system via knowledge graph-enhanced reinforcement learning"
+        ]
+    },
+    "103": {
+        "author": "L Juntao",
+        "citations": 155.0,
+        "titles": [
+            "Multi\u2010robot path planning based on a deep reinforcement learning DQN algorithm"
+        ]
+    },
+    "104": {
+        "author": "P Lingling",
+        "citations": 155.0,
+        "titles": [
+            "Multi\u2010robot path planning based on a deep reinforcement learning DQN algorithm"
+        ]
+    },
+    "105": {
+        "author": "Y Yang",
+        "citations": 155.0,
+        "titles": [
+            "Multi\u2010robot path planning based on a deep reinforcement learning DQN algorithm",
+            "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
+        ]
+    },
+    "106": {
+        "author": "M Armstrong",
+        "citations": 144.0,
+        "titles": [
+            "Safely interruptible agents"
+        ]
+    },
+    "107": {
+        "author": "R Ye",
+        "citations": 143.0,
+        "titles": [
+            "3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds"
+        ]
+    },
+    "108": {
+        "author": "L Zhang",
+        "citations": 143.0,
+        "titles": [
+            "3DCNN-DQN-RNN: A deep reinforcement learning framework for semantic parsing of large-scale 3D point clouds"
+        ]
+    },
+    "109": {
+        "author": "L Belzner",
+        "citations": 139.0,
+        "titles": [
+            "Deep reinforcement learning for semiconductor production scheduling"
+        ]
+    },
+    "110": {
+        "author": "A Reichstaller",
+        "citations": 139.0,
+        "titles": [
+            "Deep reinforcement learning for semiconductor production scheduling"
+        ]
+    },
+    "111": {
+        "author": "B Waschneck",
+        "citations": 139.0,
+        "titles": [
+            "Deep reinforcement learning for semiconductor production scheduling"
+        ]
+    },
+    "112": {
+        "author": "A Stooke",
+        "citations": 138.0,
+        "titles": [
+            "Accelerated methods for deep reinforcement learning"
+        ]
+    },
+    "113": {
+        "author": "P Abbeel",
+        "citations": 138.0,
+        "titles": [
+            "Accelerated methods for deep reinforcement learning"
+        ]
+    },
+    "114": {
+        "author": "M Ring",
+        "citations": 137.0,
+        "titles": [
+            "Delusion, survival, and intelligent agents",
+            "Self-modification and mortality in artificial agents"
+        ]
+    },
+    "115": {
+        "author": "P Sunehag",
+        "citations": 136.0,
+        "titles": [
+            "Q-learning for history-based reinforcement learning",
+            "Optimistic AIXI",
+            "Feature reinforcement learning in practice",
+            "Feature reinforcement learning: state of the art",
+            "Rationality, optimism and guarantees in general reinforcement learning",
+            "Context tree maximizing",
+            "Using Localization and Factorization to Reduce the Complexity of Reinforcement Learning",
+            "On ensemble techniques for AIXI approximation",
+            "Principles of Solomonoff induction and AIXI",
+            "Optimistic AIXI",
+            "On ensemble techniques for AIXI approximation"
+        ]
+    },
+    "116": {
+        "author": "C Li",
+        "citations": 127.0,
+        "titles": [
+            "Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach",
+            "Towards robust knowledge graph embedding via multi-task reinforcement learning"
+        ]
+    },
+    "117": {
+        "author": "Y Ma",
+        "citations": 122.0,
+        "titles": [
+            "Timetraveler: Reinforcement learning for temporal knowledge graph forecasting",
+            "Opponent portrait for multiagent reinforcement learning in competitive environment"
+        ]
+    },
+    "118": {
+        "author": "SZ Niu",
+        "citations": 121.0,
+        "titles": [
+            "KERL: A knowledge-guided reinforcement learning model for sequential recommendation"
+        ]
+    },
+    "119": {
+        "author": "Y Fan",
+        "citations": 121.0,
+        "titles": [
+            "KERL: A knowledge-guided reinforcement learning model for sequential recommendation"
+        ]
+    },
+    "120": {
+        "author": "WX Zhao",
+        "citations": 121.0,
+        "titles": [
+            "KERL: A knowledge-guided reinforcement learning model for sequential recommendation"
+        ]
+    },
+    "121": {
+        "author": "B Liu",
+        "citations": 121.0,
+        "titles": [
+            "Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach"
+        ]
+    },
+    "122": {
+        "author": "P Zheng",
+        "citations": 121.0,
+        "titles": [
+            "Towards Self-X cognitive manufacturing network: An industrial knowledge graph-based multi-agent reinforcement learning approach"
+        ]
+    },
+    "123": {
+        "author": "J Chen",
+        "citations": 121.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach",
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "124": {
+        "author": "M Hausknecht",
+        "citations": 109.0,
+        "titles": [
+            "Graph constrained reinforcement learning for natural language action spaces"
+        ]
+    },
+    "125": {
+        "author": "H Zhu",
+        "citations": 108.0,
+        "titles": [
+            "Explainable knowledge graph-based recommendation via deep reinforcement learning",
+            "DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning",
+            "Towards robust knowledge graph embedding via multi-task reinforcement learning"
+        ]
+    },
+    "126": {
+        "author": "X Ruan",
+        "citations": 108.0,
+        "titles": [
+            "Mobile robot navigation based on deep reinforcement learning"
+        ]
+    },
+    "127": {
+        "author": "X Zhu",
+        "citations": 108.0,
+        "titles": [
+            "Mobile robot navigation based on deep reinforcement learning"
+        ]
+    },
+    "128": {
+        "author": "D Ren",
+        "citations": 108.0,
+        "titles": [
+            "Mobile robot navigation based on deep reinforcement learning"
+        ]
+    },
+    "129": {
+        "author": "J Huang",
+        "citations": 108.0,
+        "titles": [
+            "Mobile robot navigation based on deep reinforcement learning",
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "130": {
+        "author": "X He",
+        "citations": 107.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach",
+            "Deep reinforcement learning for greenhouse climate control"
+        ]
+    },
+    "131": {
+        "author": "K He",
+        "citations": 103.0,
+        "titles": [
+            "Timetraveler: Reinforcement learning for temporal knowledge graph forecasting"
+        ]
+    },
+    "132": {
+        "author": "Z Han",
+        "citations": 103.0,
+        "titles": [
+            "Timetraveler: Reinforcement learning for temporal knowledge graph forecasting"
+        ]
+    },
+    "133": {
+        "author": "J Zhong",
+        "citations": 103.0,
+        "titles": [
+            "Timetraveler: Reinforcement learning for temporal knowledge graph forecasting"
+        ]
+    },
+    "134": {
+        "author": "H Sun",
+        "citations": 103.0,
+        "titles": [
+            "Timetraveler: Reinforcement learning for temporal knowledge graph forecasting"
+        ]
+    },
+    "135": {
+        "author": "Y Hao",
+        "citations": 101.0,
+        "titles": [
+            "GRL: Knowledge graph completion with GAN-based reinforcement learning",
+            "ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning"
+        ]
+    },
+    "136": {
+        "author": "J Cao",
+        "citations": 101.0,
+        "titles": [
+            "GRL: Knowledge graph completion with GAN-based reinforcement learning",
+            "ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning"
+        ]
+    },
+    "137": {
+        "author": "S Mannor",
+        "citations": 101.0,
+        "titles": [
+            "Bayesian reinforcement learning"
+        ]
+    },
+    "138": {
+        "author": "N Vlassis",
+        "citations": 101.0,
+        "titles": [
+            "Bayesian reinforcement learning"
+        ]
+    },
+    "139": {
+        "author": "M Ghavamzadeh",
+        "citations": 101.0,
+        "titles": [
+            "Bayesian reinforcement learning"
+        ]
+    },
+    "140": {
+        "author": "X Wang",
+        "citations": 98.0,
+        "titles": [
+            "Knowledge-guided deep reinforcement learning for interactive recommendation",
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts"
+        ]
+    },
+    "141": {
+        "author": "H Wang",
+        "citations": 95.0,
+        "titles": [
+            "Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning",
+            "DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection",
+            "Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker"
+        ]
+    },
+    "142": {
+        "author": "B Ster",
+        "citations": 92.0,
+        "titles": [
+            "On monte carlo tree search and reinforcement learning"
+        ]
+    },
+    "143": {
+        "author": "S Samothrakis",
+        "citations": 92.0,
+        "titles": [
+            "On monte carlo tree search and reinforcement learning"
+        ]
+    },
+    "144": {
+        "author": "T Vodopivec",
+        "citations": 92.0,
+        "titles": [
+            "On monte carlo tree search and reinforcement learning"
+        ]
+    },
+    "145": {
+        "author": "M Turchetta",
+        "citations": 90.0,
+        "titles": [
+            "Safe reinforcement learning via curriculum induction"
+        ]
+    },
+    "146": {
+        "author": "A Kolobov",
+        "citations": 90.0,
+        "titles": [
+            "Safe reinforcement learning via curriculum induction"
+        ]
+    },
+    "147": {
+        "author": "S Shah",
+        "citations": 90.0,
+        "titles": [
+            "Safe reinforcement learning via curriculum induction",
+            "A Fourier AIXI Approximation (Universal AI)"
+        ]
+    },
+    "148": {
+        "author": "R Beuran",
+        "citations": 90.0,
+        "titles": [
+            "Automated penetration testing using deep reinforcement learning"
+        ]
+    },
+    "149": {
+        "author": "Z Hu",
+        "citations": 90.0,
+        "titles": [
+            "Automated penetration testing using deep reinforcement learning"
+        ]
+    },
+    "150": {
+        "author": "Y Tan",
+        "citations": 90.0,
+        "titles": [
+            "Automated penetration testing using deep reinforcement learning"
+        ]
+    },
+    "151": {
+        "author": "E Talvitie",
+        "citations": 90.0,
+        "titles": [
+            "Self-correcting models for model-based reinforcement learning"
+        ]
+    },
+    "152": {
+        "author": "C Gong",
+        "citations": 87.0,
+        "titles": [
+            "Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "153": {
+        "author": "G Wan",
+        "citations": 87.0,
+        "titles": [
+            "Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "154": {
+        "author": "S Pan",
+        "citations": 87.0,
+        "titles": [
+            "Reasoning like human: Hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "155": {
+        "author": "S Jagannathan",
+        "citations": 86.0,
+        "titles": [
+            "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration"
+        ]
+    },
+    "156": {
+        "author": "V Narayanan",
+        "citations": 86.0,
+        "titles": [
+            "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration"
+        ]
+    },
+    "157": {
+        "author": "L Deng",
+        "citations": 84.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach"
+        ]
+    },
+    "158": {
+        "author": "J He",
+        "citations": 84.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach"
+        ]
+    },
+    "159": {
+        "author": "L Li",
+        "citations": 84.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach"
+        ]
+    },
+    "160": {
+        "author": "J Gao",
+        "citations": 84.0,
+        "titles": [
+            "Recurrent reinforcement learning: a hybrid approach"
+        ]
+    },
+    "161": {
+        "author": "J Han",
+        "citations": 83.0,
+        "titles": [
+            "End-to-end reinforcement learning for automatic taxonomy induction",
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering",
+            "Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning"
+        ]
+    },
+    "162": {
+        "author": "MA Wiering",
+        "citations": 82.0,
+        "titles": [
+            "Reinforcement learning algorithms for solving classification problems"
+        ]
+    },
+    "163": {
+        "author": "H Xie",
+        "citations": 80.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0",
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts"
+        ]
+    },
+    "164": {
+        "author": "R Arakawa",
+        "citations": 79.0,
+        "titles": [
+            "Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback"
+        ]
+    },
+    "165": {
+        "author": "S Kobayashi",
+        "citations": 79.0,
+        "titles": [
+            "Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback"
+        ]
+    },
+    "166": {
+        "author": "Y Unno",
+        "citations": 79.0,
+        "titles": [
+            "Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback"
+        ]
+    },
+    "167": {
+        "author": "Y Tsuboi",
+        "citations": 79.0,
+        "titles": [
+            "Dqn-tamer: Human-in-the-loop reinforcement learning with intractable feedback"
+        ]
+    },
+    "168": {
+        "author": "F Doshi-Velez",
+        "citations": 77.0,
+        "titles": [
+            "Bayesian nonparametric methods for partially-observable reinforcement learning"
+        ]
+    },
+    "169": {
+        "author": "F Wood",
+        "citations": 77.0,
+        "titles": [
+            "Bayesian nonparametric methods for partially-observable reinforcement learning"
+        ]
+    },
+    "170": {
+        "author": "F Doshi",
+        "citations": 77.0,
+        "titles": [
+            "Bayesian nonparametric methods for partially-observable reinforcement learning"
+        ]
+    },
+    "171": {
+        "author": "D Pfau",
+        "citations": 77.0,
+        "titles": [
+            "Bayesian nonparametric methods for partially-observable reinforcement learning"
+        ]
+    },
+    "172": {
+        "author": "MS Ausin",
+        "citations": 75.0,
+        "titles": [
+            "Hierarchical reinforcement learning for pedagogical policy induction",
+            "Leveraging deep reinforcement learning for pedagogical policy induction in an intelligent tutoring system"
+        ]
+    },
+    "173": {
+        "author": "D Dewey",
+        "citations": 74.0,
+        "titles": [
+            "Learning what to value"
+        ]
+    },
+    "174": {
+        "author": "L Jiang",
+        "citations": 72.0,
+        "titles": [
+            "Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams"
+        ]
+    },
+    "175": {
+        "author": "K Liu",
+        "citations": 72.0,
+        "titles": [
+            "Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams"
+        ]
+    },
+    "176": {
+        "author": "Y Fu",
+        "citations": 72.0,
+        "titles": [
+            "Incremental mobile user profiling: Reinforcement learning with spatial knowledge graph for modeling event streams"
+        ]
+    },
+    "177": {
+        "author": "D Furelos",
+        "citations": 69.0,
+        "titles": [
+            "Induction and exploitation of subgoal automata for reinforcement learning",
+            "Induction of subgoal automata for reinforcement learning"
+        ]
+    },
+    "178": {
+        "author": "M Law",
+        "citations": 69.0,
+        "titles": [
+            "Induction and exploitation of subgoal automata for reinforcement learning",
+            "Induction of subgoal automata for reinforcement learning"
+        ]
+    },
+    "179": {
+        "author": "D Furelos-Blanco",
+        "citations": 69.0,
+        "titles": [
+            "Induction and exploitation of subgoal automata for reinforcement learning",
+            "Induction of subgoal automata for reinforcement learning"
+        ]
+    },
+    "180": {
+        "author": "Y Cui",
+        "citations": 69.0,
+        "titles": [
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts",
+            "Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network"
+        ]
+    },
+    "181": {
+        "author": "Y Wang",
+        "citations": 67.0,
+        "titles": [
+            "Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method",
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "182": {
+        "author": "RS Sutton",
+        "citations": 67.0,
+        "titles": [
+            "Understanding multi-step deep reinforcement learning: A systematic study of the DQN target"
+        ]
+    },
+    "183": {
+        "author": "JF Hernandez",
+        "citations": 67.0,
+        "titles": [
+            "Understanding multi-step deep reinforcement learning: A systematic study of the DQN target"
+        ]
+    },
+    "184": {
+        "author": "JF Hernandez-Garcia",
+        "citations": 67.0,
+        "titles": [
+            "Understanding multi-step deep reinforcement learning: A systematic study of the DQN target"
+        ]
+    },
+    "185": {
+        "author": "G Zhou",
+        "citations": 66.0,
+        "titles": [
+            "Hierarchical reinforcement learning for pedagogical policy induction",
+            "Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning",
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "186": {
+        "author": "Y Song",
+        "citations": 66.0,
+        "titles": [
+            "Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning"
+        ]
+    },
+    "187": {
+        "author": "S Zuo",
+        "citations": 66.0,
+        "titles": [
+            "Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning"
+        ]
+    },
+    "188": {
+        "author": "FL Lewis",
+        "citations": 66.0,
+        "titles": [
+            "Optimal robust output containment of unknown heterogeneous multiagent system using off-policy reinforcement learning"
+        ]
+    },
+    "189": {
+        "author": "J Luo",
+        "citations": 61.0,
+        "titles": [
+            "Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning",
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning",
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "190": {
+        "author": "M Chen",
+        "citations": 61.0,
+        "titles": [
+            "Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning",
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts"
+        ]
+    },
+    "191": {
+        "author": "T Luo",
+        "citations": 61.0,
+        "titles": [
+            "A reinforcement learning approach to irrigation decision-making for rice using weather forecasts"
+        ]
+    },
+    "192": {
+        "author": "GX Gu",
+        "citations": 60.0,
+        "titles": [
+            "Deep reinforcement learning for digital materials design"
+        ]
+    },
+    "193": {
+        "author": "R Guo",
+        "citations": 60.0,
+        "titles": [
+            "Deep reinforcement learning for digital materials design"
+        ]
+    },
+    "194": {
+        "author": "L Lin",
+        "citations": 60.0,
+        "titles": [
+            "Deep reinforcement learning for digital materials design"
+        ]
+    },
+    "195": {
+        "author": "F Sui",
+        "citations": 60.0,
+        "titles": [
+            "Deep reinforcement learning for digital materials design"
+        ]
+    },
+    "196": {
+        "author": "S Legg",
+        "citations": 60.0,
+        "titles": [
+            "An approximation of the universal intelligence measure"
+        ]
+    },
+    "197": {
+        "author": "H Sheng",
+        "citations": 60.0,
+        "titles": [
+            "Tribological properties and hydrolysis stability study of benzothiazole borate derivative",
+            "Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate",
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "198": {
+        "author": "X Liping",
+        "citations": 60.0,
+        "titles": [
+            "Tribological properties and hydrolysis stability study of benzothiazole borate derivative",
+            "Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate",
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "199": {
+        "author": "C Aixi",
+        "citations": 60.0,
+        "titles": [
+            "Tribological properties and hydrolysis stability study of benzothiazole borate derivative",
+            "Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate",
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "200": {
+        "author": "H Guo",
+        "citations": 59.0,
+        "titles": [
+            "Generating text with deep reinforcement learning"
+        ]
+    },
+    "201": {
+        "author": "P Nguyen",
+        "citations": 58.0,
+        "titles": [
+            "Feature reinforcement learning in practice",
+            "Context tree maximizing",
+            "Optimal regret bounds for selecting the state representation in reinforcement learning"
+        ]
+    },
+    "202": {
+        "author": "",
+        "citations": 58.0,
+        "titles": [
+            "Tribological properties and hydrolysis stability study of benzothiazole borate derivative",
+            "Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation"
+        ]
+    },
+    "203": {
+        "author": "R Pan",
+        "citations": 57.0,
+        "titles": [
+            "Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning"
+        ]
+    },
+    "204": {
+        "author": "M Mao",
+        "citations": 57.0,
+        "titles": [
+            "Incorporating graph attention mechanism into knowledge graph reasoning based on deep reinforcement learning"
+        ]
+    },
+    "205": {
+        "author": "J Shen",
+        "citations": 56.0,
+        "titles": [
+            "End-to-end reinforcement learning for automatic taxonomy induction"
+        ]
+    },
+    "206": {
+        "author": "X Ren",
+        "citations": 56.0,
+        "titles": [
+            "End-to-end reinforcement learning for automatic taxonomy induction"
+        ]
+    },
+    "207": {
+        "author": "X Gu",
+        "citations": 56.0,
+        "titles": [
+            "End-to-end reinforcement learning for automatic taxonomy induction"
+        ]
+    },
+    "208": {
+        "author": "Y Mao",
+        "citations": 56.0,
+        "titles": [
+            "End-to-end reinforcement learning for automatic taxonomy induction"
+        ]
+    },
+    "209": {
+        "author": "D Zhang",
+        "citations": 56.0,
+        "titles": [
+            "A deep reinforcement learning method for mobile robot collision avoidance based on double dqn",
+            "Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network"
+        ]
+    },
+    "210": {
+        "author": "X Chen",
+        "citations": 55.0,
+        "titles": [
+            "Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning",
+            "Knowledge-guided deep reinforcement learning for interactive recommendation"
+        ]
+    },
+    "211": {
+        "author": "H Ma",
+        "citations": 54.0,
+        "titles": [
+            "Multi-modal knowledge-aware reinforcement learning network for explainable recommendation",
+            "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
+        ]
+    },
+    "212": {
+        "author": "Y Aixi",
+        "citations": 54.0,
+        "titles": [
+            "Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro",
+            "The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells",
+            "Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults",
+            "An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform"
+        ]
+    },
+    "213": {
+        "author": "HM Pandey",
+        "citations": 53.0,
+        "titles": [
+            "DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning"
+        ]
+    },
+    "214": {
+        "author": "P Tiwari",
+        "citations": 53.0,
+        "titles": [
+            "DAPath: Distance-aware knowledge graph reasoning based on deep reinforcement learning"
+        ]
+    },
+    "215": {
+        "author": "FL Da Silva",
+        "citations": 53.0,
+        "titles": [
+            "Towards knowledge transfer in deep reinforcement learning"
+        ]
+    },
+    "216": {
+        "author": "AHR Costa",
+        "citations": 53.0,
+        "titles": [
+            "Towards knowledge transfer in deep reinforcement learning"
+        ]
+    },
+    "217": {
+        "author": "R Glatt",
+        "citations": 53.0,
+        "titles": [
+            "Towards knowledge transfer in deep reinforcement learning"
+        ]
+    },
+    "218": {
+        "author": "W Yu",
+        "citations": 53.0,
+        "titles": [
+            "Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker",
+            "The separation of catechol from carbofuran phenol by extractive distillation"
+        ]
+    },
+    "219": {
+        "author": "D Kudenko",
+        "citations": 52.0,
+        "titles": [
+            "Deep multi-agent reinforcement learning with relevance graphs"
+        ]
+    },
+    "220": {
+        "author": "A Malysheva",
+        "citations": 52.0,
+        "titles": [
+            "Deep multi-agent reinforcement learning with relevance graphs"
+        ]
+    },
+    "221": {
+        "author": "CB Sohn",
+        "citations": 52.0,
+        "titles": [
+            "Deep multi-agent reinforcement learning with relevance graphs"
+        ]
+    },
+    "222": {
+        "author": "TT Sung",
+        "citations": 52.0,
+        "titles": [
+            "Deep multi-agent reinforcement learning with relevance graphs"
+        ]
+    },
+    "223": {
+        "author": "X Jin",
+        "citations": 51.0,
+        "titles": [
+            "Rule-aware reinforcement learning for knowledge graph reasoning",
+            "Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method"
+        ]
+    },
+    "224": {
+        "author": "W Song",
+        "citations": 49.0,
+        "titles": [
+            "Explainable knowledge graph-based recommendation via deep reinforcement learning"
+        ]
+    },
+    "225": {
+        "author": "Z Duan",
+        "citations": 49.0,
+        "titles": [
+            "Explainable knowledge graph-based recommendation via deep reinforcement learning"
+        ]
+    },
+    "226": {
+        "author": "Y Yan",
+        "citations": 48.0,
+        "titles": [
+            "A deep reinforcement learning method for mobile robot collision avoidance based on double dqn"
+        ]
+    },
+    "227": {
+        "author": "X Xue",
+        "citations": 48.0,
+        "titles": [
+            "A deep reinforcement learning method for mobile robot collision avoidance based on double dqn"
+        ]
+    },
+    "228": {
+        "author": "DL Dowe",
+        "citations": 48.0,
+        "titles": [
+            "Evaluating a reinforcement learning algorithm with a general intelligence test"
+        ]
+    },
+    "229": {
+        "author": "J Insa",
+        "citations": 48.0,
+        "titles": [
+            "Evaluating a reinforcement learning algorithm with a general intelligence test"
+        ]
+    },
+    "230": {
+        "author": "L Lei",
+        "citations": 48.0,
+        "titles": [
+            "Deep reinforcement learning aided platoon control relying on V2X information",
+            "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming"
+        ]
+    },
+    "231": {
+        "author": "T Liu",
+        "citations": 48.0,
+        "titles": [
+            "Deep reinforcement learning aided platoon control relying on V2X information",
+            "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming"
+        ]
+    },
+    "232": {
+        "author": "K Zheng",
+        "citations": 48.0,
+        "titles": [
+            "Deep reinforcement learning aided platoon control relying on V2X information",
+            "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming"
+        ]
+    },
+    "233": {
+        "author": "HU Aixi",
+        "citations": 48.0,
+        "titles": [
+            "Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation",
+            "The separation of catechol from carbofuran phenol by extractive distillation"
+        ]
+    },
+    "234": {
+        "author": "Y Ji",
+        "citations": 47.0,
+        "titles": [
+            "GRL: Knowledge graph completion with GAN-based reinforcement learning"
+        ]
+    },
+    "235": {
+        "author": "T Everitt",
+        "citations": 47.0,
+        "titles": [
+            "Death and suicide in universal artificial intelligence",
+            "Towards safe artificial general intelligence"
+        ]
+    },
+    "236": {
+        "author": "G Mai",
+        "citations": 44.0,
+        "titles": [
+            "A spatially explicit reinforcement learning model for geographic knowledge graph summarization"
+        ]
+    },
+    "237": {
+        "author": "K Janowicz",
+        "citations": 44.0,
+        "titles": [
+            "A spatially explicit reinforcement learning model for geographic knowledge graph summarization"
+        ]
+    },
+    "238": {
+        "author": "B Yan",
+        "citations": 44.0,
+        "titles": [
+            "A spatially explicit reinforcement learning model for geographic knowledge graph summarization"
+        ]
+    },
+    "239": {
+        "author": "R Zhu",
+        "citations": 44.0,
+        "titles": [
+            "A spatially explicit reinforcement learning model for geographic knowledge graph summarization"
+        ]
+    },
+    "240": {
+        "author": "R Qiu",
+        "citations": 44.0,
+        "titles": [
+            "Multi-modal knowledge-aware reinforcement learning network for explainable recommendation"
+        ]
+    },
+    "241": {
+        "author": "S Tao",
+        "citations": 44.0,
+        "titles": [
+            "Multi-modal knowledge-aware reinforcement learning network for explainable recommendation"
+        ]
+    },
+    "242": {
+        "author": "Y Ping",
+        "citations": 44.0,
+        "titles": [
+            "Multi-modal knowledge-aware reinforcement learning network for explainable recommendation"
+        ]
+    },
+    "243": {
+        "author": "Q Liang",
+        "citations": 43.0,
+        "titles": [
+            "Tribological properties and hydrolysis stability study of benzothiazole borate derivative",
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "244": {
+        "author": "H Azizsoltani",
+        "citations": 42.0,
+        "titles": [
+            "Hierarchical reinforcement learning for pedagogical policy induction"
+        ]
+    },
+    "245": {
+        "author": "T Barnes",
+        "citations": 42.0,
+        "titles": [
+            "Hierarchical reinforcement learning for pedagogical policy induction"
+        ]
+    },
+    "246": {
+        "author": "M Daswani",
+        "citations": 41.0,
+        "titles": [
+            "Q-learning for history-based reinforcement learning",
+            "Feature reinforcement learning: state of the art",
+            "Generic Reinforcement Learning Beyond Small MDPs"
+        ]
+    },
+    "247": {
+        "author": "B Hibbard",
+        "citations": 39.0,
+        "titles": [
+            "Bias and no free lunch in formal measures of intelligence"
+        ]
+    },
+    "248": {
+        "author": "Y Lu",
+        "citations": 38.0,
+        "titles": [
+            "Causal Reinforcement Learning for Knowledge Graph Reasoning",
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "249": {
+        "author": "L Yao",
+        "citations": 37.0,
+        "titles": [
+            "Knowledge-guided deep reinforcement learning for interactive recommendation"
+        ]
+    },
+    "250": {
+        "author": "C Huang",
+        "citations": 37.0,
+        "titles": [
+            "Knowledge-guided deep reinforcement learning for interactive recommendation",
+            "Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning"
+        ]
+    },
+    "251": {
+        "author": "Z Ding",
+        "citations": 37.0,
+        "titles": [
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "252": {
+        "author": "Q Fu",
+        "citations": 37.0,
+        "titles": [
+            "ED-DQN: An event-driven deep reinforcement learning control method for multi-zone residential buildings"
+        ]
+    },
+    "253": {
+        "author": "T Peng",
+        "citations": 35.0,
+        "titles": [
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering",
+            "Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning",
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "254": {
+        "author": "L Liu",
+        "citations": 35.0,
+        "titles": [
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering",
+            "Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning",
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "255": {
+        "author": "R Han",
+        "citations": 35.0,
+        "titles": [
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering",
+            "Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning",
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "256": {
+        "author": "H Cui",
+        "citations": 35.0,
+        "titles": [
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering",
+            "Path-based multi-hop reasoning over knowledge graph for answering questions via adversarial reinforcement learning",
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "257": {
+        "author": "A Jonsson",
+        "citations": 35.0,
+        "titles": [
+            "Induction and exploitation of subgoal automata for reinforcement learning",
+            "Provably Efficient Offline Reinforcement Learning in Regular Decision Processes"
+        ]
+    },
+    "258": {
+        "author": "P Dai",
+        "citations": 35.0,
+        "titles": [
+            "Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker"
+        ]
+    },
+    "259": {
+        "author": "G Wen",
+        "citations": 35.0,
+        "titles": [
+            "Distributed reinforcement learning for cyber-physical system with multiple remote state estimation under DoS attacker"
+        ]
+    },
+    "260": {
+        "author": "S Ak",
+        "citations": 34.0,
+        "titles": [
+            "Avoiding jammers: A reinforcement learning approach"
+        ]
+    },
+    "261": {
+        "author": "S Br\u00fcggenwirth",
+        "citations": 34.0,
+        "titles": [
+            "Avoiding jammers: A reinforcement learning approach"
+        ]
+    },
+    "262": {
+        "author": "A Russo",
+        "citations": 34.0,
+        "titles": [
+            "Induction of subgoal automata for reinforcement learning"
+        ]
+    },
+    "263": {
+        "author": "M Egorov",
+        "citations": 32.0,
+        "titles": [
+            "Deep reinforcement learning with pomdps"
+        ]
+    },
+    "264": {
+        "author": "H Zhongyi",
+        "citations": 32.0,
+        "titles": [
+            "Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate",
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "265": {
+        "author": "J Aslanides",
+        "citations": 31.0,
+        "titles": [
+            "AIXIjs: A software demo for general reinforcement learning",
+            "Universal reinforcement learning algorithms: Survey and experiments"
+        ]
+    },
+    "266": {
+        "author": "CF Hayes",
+        "citations": 31.0,
+        "titles": [
+            "Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning",
+            "Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning"
+        ]
+    },
+    "267": {
+        "author": "DM Roijers",
+        "citations": 31.0,
+        "titles": [
+            "Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning",
+            "Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning"
+        ]
+    },
+    "268": {
+        "author": "M Reymond",
+        "citations": 31.0,
+        "titles": [
+            "Distributional monte carlo tree search for risk-aware and multi-objective reinforcement learning",
+            "Monte Carlo tree search algorithms for risk-aware and multi-objective reinforcement learning"
+        ]
+    },
+    "269": {
+        "author": "OA Maillard",
+        "citations": 31.0,
+        "titles": [
+            "Optimal regret bounds for selecting the state representation in reinforcement learning"
+        ]
+    },
+    "270": {
+        "author": "R Ortner",
+        "citations": 31.0,
+        "titles": [
+            "Optimal regret bounds for selecting the state representation in reinforcement learning"
+        ]
+    },
+    "271": {
+        "author": "L Bai",
+        "citations": 30.0,
+        "titles": [
+            "Rule-aware reinforcement learning for knowledge graph reasoning",
+            "RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism",
+            "Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning"
+        ]
+    },
+    "272": {
+        "author": "S Guan",
+        "citations": 30.0,
+        "titles": [
+            "Path reasoning over knowledge graph: A multi-agent and reinforcement learning based method"
+        ]
+    },
+    "273": {
+        "author": "W Furong",
+        "citations": 30.0,
+        "titles": [
+            "Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation"
+        ]
+    },
+    "274": {
+        "author": "L\u00dc Yangxiao",
+        "citations": 30.0,
+        "titles": [
+            "Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation"
+        ]
+    },
+    "275": {
+        "author": "S Hongbing",
+        "citations": 30.0,
+        "titles": [
+            "Synthesis of a basic imidazolide ionic liquid and its application in catalyzing Knoevenagel condensation"
+        ]
+    },
+    "276": {
+        "author": "C Chen",
+        "citations": 29.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0",
+            "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning",
+            "Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning",
+            "Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning"
+        ]
+    },
+    "277": {
+        "author": "L Hanzo",
+        "citations": 28.0,
+        "titles": [
+            "Deep reinforcement learning aided platoon control relying on V2X information"
+        ]
+    },
+    "278": {
+        "author": "T Wang",
+        "citations": 27.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0",
+            "A Direct Approximation of AIXI Using Logical State Abstractions",
+            "A Direct Approximation of AIXI Using Logical State Abstractions"
+        ]
+    },
+    "279": {
+        "author": "J Zhang",
+        "citations": 26.0,
+        "titles": [
+            "Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis",
+            "Teamwork Reinforcement Learning With Concave Utilities",
+            "The separation of catechol from carbofuran phenol by extractive distillation"
+        ]
+    },
+    "280": {
+        "author": "S Zheng",
+        "citations": 24.0,
+        "titles": [
+            "Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning",
+            "An edge server placement method based on reinforcement learning"
+        ]
+    },
+    "281": {
+        "author": "M Lan",
+        "citations": 24.0,
+        "titles": [
+            "Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning",
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "282": {
+        "author": "Y Xia",
+        "citations": 24.0,
+        "titles": [
+            "Iterative rule-guided reasoning over sparse knowledge graphs with deep reinforcement learning",
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "283": {
+        "author": "W Fei",
+        "citations": 24.0,
+        "titles": [
+            "The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells"
+        ]
+    },
+    "284": {
+        "author": "P Zhengren",
+        "citations": 24.0,
+        "titles": [
+            "The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells"
+        ]
+    },
+    "285": {
+        "author": "X Danmou",
+        "citations": 24.0,
+        "titles": [
+            "The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells"
+        ]
+    },
+    "286": {
+        "author": "K Wusheng",
+        "citations": 24.0,
+        "titles": [
+            "The mood stabilizer valproic acid induces proliferation and myelination of rat Schwann cells"
+        ]
+    },
+    "287": {
+        "author": "F Xiao",
+        "citations": 23.0,
+        "titles": [
+            "Incorporating anticipation embedding into reinforcement learning framework for multi-hop knowledge graph question answering"
+        ]
+    },
+    "288": {
+        "author": "L Wang",
+        "citations": 23.0,
+        "titles": [
+            "Deep reinforcement learning for greenhouse climate control"
+        ]
+    },
+    "289": {
+        "author": "D Luo",
+        "citations": 23.0,
+        "titles": [
+            "Deep reinforcement learning for greenhouse climate control"
+        ]
+    },
+    "290": {
+        "author": "Z Hou",
+        "citations": 21.0,
+        "titles": [
+            "Rule-aware reinforcement learning for knowledge graph reasoning"
+        ]
+    },
+    "291": {
+        "author": "A Aboussalah",
+        "citations": 21.0,
+        "titles": [
+            "A deep reinforcement learning framework for column generation"
+        ]
+    },
+    "292": {
+        "author": "E Khalil",
+        "citations": 21.0,
+        "titles": [
+            "A deep reinforcement learning framework for column generation"
+        ]
+    },
+    "293": {
+        "author": "J Wang",
+        "citations": 21.0,
+        "titles": [
+            "A deep reinforcement learning framework for column generation"
+        ]
+    },
+    "294": {
+        "author": "C Chi",
+        "citations": 21.0,
+        "titles": [
+            "A deep reinforcement learning framework for column generation"
+        ]
+    },
+    "295": {
+        "author": "Q Baiwen",
+        "citations": 21.0,
+        "titles": [
+            "Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro"
+        ]
+    },
+    "296": {
+        "author": "Z Jin",
+        "citations": 21.0,
+        "titles": [
+            "Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro"
+        ]
+    },
+    "297": {
+        "author": "L Zonghuan",
+        "citations": 21.0,
+        "titles": [
+            "Inhibition of Hypoxia-inducible Factor-1 Alpha Radiosensitized MG-63 Human Osteosarcoma Cells in Vitro"
+        ]
+    },
+    "298": {
+        "author": "SH Huang",
+        "citations": 20.0,
+        "titles": [
+            "Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning"
+        ]
+    },
+    "299": {
+        "author": "ZW Wu",
+        "citations": 20.0,
+        "titles": [
+            "Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning"
+        ]
+    },
+    "300": {
+        "author": "CT Chen",
+        "citations": 20.0,
+        "titles": [
+            "Poisoning attacks against knowledge graph-based recommendation systems using deep reinforcement learning"
+        ]
+    },
+    "301": {
+        "author": "J Deng",
+        "citations": 19.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0"
+        ]
+    },
+    "302": {
+        "author": "Y Zheng",
+        "citations": 19.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0"
+        ]
+    },
+    "303": {
+        "author": "Y Liu",
+        "citations": 19.0,
+        "titles": [
+            "Reinforcement learning-based distant supervision relation extraction for fault diagnosis knowledge graph construction under industry 4.0"
+        ]
+    },
+    "304": {
+        "author": "M Shen",
+        "citations": 19.0,
+        "titles": [
+            "Opponent portrait for multiagent reinforcement learning in competitive environment"
+        ]
+    },
+    "305": {
+        "author": "X Tong",
+        "citations": 19.0,
+        "titles": [
+            "Opponent portrait for multiagent reinforcement learning in competitive environment"
+        ]
+    },
+    "306": {
+        "author": "Y Zhao",
+        "citations": 19.0,
+        "titles": [
+            "Opponent portrait for multiagent reinforcement learning in competitive environment"
+        ]
+    },
+    "307": {
+        "author": "X Xuhui",
+        "citations": 18.0,
+        "titles": [
+            "The separation of catechol from carbofuran phenol by extractive distillation"
+        ]
+    },
+    "308": {
+        "author": "GUO Jiabin",
+        "citations": 18.0,
+        "titles": [
+            "The separation of catechol from carbofuran phenol by extractive distillation"
+        ]
+    },
+    "309": {
+        "author": "M Nie",
+        "citations": 17.0,
+        "titles": [
+            "Reinforcement learning on graphs: A survey"
+        ]
+    },
+    "310": {
+        "author": "D Chen",
+        "citations": 17.0,
+        "titles": [
+            "Reinforcement learning on graphs: A survey"
+        ]
+    },
+    "311": {
+        "author": "D Wang",
+        "citations": 17.0,
+        "titles": [
+            "Reinforcement learning on graphs: A survey"
+        ]
+    },
+    "312": {
+        "author": "W Liu",
+        "citations": 17.0,
+        "titles": [
+            "Deep reinforcement learning for wireless scheduling in distributed networked control"
+        ]
+    },
+    "313": {
+        "author": "K Huang",
+        "citations": 17.0,
+        "titles": [
+            "Deep reinforcement learning for wireless scheduling in distributed networked control"
+        ]
+    },
+    "314": {
+        "author": "B Vucetic",
+        "citations": 17.0,
+        "titles": [
+            "Deep reinforcement learning for wireless scheduling in distributed networked control"
+        ]
+    },
+    "315": {
+        "author": "DE Quevedo",
+        "citations": 17.0,
+        "titles": [
+            "Deep reinforcement learning for wireless scheduling in distributed networked control"
+        ]
+    },
+    "316": {
+        "author": "J Sun",
+        "citations": 17.0,
+        "titles": [
+            "An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks",
+            "Deep reinforcement learning for optimal denial-of-service attacks scheduling"
+        ]
+    },
+    "317": {
+        "author": "Q Jianwei",
+        "citations": 17.0,
+        "titles": [
+            "Tribological and antioxidation synergistic effect study of sulfonate-modified nano calcium carbonate"
+        ]
+    },
+    "318": {
+        "author": "SH Lee",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation"
+        ]
+    },
+    "319": {
+        "author": "K Farkhodov",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation"
+        ]
+    },
+    "320": {
+        "author": "JH Park",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation"
+        ]
+    },
+    "321": {
+        "author": "KR Kwon",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning-based DQN agent algorithm for visual object tracking in a virtual environmental simulation"
+        ]
+    },
+    "322": {
+        "author": "E Ben",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning with modulated hebbian plus Q-network architecture"
+        ]
+    },
+    "323": {
+        "author": "P Ladosz",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning with modulated hebbian plus Q-network architecture"
+        ]
+    },
+    "324": {
+        "author": "J Dick",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning with modulated hebbian plus Q-network architecture"
+        ]
+    },
+    "325": {
+        "author": "N Ketz",
+        "citations": 16.0,
+        "titles": [
+            "Deep reinforcement learning with modulated hebbian plus Q-network architecture"
+        ]
+    },
+    "326": {
+        "author": "W Ding",
+        "citations": 15.0,
+        "titles": [
+            "An edge server placement method based on reinforcement learning"
+        ]
+    },
+    "327": {
+        "author": "J Fuentes",
+        "citations": 15.0,
+        "titles": [
+            "An edge server placement method based on reinforcement learning"
+        ]
+    },
+    "328": {
+        "author": "F Luo",
+        "citations": 15.0,
+        "titles": [
+            "An edge server placement method based on reinforcement learning"
+        ]
+    },
+    "329": {
+        "author": "J Martin",
+        "citations": 15.0,
+        "titles": [
+            "Death and suicide in universal artificial intelligence"
+        ]
+    },
+    "330": {
+        "author": "R Lieck",
+        "citations": 15.0,
+        "titles": [
+            "Temporally extended features in model-based reinforcement learning with partial observability"
+        ]
+    },
+    "331": {
+        "author": "M Toussaint",
+        "citations": 15.0,
+        "titles": [
+            "Temporally extended features in model-based reinforcement learning with partial observability"
+        ]
+    },
+    "332": {
+        "author": "A Critch",
+        "citations": 15.0,
+        "titles": [
+            "Toward negotiable reinforcement learning: shifting priorities in Pareto optimal sequential decision-making"
+        ]
+    },
+    "333": {
+        "author": "M Lin",
+        "citations": 15.0,
+        "titles": [
+            "Synthesis, tribological and hydrolysis stability study of novel benzotriazole borate derivative"
+        ]
+    },
+    "334": {
+        "author": "T Ogawa",
+        "citations": 14.0,
+        "titles": [
+            "Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features",
+            "Controllable music playlist generation based on knowledge graph and reinforcement learning"
+        ]
+    },
+    "335": {
+        "author": "K Sakurai",
+        "citations": 14.0,
+        "titles": [
+            "Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features",
+            "Controllable music playlist generation based on knowledge graph and reinforcement learning"
+        ]
+    },
+    "336": {
+        "author": "R Togo",
+        "citations": 14.0,
+        "titles": [
+            "Deep reinforcement learning-based music recommendation with knowledge graph using acoustic features",
+            "Controllable music playlist generation based on knowledge graph and reinforcement learning"
+        ]
+    },
+    "337": {
+        "author": "A Ramesh",
+        "citations": 13.0,
+        "titles": [
+            "The benefits of model-based generalization in reinforcement learning"
+        ]
+    },
+    "338": {
+        "author": "K Young",
+        "citations": 13.0,
+        "titles": [
+            "The benefits of model-based generalization in reinforcement learning"
+        ]
+    },
+    "339": {
+        "author": "L Kirsch",
+        "citations": 13.0,
+        "titles": [
+            "The benefits of model-based generalization in reinforcement learning"
+        ]
+    },
+    "340": {
+        "author": "Q Yang",
+        "citations": 13.0,
+        "titles": [
+            "Deep reinforcement learning for optimal denial-of-service attacks scheduling"
+        ]
+    },
+    "341": {
+        "author": "Z Pang",
+        "citations": 13.0,
+        "titles": [
+            "Deep reinforcement learning for optimal denial-of-service attacks scheduling"
+        ]
+    },
+    "342": {
+        "author": "F Hou",
+        "citations": 13.0,
+        "titles": [
+            "Deep reinforcement learning for optimal denial-of-service attacks scheduling"
+        ]
+    },
+    "343": {
+        "author": "JA Mumith",
+        "citations": 12.0,
+        "titles": [
+            "Design and optimization of a thermoacoustic heat engine using reinforcement learning"
+        ]
+    },
+    "344": {
+        "author": "T Karayiannis",
+        "citations": 12.0,
+        "titles": [
+            "Design and optimization of a thermoacoustic heat engine using reinforcement learning"
+        ]
+    },
+    "345": {
+        "author": "W Lin",
+        "citations": 12.0,
+        "titles": [
+            "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning"
+        ]
+    },
+    "346": {
+        "author": "W Zhao",
+        "citations": 12.0,
+        "titles": [
+            "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning"
+        ]
+    },
+    "347": {
+        "author": "A Zakharenkov",
+        "citations": 11.0,
+        "titles": [
+            "Deep reinforcement learning with dqn vs. ppo in vizdoom"
+        ]
+    },
+    "348": {
+        "author": "I Makarov",
+        "citations": 11.0,
+        "titles": [
+            "Deep reinforcement learning with dqn vs. ppo in vizdoom"
+        ]
+    },
+    "349": {
+        "author": "GP Licks",
+        "citations": 11.0,
+        "titles": [
+            "Markov abstractions for PAC reinforcement learning in non-markov decision processes"
+        ]
+    },
+    "350": {
+        "author": "G De Giacomo",
+        "citations": 11.0,
+        "titles": [
+            "Markov abstractions for PAC reinforcement learning in non-markov decision processes"
+        ]
+    },
+    "351": {
+        "author": "A Ronca",
+        "citations": 11.0,
+        "titles": [
+            "Markov abstractions for PAC reinforcement learning in non-markov decision processes",
+            "Provably Efficient Offline Reinforcement Learning in Regular Decision Processes"
+        ]
+    },
+    "352": {
+        "author": "S Pankov",
+        "citations": 11.0,
+        "titles": [
+            "A computational approximation to the AIXI model"
+        ]
+    },
+    "353": {
+        "author": "S Yang",
+        "citations": 10.0,
+        "titles": [
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions"
+        ]
+    },
+    "354": {
+        "author": "S Yang-Zhao",
+        "citations": 10.0,
+        "titles": [
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions",
+            "Dynamic Knowledge Injection for AIXI Agents",
+            "A Direct Approximation of AIXI Using Logical State Abstractions"
+        ]
+    },
+    "355": {
+        "author": "W Cao",
+        "citations": 10.0,
+        "titles": [
+            "Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning"
+        ]
+    },
+    "356": {
+        "author": "X Yang",
+        "citations": 10.0,
+        "titles": [
+            "Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning"
+        ]
+    },
+    "357": {
+        "author": "J Yan",
+        "citations": 10.0,
+        "titles": [
+            "Communication-efficient and collision-free motion planning of underwater vehicles via integral reinforcement learning"
+        ]
+    },
+    "358": {
+        "author": "Q Zhou",
+        "citations": 10.0,
+        "titles": [
+            "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
+        ]
+    },
+    "359": {
+        "author": "A Luo",
+        "citations": 10.0,
+        "titles": [
+            "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
+        ]
+    },
+    "360": {
+        "author": "H Yin",
+        "citations": 9.0,
+        "titles": [
+            "Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning"
+        ]
+    },
+    "361": {
+        "author": "T Chen",
+        "citations": 9.0,
+        "titles": [
+            "Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning"
+        ]
+    },
+    "362": {
+        "author": "QVH Nguyen",
+        "citations": 9.0,
+        "titles": [
+            "Dream: Adaptive reinforcement learning based on attention mechanism for temporal knowledge graph reasoning"
+        ]
+    },
+    "363": {
+        "author": "D Chai",
+        "citations": 9.0,
+        "titles": [
+            "RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism"
+        ]
+    },
+    "364": {
+        "author": "L Zhu",
+        "citations": 9.0,
+        "titles": [
+            "RLAT: Multi-hop temporal knowledge graph reasoning based on Reinforcement Learning and Attention Mechanism"
+        ]
+    },
+    "365": {
+        "author": "Y Guo",
+        "citations": 9.0,
+        "titles": [
+            "Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults"
+        ]
+    },
+    "366": {
+        "author": "P Zhenyu",
+        "citations": 9.0,
+        "titles": [
+            "Treatment of serious femoral neck fractures with the transposition of vascularized greater trochanter bone flap in young adults"
+        ]
+    },
+    "367": {
+        "author": "B Zhu",
+        "citations": 8.0,
+        "titles": [
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "368": {
+        "author": "H Bi",
+        "citations": 8.0,
+        "titles": [
+            "Reinforcement learning with dynamic completion for answering multi-hop questions over incomplete knowledge graph"
+        ]
+    },
+    "369": {
+        "author": "Y Jia",
+        "citations": 8.0,
+        "titles": [
+            "Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis"
+        ]
+    },
+    "370": {
+        "author": "Z Tan",
+        "citations": 8.0,
+        "titles": [
+            "Dkdr: An approach of knowledge graph and deep reinforcement learning for disease diagnosis"
+        ]
+    },
+    "371": {
+        "author": "C Amato",
+        "citations": 8.0,
+        "titles": [
+            "Asymmetric DQN for partially observable reinforcement learning"
+        ]
+    },
+    "372": {
+        "author": "B Daley",
+        "citations": 8.0,
+        "titles": [
+            "Asymmetric DQN for partially observable reinforcement learning"
+        ]
+    },
+    "373": {
+        "author": "A Baisero",
+        "citations": 8.0,
+        "titles": [
+            "Asymmetric DQN for partially observable reinforcement learning"
+        ]
+    },
+    "374": {
+        "author": "A Zhu",
+        "citations": 8.0,
+        "titles": [
+            "Multi-Agent Reinforcement Learning Based Cooperative Multitype Task Offloading Strategy for Internet of Vehicles in B5G/6G Network"
+        ]
+    },
+    "375": {
+        "author": "G Franz\u00e8",
+        "citations": 8.0,
+        "titles": [
+            "Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control",
+            "Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach"
+        ]
+    },
+    "376": {
+        "author": "F Giannini",
+        "citations": 8.0,
+        "titles": [
+            "Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control",
+            "Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach"
+        ]
+    },
+    "377": {
+        "author": "AB Altuner",
+        "citations": 7.0,
+        "titles": [
+            "A novel deep reinforcement learning based stock direction prediction using knowledge graph and community aware sentiments"
+        ]
+    },
+    "378": {
+        "author": "ZH Kilimci",
+        "citations": 7.0,
+        "titles": [
+            "A novel deep reinforcement learning based stock direction prediction using knowledge graph and community aware sentiments"
+        ]
+    },
+    "379": {
+        "author": "S Katayama",
+        "citations": 7.0,
+        "titles": [
+            "Ideas for a reinforcement learning algorithm that learns programs",
+            "Computable Variants of AIXI which are More Powerful than AIXI"
+        ]
+    },
+    "380": {
+        "author": "G Fortino",
+        "citations": 7.0,
+        "titles": [
+            "Path planning for vehicle platoons under routing decisions: a distributed approach combining deep reinforcement learning and model predictive control"
+        ]
+    },
+    "381": {
+        "author": "Q Li",
+        "citations": 7.0,
+        "titles": [
+            "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
+        ]
+    },
+    "382": {
+        "author": "R Song",
+        "citations": 7.0,
+        "titles": [
+            "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
+        ]
+    },
+    "383": {
+        "author": "J Liu",
+        "citations": 6.0,
+        "titles": [
+            "A Systematic Literature Review of reinforcement learning-based knowledge graph research",
+            "Reinforcement learning-based knowledge graph reasoning for aluminum alloy applications"
+        ]
+    },
+    "384": {
+        "author": "S Liu",
+        "citations": 6.0,
+        "titles": [
+            "Reason more like human: Incorporating meta information into hierarchical reinforcement learning for knowledge graph reasoning",
+            "The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise"
+        ]
+    },
+    "385": {
+        "author": "F Zhuang",
+        "citations": 6.0,
+        "titles": [
+            "Towards robust knowledge graph embedding via multi-task reinforcement learning"
+        ]
+    },
+    "386": {
+        "author": "S Volodin",
+        "citations": 6.0,
+        "titles": [
+            "Causeoccam: Learning interpretable abstract representations in reinforcement learning environments via model sparsity"
+        ]
+    },
+    "387": {
+        "author": "EME Mhamdi",
+        "citations": 6.0,
+        "titles": [
+            "Virtuously safe reinforcement learning"
+        ]
+    },
+    "388": {
+        "author": "R Guerraoui",
+        "citations": 6.0,
+        "titles": [
+            "Virtuously safe reinforcement learning"
+        ]
+    },
+    "389": {
+        "author": "H Aslund",
+        "citations": 6.0,
+        "titles": [
+            "Virtuously safe reinforcement learning",
+            "Virtuously Safe Reinforcement Learning (Master Thesis version)"
+        ]
+    },
+    "390": {
+        "author": "M Haseyama",
+        "citations": 5.0,
+        "titles": [
+            "Controllable music playlist generation based on knowledge graph and reinforcement learning"
+        ]
+    },
+    "391": {
+        "author": "Z Al",
+        "citations": 5.0,
+        "titles": [
+            "QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography"
+        ]
+    },
+    "392": {
+        "author": "Z Al-Ars",
+        "citations": 5.0,
+        "titles": [
+            "QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography"
+        ]
+    },
+    "393": {
+        "author": "A Sarkar",
+        "citations": 5.0,
+        "titles": [
+            "QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography"
+        ]
+    },
+    "394": {
+        "author": "K Bertels",
+        "citations": 5.0,
+        "titles": [
+            "QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography"
+        ]
+    },
+    "395": {
+        "author": "H Gandhi",
+        "citations": 5.0,
+        "titles": [
+            "QKSA: Quantum Knowledge Seeking Agent--resource-optimized reinforcement learning using quantum process tomography"
+        ]
+    },
+    "396": {
+        "author": "E Congeduti",
+        "citations": 5.0,
+        "titles": [
+            "Influence-based abstraction in deep reinforcement learning"
+        ]
+    },
+    "397": {
+        "author": "RA Starre",
+        "citations": 5.0,
+        "titles": [
+            "Influence-based abstraction in deep reinforcement learning"
+        ]
+    },
+    "398": {
+        "author": "MS de Castro",
+        "citations": 5.0,
+        "titles": [
+            "Influence-based abstraction in deep reinforcement learning"
+        ]
+    },
+    "399": {
+        "author": "A Safron",
+        "citations": 4.0,
+        "titles": [
+            "AIXI, FEP-AI, and integrated world models: Towards a unified understanding of intelligence and consciousness",
+            "AIXI, FEP-AI, and integrated world models: Towards a unified understanding of intelligence and consciousness"
+        ]
+    },
+    "400": {
+        "author": "M Gendron-Bellemare",
+        "citations": 4.0,
+        "titles": [
+            "Fast, Scalable Algorithms for Reinforcement Learning in High Dimensional Domains"
+        ]
+    },
+    "401": {
+        "author": "M Gendron",
+        "citations": 4.0,
+        "titles": [
+            "Fast, Scalable Algorithms for Reinforcement Learning in High Dimensional Domains"
+        ]
+    },
+    "402": {
+        "author": "G Qi",
+        "citations": 4.0,
+        "titles": [
+            "An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks"
+        ]
+    },
+    "403": {
+        "author": "Z Zhu",
+        "citations": 4.0,
+        "titles": [
+            "An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks"
+        ]
+    },
+    "404": {
+        "author": "Y Chai",
+        "citations": 4.0,
+        "titles": [
+            "An adaptive V2G capacity-based frequency regulation scheme with integral reinforcement learning against DoS attacks"
+        ]
+    },
+    "405": {
+        "author": "G Jing",
+        "citations": 4.0,
+        "titles": [
+            "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent"
+        ]
+    },
+    "406": {
+        "author": "J George",
+        "citations": 4.0,
+        "titles": [
+            "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent"
+        ]
+    },
+    "407": {
+        "author": "H Bai",
+        "citations": 4.0,
+        "titles": [
+            "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent"
+        ]
+    },
+    "408": {
+        "author": "A Chakrabortty",
+        "citations": 4.0,
+        "titles": [
+            "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent"
+        ]
+    },
+    "409": {
+        "author": "L Qi",
+        "citations": 4.0,
+        "titles": [
+            "Ecological landscape design of urban wetland park: a case study of the Aixi Lake Wetland Park in Nanchang City"
+        ]
+    },
+    "410": {
+        "author": "L Wenjing",
+        "citations": 4.0,
+        "titles": [
+            "Ecological landscape design of urban wetland park: a case study of the Aixi Lake Wetland Park in Nanchang City"
+        ]
+    },
+    "411": {
+        "author": "Z Tang",
+        "citations": 3.0,
+        "titles": [
+            "A Systematic Literature Review of reinforcement learning-based knowledge graph research"
+        ]
+    },
+    "412": {
+        "author": "D Wu",
+        "citations": 3.0,
+        "titles": [
+            "A Systematic Literature Review of reinforcement learning-based knowledge graph research"
+        ]
+    },
+    "413": {
+        "author": "T Li",
+        "citations": 3.0,
+        "titles": [
+            "A Systematic Literature Review of reinforcement learning-based knowledge graph research"
+        ]
+    },
+    "414": {
+        "author": "Q Qian",
+        "citations": 3.0,
+        "titles": [
+            "Reinforcement learning-based knowledge graph reasoning for aluminum alloy applications"
+        ]
+    },
+    "415": {
+        "author": "Y Zhang",
+        "citations": 3.0,
+        "titles": [
+            "DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection"
+        ]
+    },
+    "416": {
+        "author": "W Shen",
+        "citations": 3.0,
+        "titles": [
+            "DuAK: Reinforcement Learning-Based Knowledge Graph Reasoning for Steel Surface Defect Detection"
+        ]
+    },
+    "417": {
+        "author": "E Brunskill",
+        "citations": 3.0,
+        "titles": [
+            "Value driven representation for human-in-the-loop reinforcement learning"
+        ]
+    },
+    "418": {
+        "author": "R Keramati",
+        "citations": 3.0,
+        "titles": [
+            "Value driven representation for human-in-the-loop reinforcement learning"
+        ]
+    },
+    "419": {
+        "author": "MT Bennett",
+        "citations": 3.0,
+        "titles": [
+            "Enactivism & Objectively Optimal Super-Intelligence",
+            "Is Complexity an Illusion?"
+        ]
+    },
+    "420": {
+        "author": "F Peng",
+        "citations": 3.0,
+        "titles": [
+            "Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning"
+        ]
+    },
+    "421": {
+        "author": "H Modares",
+        "citations": 3.0,
+        "titles": [
+            "Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning",
+            "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
+        ]
+    },
+    "422": {
+        "author": "B Kiumarsi",
+        "citations": 3.0,
+        "titles": [
+            "Heterogeneous formation control of multiple rotorcrafts with unknown dynamics using reinforcement learning"
+        ]
+    },
+    "423": {
+        "author": "Y Zihui",
+        "citations": 3.0,
+        "titles": [
+            "Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran"
+        ]
+    },
+    "424": {
+        "author": "L Wan",
+        "citations": 3.0,
+        "titles": [
+            "Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran"
+        ]
+    },
+    "425": {
+        "author": "Y Jiao",
+        "citations": 3.0,
+        "titles": [
+            "Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran"
+        ]
+    },
+    "426": {
+        "author": "O Xiaoming",
+        "citations": 3.0,
+        "titles": [
+            "Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran"
+        ]
+    },
+    "427": {
+        "author": "H Aixi",
+        "citations": 3.0,
+        "titles": [
+            "Synthesis and fungicidal activities of 2-{oxy}alkanamides containing dihydrobenzofuran"
+        ]
+    },
+    "428": {
+        "author": "B Fallenstein",
+        "citations": 3.0,
+        "titles": [
+            "Reflective variants of Solomonoff induction and AIXI"
+        ]
+    },
+    "429": {
+        "author": "N Soares",
+        "citations": 3.0,
+        "titles": [
+            "Reflective variants of Solomonoff induction and AIXI"
+        ]
+    },
+    "430": {
+        "author": "J Taylor",
+        "citations": 3.0,
+        "titles": [
+            "Reflective variants of Solomonoff induction and AIXI"
+        ]
+    },
+    "431": {
+        "author": "G Nikopensius",
+        "citations": 2.0,
+        "titles": [
+            "Reinforcement learning-based knowledge graph reasoning for explainable fact-checking"
+        ]
+    },
+    "432": {
+        "author": "M Mayank",
+        "citations": 2.0,
+        "titles": [
+            "Reinforcement learning-based knowledge graph reasoning for explainable fact-checking"
+        ]
+    },
+    "433": {
+        "author": "OC Phukan",
+        "citations": 2.0,
+        "titles": [
+            "Reinforcement learning-based knowledge graph reasoning for explainable fact-checking"
+        ]
+    },
+    "434": {
+        "author": "C Jiang",
+        "citations": 2.0,
+        "titles": [
+            "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
+        ]
+    },
+    "435": {
+        "author": "C Liu",
+        "citations": 2.0,
+        "titles": [
+            "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
+        ]
+    },
+    "436": {
+        "author": "T Zhu",
+        "citations": 2.0,
+        "titles": [
+            "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
+        ]
+    },
+    "437": {
+        "author": "H Zhou",
+        "citations": 2.0,
+        "titles": [
+            "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
+        ]
+    },
+    "438": {
+        "author": "T Deng",
+        "citations": 2.0,
+        "titles": [
+            "Path Spuriousness-aware Reinforcement Learning for Multi-Hop Knowledge Graph Reasoning"
+        ]
+    },
+    "439": {
+        "author": "E Catt",
+        "citations": 2.0,
+        "titles": [
+            "Self-Predictive Universal AI",
+            "An Introduction to Universal Artificial Intelligence",
+            "Quantum Algorithms for Universal Prediction",
+            "On Reward Binarisation and Bayesian Agents"
+        ]
+    },
+    "440": {
+        "author": "S Sarkar",
+        "citations": 2.0,
+        "titles": [
+            "Categorizing Wireheading in Partially Embedded Agents"
+        ]
+    },
+    "441": {
+        "author": "A Majha",
+        "citations": 2.0,
+        "titles": [
+            "Categorizing Wireheading in Partially Embedded Agents"
+        ]
+    },
+    "442": {
+        "author": "D Zagami",
+        "citations": 2.0,
+        "titles": [
+            "Categorizing Wireheading in Partially Embedded Agents",
+            "AIXI Responses to Newcomblike Problems"
+        ]
+    },
+    "443": {
+        "author": "E \u00d6zkural",
+        "citations": 2.0,
+        "titles": [
+            "Measures of Intelligence, Perception and Intelligent Agents"
+        ]
+    },
+    "444": {
+        "author": "D Li",
+        "citations": 1.0,
+        "titles": [
+            "Causal Reinforcement Learning for Knowledge Graph Reasoning"
+        ]
+    },
+    "445": {
+        "author": "J Wu",
+        "citations": 1.0,
+        "titles": [
+            "Causal Reinforcement Learning for Knowledge Graph Reasoning"
+        ]
+    },
+    "446": {
+        "author": "W Zhou",
+        "citations": 1.0,
+        "titles": [
+            "Causal Reinforcement Learning for Knowledge Graph Reasoning"
+        ]
+    },
+    "447": {
+        "author": "G Zeng",
+        "citations": 1.0,
+        "titles": [
+            "Causal Reinforcement Learning for Knowledge Graph Reasoning"
+        ]
+    },
+    "448": {
+        "author": "Q Sun",
+        "citations": 1.0,
+        "titles": [
+            "Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs"
+        ]
+    },
+    "449": {
+        "author": "Z Gao",
+        "citations": 1.0,
+        "titles": [
+            "Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs"
+        ]
+    },
+    "450": {
+        "author": "B Guan",
+        "citations": 1.0,
+        "titles": [
+            "Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs"
+        ]
+    },
+    "451": {
+        "author": "N Quach",
+        "citations": 1.0,
+        "titles": [
+            "Reinforcement Learning Approach for Integrating Compressed Contexts into Knowledge Graphs"
+        ]
+    },
+    "452": {
+        "author": "D Quarel",
+        "citations": 1.0,
+        "titles": [
+            "An Introduction to Universal Artificial Intelligence"
+        ]
+    },
+    "453": {
+        "author": "W Wu",
+        "citations": 1.0,
+        "titles": [
+            "Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning"
+        ]
+    },
+    "454": {
+        "author": "B Wu",
+        "citations": 1.0,
+        "titles": [
+            "Model-Free Cooperative Optimal Output Regulation for Linear Discrete-Time Multi-Agent Systems Using Reinforcement Learning"
+        ]
+    },
+    "455": {
+        "author": "L D'Alfonso",
+        "citations": 1.0,
+        "titles": [
+            "Autonomous Vehicle Platoons in Urban Road Networks: A Joint Distributed Reinforcement Learning and Model Predictive Control Approach"
+        ]
+    },
+    "456": {
+        "author": "Z Aixi",
+        "citations": 1.0,
+        "titles": [
+            "Study on creation of artistic conception in modern clothing design."
+        ]
+    },
+    "457": {
+        "author": "GUO Fengqiu",
+        "citations": 1.0,
+        "titles": [
+            "Study on creation of artistic conception in modern clothing design."
+        ]
+    },
+    "458": {
+        "author": "J Xu",
+        "citations": 0,
+        "titles": [
+            "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning"
+        ]
+    },
+    "459": {
+        "author": "L Yuan",
+        "citations": 0,
+        "titles": [
+            "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning"
+        ]
+    },
+    "460": {
+        "author": "F Zhang",
+        "citations": 0,
+        "titles": [
+            "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning"
+        ]
+    },
+    "461": {
+        "author": "Q Xiao",
+        "citations": 0,
+        "titles": [
+            "Multi-Hop Temporal Knowledge Graph Reasoning with Multi-Agent Reinforcement Learning"
+        ]
+    },
+    "462": {
+        "author": "J Grau",
+        "citations": 0,
+        "titles": [
+            "Self-Predictive Universal AI"
+        ]
+    },
+    "463": {
+        "author": "J Grau-Moya",
+        "citations": 0,
+        "titles": [
+            "Self-Predictive Universal AI"
+        ]
+    },
+    "464": {
+        "author": "D Johnston",
+        "citations": 0,
+        "titles": [
+            "Non-Markovian State Aggregation for Reinforcement Learning"
+        ]
+    },
+    "465": {
+        "author": "C Maze",
+        "citations": 0,
+        "titles": [
+            "Context Tree Maximizing Reinforcement Learning"
+        ]
+    },
+    "466": {
+        "author": "D Bossens",
+        "citations": 0,
+        "titles": [
+            "Reinforcement learning with limited prior knowledge in long-term environments"
+        ]
+    },
+    "467": {
+        "author": "K Xie",
+        "citations": 0,
+        "titles": [
+            "Adaptive Output Synchronization With Designated Convergence Rate of Multiagent Systems Based on Off-Policy Reinforcement Learning"
+        ]
+    },
+    "468": {
+        "author": "R Cipollone",
+        "citations": 0,
+        "titles": [
+            "Provably Efficient Offline Reinforcement Learning in Regular Decision Processes"
+        ]
+    },
+    "469": {
+        "author": "MK Cohen",
+        "citations": 0,
+        "titles": [
+            "Algorithm for Aligned Artificial General Intelligence"
+        ]
+    },
+    "470": {
+        "author": "B Vellambi",
+        "citations": 0,
+        "titles": [
+            "Algorithm for Aligned Artificial General Intelligence"
+        ]
+    },
+    "471": {
+        "author": "T Lattimore",
+        "citations": 0,
+        "titles": [
+            "Optimal Universal Explorative Agents"
+        ]
+    },
+    "472": {
+        "author": "A Tacchetti",
+        "citations": 0,
+        "titles": [
+            "Teamwork Reinforcement Learning With Concave Utilities"
+        ]
+    },
+    "473": {
+        "author": "Z Yu",
+        "citations": 0,
+        "titles": [
+            "Teamwork Reinforcement Learning With Concave Utilities"
+        ]
+    },
+    "474": {
+        "author": "Z Wen",
+        "citations": 0,
+        "titles": [
+            "Teamwork Reinforcement Learning With Concave Utilities"
+        ]
+    },
+    "475": {
+        "author": "N Lin",
+        "citations": 0,
+        "titles": [
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "476": {
+        "author": "Y Guan",
+        "citations": 0,
+        "titles": [
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "477": {
+        "author": "A Hawbani",
+        "citations": 0,
+        "titles": [
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "478": {
+        "author": "L Zhao",
+        "citations": 0,
+        "titles": [
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "479": {
+        "author": "H Tang",
+        "citations": 0,
+        "titles": [
+            "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
+        ]
+    },
+    "480": {
+        "author": "D Newth",
+        "citations": 0,
+        "titles": [
+            "An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management"
+        ]
+    },
+    "481": {
+        "author": "R Omari",
+        "citations": 0,
+        "titles": [
+            "An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management"
+        ]
+    },
+    "482": {
+        "author": "M B\u00f6hm",
+        "citations": 0,
+        "titles": [
+            "An Application of a Monte-Carlo AIXI Approximation in Ecological Fire Management"
+        ]
+    },
+    "483": {
+        "author": "S Zhang",
+        "citations": 0,
+        "titles": [
+            "The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise"
+        ]
+    },
+    "484": {
+        "author": "S Chen",
+        "citations": 0,
+        "titles": [
+            "The ODE Method for Stochastic Approximation and Reinforcement Learning with Markovian Noise"
+        ]
+    },
+    "485": {
+        "author": "M Mazouchi",
+        "citations": 0,
+        "titles": [
+            "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
+        ]
+    },
+    "486": {
+        "author": "T Matricon",
+        "citations": 0,
+        "titles": [
+            "Theoretical foundations for programmatic reinforcement learning"
+        ]
+    },
+    "487": {
+        "author": "G Shabadi",
+        "citations": 0,
+        "titles": [
+            "Theoretical foundations for programmatic reinforcement learning"
+        ]
+    },
+    "488": {
+        "author": "N Fijalkow",
+        "citations": 0,
+        "titles": [
+            "Theoretical foundations for programmatic reinforcement learning"
+        ]
+    },
+    "489": {
+        "author": "L Guodong",
+        "citations": 0,
+        "titles": [
+            "An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform"
+        ]
+    },
+    "490": {
+        "author": "X Zhiyu",
+        "citations": 0,
+        "titles": [
+            "An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform"
+        ]
+    },
+    "491": {
+        "author": "L Weiguo",
+        "citations": 0,
+        "titles": [
+            "An Augmented Reality-Based Proving Ground Vehicle-in-the-Loop Test Platform"
+        ]
+    },
+    "492": {
+        "author": "Y Yue",
+        "citations": 0,
+        "titles": [
+            "Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019"
+        ]
+    },
+    "493": {
+        "author": "YU Aixi",
+        "citations": 0,
+        "titles": [
+            "Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019"
+        ]
+    },
+    "494": {
+        "author": "X Wenxia",
+        "citations": 0,
+        "titles": [
+            "Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019"
+        ]
+    },
+    "495": {
+        "author": "SUN Zhibo",
+        "citations": 0,
+        "titles": [
+            "Strategies suggested for emergency diagnosis and treatment of traumatic orthopedicsin the epidemic periodof Corona Virus Disease 2019"
+        ]
+    },
+    "496": {
+        "author": "Z Minghao",
+        "citations": 0,
+        "titles": [
+            "How does Social Capital Improve Farmers' Credit?\u2014\u2014Based on Empirical Study on Network, Trust and Standardization"
+        ]
+    },
+    "497": {
+        "author": "C Jingping",
+        "citations": 0,
+        "titles": [
+            "How does Social Capital Improve Farmers' Credit?\u2014\u2014Based on Empirical Study on Network, Trust and Standardization"
+        ]
+    },
+    "498": {
+        "author": "LI Aixi",
+        "citations": 0,
+        "titles": [
+            "How does Social Capital Improve Farmers' Credit?\u2014\u2014Based on Empirical Study on Network, Trust and Standardization"
+        ]
+    },
+    "499": {
+        "author": "W Xiaoduo",
+        "citations": 0,
+        "titles": [
+            "Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin"
+        ]
+    },
+    "500": {
+        "author": "Z Yaxiong",
+        "citations": 0,
+        "titles": [
+            "Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin"
+        ]
+    },
+    "501": {
+        "author": "C Zhijun",
+        "citations": 0,
+        "titles": [
+            "Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin"
+        ]
+    },
+    "502": {
+        "author": "GAO Yiwen",
+        "citations": 0,
+        "titles": [
+            "Geochemical characteristics and resource potential of source rocks in Aixi Sag, Yingen-Ejinaqi Basin"
+        ]
+    },
+    "503": {
+        "author": "CK Chen Kui",
+        "citations": 0,
+        "titles": [
+            "Study on application of biogas slurry in cyclic utilization of sugarcane leaves."
+        ]
+    },
+    "504": {
+        "author": "SAX Shen AiXi",
+        "citations": 0,
+        "titles": [
+            "Study on application of biogas slurry in cyclic utilization of sugarcane leaves."
+        ]
+    },
+    "505": {
+        "author": "CLM Chen LiuMeng",
+        "citations": 0,
+        "titles": [
+            "Study on application of biogas slurry in cyclic utilization of sugarcane leaves."
+        ]
+    },
+    "506": {
+        "author": "F Xiongying",
+        "citations": 0,
+        "titles": [
+            "Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property"
+        ]
+    },
+    "507": {
+        "author": "Y Shiying",
+        "citations": 0,
+        "titles": [
+            "Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property"
+        ]
+    },
+    "508": {
+        "author": "L Xiaochang",
+        "citations": 0,
+        "titles": [
+            "Calculation of Li-like Al ion energy level structure and Ab initio AIXI spectral property"
+        ]
+    },
+    "509": {
+        "author": "Z Fakhraaia",
+        "citations": 0,
+        "titles": [
+            "\u2026 of a Homologous Series of Molecular Glassformers Sarah E. Wolf, Tianyi Liu, Shivajee Govind, Haoqiang Zhao, Georgia Huang, Aixi Zhang, Yu Wu \u2026"
+        ]
+    }
+}

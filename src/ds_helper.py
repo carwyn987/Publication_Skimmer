@@ -10,6 +10,8 @@ def flatten_json(nested_json, exclude=[''], path=""):
     """
     out = {}
 
+    # print("NSJ: ", nested_json)
+
     def flatten(x, name='', exclude=exclude, path=path):
         if type(x) is dict:
             for a in x:
@@ -23,19 +25,21 @@ def flatten_json(nested_json, exclude=[''], path=""):
             out[name[:-1]] = x
 
     flatten(nested_json)
+    
     return out
 
 def load_one_record(json_data):
-    if 'resources' in json_data:
-        df1 = pd.DataFrame([flatten_json(x, [""], "resources.") for x in json_data['resources']])
-    else:
-        df1 = pd.DataFrame()
-    if 'authors' in json_data['publication_info']:
-        df2 = pd.DataFrame([flatten_json(x, [""], "publication_info.authors.") for x in json_data['publication_info']['authors']])
-    else:
-        df2 = pd.DataFrame()
-    df3 = pd.json_normalize(json_data)
-    df = pd.concat([df1, df2, df3], ignore_index=True)
+    # if 'resources' in json_data:
+    #     df1 = pd.DataFrame([flatten_json(x, [""], "resources.") for x in json_data['resources']])
+    # else:
+    #     df1 = pd.DataFrame()
+    # if 'authors' in json_data['publication_info']:
+    #     df2 = pd.DataFrame([flatten_json(x, [""], "publication_info.authors.") for x in json_data['publication_info']['authors']])
+    # else:
+    #     df2 = pd.DataFrame()
+    # df3 = pd.json_normalize(json_data)
+    # df = pd.concat([df1, df2, df3], ignore_index=True)
+    df = pd.DataFrame([flatten_json(json_data, [""], "")])
     return df
 
 def load_all_records(json_data):

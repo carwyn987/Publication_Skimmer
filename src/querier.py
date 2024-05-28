@@ -11,13 +11,14 @@ def google_scholar_search(query):
 
     results = []
 
-    # for start in sorted(list(range(0, 30, 10)), key=lambda x: random.random()):
-    for start in [10]:
-
+    # Iterate over 3 pages of Google Scholar search results. Randomization is used to avoid getting blocked.
+    # for start in sorted(list(range(0, 40, 20)), key=lambda x: random.random()):
+    for start in range(0, 100, 20):
         params = {
-            "q": query.replace(' ', '+'),
+            "q": query,
             "hl": "en",
             "start": start,
+            "num": 20, # maximum
             "api_key": api_key,
             "engine":"google_scholar"
         }

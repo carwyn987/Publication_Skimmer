@@ -15,18 +15,18 @@ from src.querier import google_scholar_search
 from src.ds_helper import load_one_record, load_all_records
 
 def main(keywords):
-    print(f"Keywords: {keywords}")
+    # print(f"Keywords: {keywords}")
 
     for keyword in keywords:
-        print(f"Searching for: {keyword}")
+        # print(f"Searching for: {keyword}")
         search_results = google_scholar_search(keyword)
         # df = pd.json_normalize(search_results, record_path=['resources'])
-        print(search_results)
+        # print(search_results)
 
         data = search_results
         df = load_all_records(data)
-        print(df)
-        print("!!! ", df.columns)
+        # print(df)
+        # print("!!! ", df.columns)
         
         df.to_csv("data/" + f'{keyword.replace("+","").replace(" ","").strip()}.csv', index=False)
 
