@@ -14,12 +14,12 @@ pd.set_option('display.width', 1000)
 from src.querier import google_scholar_search
 from src.ds_helper import load_one_record, load_all_records
 
-def main(keywords):
+def main(keywords, num_pages_to_query):
     # print(f"Keywords: {keywords}")
 
     for keyword in keywords:
         # print(f"Searching for: {keyword}")
-        search_results = google_scholar_search(keyword)
+        search_results = google_scholar_search(keyword, num_pages_to_query)
         # df = pd.json_normalize(search_results, record_path=['resources'])
         # print(search_results)
 
@@ -39,7 +39,15 @@ if __name__ == "__main__":
         type=str,
         help='One or more keywords (strings)'
     )
+    parser.add_argument(
+        '-n',
+        '--num-pages-to-query',
+        type=int,
+        default=3,
+        help='Number of pages to query (default: 3)'     
+    )
 
     args = parser.parse_args()
     keywords = args.keywords
-    main(keywords)
+    num_pages_to_query = args.num_pages_to_query
+    main(keywords, num_pages_to_query)

@@ -3,6 +3,8 @@
 I have a bunch of keywords for topics I want to research in university
  - Reinforcement Learning
  - AIXI
+ - POMDPs
+ - Bayesian Optimization
 
 What I need is a list of professors with publications in these areas, and their associated universities. I also want some summary statistics, including top universities and professors by aggregate count.
 

@@ -1,39 +1,35 @@
 {
-    "1": {
-        "author": "CH Papadimitriou",
+    "CH Papadimitriou": {
         "citations": 3796.0,
         "titles": [
             "The complexity of Markov decision processes",
             "The complexity of Markov decision processes"
         ],
-        "author_ids": [
-            "rXYLXJMAAAAJ"
-        ]
+        "associations": []
     },
-    "2": {
-        "author": "JN Tsitsiklis",
+    "JN Tsitsiklis": {
         "citations": 3796.0,
         "titles": [
             "The complexity of Markov decision processes",
             "The complexity of Markov decision processes"
         ],
-        "author_ids": [
-            "bWTPrLEAAAAJ"
+        "associations": [
+            "mit.edu",
+            "Professor of Electrical Engineering, MIT"
         ]
     },
-    "3": {
-        "author": "HR Karimi",
+    "HR Karimi": {
         "citations": 314.0,
         "titles": [
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework",
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework"
         ],
-        "author_ids": [
-            "YcTS0ZMAAAAJ"
+        "associations": [
+            "Professor, Politecnico di Milano",
+            "polimi.it"
         ]
     },
-    "4": {
-        "author": "X Zhao",
+    "X Zhao": {
         "citations": 314.0,
         "titles": [
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework",
@@ -41,156 +37,169 @@
             "A Data-Based Adaptive Consensus Control Algorithm of Discrete-Time Multi-Agent Systems",
             "A Data-Based Adaptive Consensus Control Algorithm of Discrete-Time Multi-Agent Systems"
         ],
-        "author_ids": [
-            "uYkpwCAAAAAJ",
-            "nFG8lEYAAAAJ"
+        "associations": [
+            "Dalian University of Technology; Bohai University; China University of Petroleum",
+            "dlut.edu.cn"
         ]
     },
-    "5": {
-        "author": "B Wang",
+    "B Wang": {
         "citations": 314.0,
         "titles": [
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework",
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework"
         ],
-        "author_ids": [
-            "9sau-6oAAAAJ"
+        "associations": [
+            "xjtu.edu.cn",
+            "Full Professor, Xi\u2019 an Jiaotong University"
         ]
     },
-    "6": {
-        "author": "R Ngo",
+    "R Ngo": {
         "citations": 314.0,
         "titles": [
             "The alignment problem from a deep learning perspective",
             "The alignment problem from a deep learning perspective"
         ],
-        "author_ids": [
-            "7CY93A4AAAAJ"
+        "associations": [
+            "openai.com",
+            "OpenAI"
         ]
     },
-    "7": {
-        "author": "L Chan",
+    "L Chan": {
         "citations": 314.0,
         "titles": [
             "The alignment problem from a deep learning perspective",
             "The alignment problem from a deep learning perspective"
         ],
-        "author_ids": [
-            "6Id1G8cAAAAJ"
+        "associations": [
+            "berkeley.edu",
+            "PhD Student, UC Berkeley"
         ]
     },
-    "8": {
-        "author": "S Mindermann",
+    "S Mindermann": {
         "citations": 314.0,
         "titles": [
             "The alignment problem from a deep learning perspective",
             "The alignment problem from a deep learning perspective"
         ],
-        "author_ids": [
-            "slBPlrQAAAAJ"
+        "associations": [
+            "cs.ox.ac.uk",
+            "University of Oxford, OATML"
         ]
     },
-    "9": {
-        "author": "CC Hung",
+    "CC Hung": {
         "citations": 282.0,
         "titles": [
             "Optimizing agent behavior over long time scales by transporting value",
             "Optimizing agent behavior over long time scales by transporting value"
         ],
-        "author_ids": [
-            "zl0fMUYAAAAJ"
+        "associations": [
+            "ML Researcher, Isomorphic Labs",
+            "google.com"
         ]
     },
-    "10": {
-        "author": "T Lillicrap",
+    "T Lillicrap": {
         "citations": 282.0,
         "titles": [
             "Optimizing agent behavior over long time scales by transporting value",
             "Optimizing agent behavior over long time scales by transporting value"
         ],
-        "author_ids": [
-            "htPVdRMAAAAJ"
+        "associations": [
+            "Director of Research, Google DeepMind",
+            "google.com"
         ]
     },
-    "11": {
-        "author": "Y Wu",
+    "Y Wu": {
         "citations": 282.0,
         "titles": [
             "Optimizing agent behavior over long time scales by transporting value",
             "Optimizing agent behavior over long time scales by transporting value"
         ],
-        "author_ids": [
-            "vYmSd0UAAAAJ"
+        "associations": [
+            "google.com",
+            "DeepMind"
         ]
     },
-    "12": {
-        "author": "JR Peters",
+    "JR Peters": {
         "citations": 208.0,
         "titles": [
             "Machine learning of motor skills for robotics",
             "Machine learning of motor skills for robotics"
         ],
-        "author_ids": [
-            "-kIVAcAAAAAJ"
+        "associations": [
+            "cg.tuwien.ac.at",
+            "google.com",
+            "unige.it",
+            "MINES Paristech",
+            "uni-oldenburg.de",
+            "gatech.edu",
+            "ucm.es",
+            "Georgia Institute of Technology",
+            "Google DeepMind",
+            "MaLGa Machine Learning Genoa Center - Universit\u00e0 degli Studi di Genova",
+            "Shanghai Jiao Tong University | VGG, University of Oxford",
+            "Universidad Complutense Madrid",
+            "robots.ox.ac.uk",
+            "pku.edu.cn",
+            "Peking University, Peng Cheng Laboratory",
+            "Carnegie Mellon University"
         ]
     },
-    "13": {
-        "author": "N Vlassis",
+    "N Vlassis": {
         "citations": 206.0,
         "titles": [
             "Bayesian reinforcement learning",
             "Bayesian reinforcement learning"
         ],
-        "author_ids": [
-            "JJWWPjsAAAAJ"
+        "associations": [
+            "Principal Scientist, Adobe",
+            "adobe.com"
         ]
     },
-    "14": {
-        "author": "M Ghavamzadeh",
+    "M Ghavamzadeh": {
         "citations": 206.0,
         "titles": [
             "Bayesian reinforcement learning",
             "Bayesian reinforcement learning"
         ],
-        "author_ids": [
-            "Bo-wyrkAAAAJ"
+        "associations": [
+            "amazon.com",
+            "Amazon"
         ]
     },
-    "15": {
-        "author": "S Mannor",
+    "S Mannor": {
         "citations": 206.0,
         "titles": [
             "Bayesian reinforcement learning",
             "Bayesian reinforcement learning"
         ],
-        "author_ids": [
-            "q1HlbIUAAAAJ"
+        "associations": [
+            "technion.ac.il",
+            "Professor of Electrical Engineering @ Technion & Researcher @ Nvidia"
         ]
     },
-    "16": {
-        "author": "V Narayanan",
+    "V Narayanan": {
         "citations": 186.0,
         "titles": [
             "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration",
             "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration"
         ],
-        "author_ids": [
-            "rirGB10AAAAJ"
+        "associations": [
+            "sc.edu",
+            "University of South Carolina"
         ]
     },
-    "17": {
-        "author": "S Jagannathan",
+    "S Jagannathan": {
         "citations": 186.0,
         "titles": [
             "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration",
             "Event-triggered distributed control of nonlinear interconnected systems using online reinforcement learning with exploration"
         ],
-        "author_ids": [
-            "RTewL_wAAAAJ"
+        "associations": [
+            "University of Missori-Rolla",
+            "mst.edu"
         ]
     },
-    "18": {
-        "author": "L Liu",
+    "L Liu": {
         "citations": 186.0,
         "titles": [
             "Fuzzy observer constraint based on adaptive control for uncertain nonlinear MIMO systems with time-varying state constraints",
@@ -198,54 +207,49 @@
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network",
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": [
-            "7r__F5EAAAAJ",
-            "UCIsl-sAAAAJ"
-        ]
+        "associations": []
     },
-    "19": {
-        "author": "YJ Liu",
+    "YJ Liu": {
         "citations": 180.0,
         "titles": [
             "Fuzzy observer constraint based on adaptive control for uncertain nonlinear MIMO systems with time-varying state constraints",
             "Fuzzy observer constraint based on adaptive control for uncertain nonlinear MIMO systems with time-varying state constraints"
         ],
-        "author_ids": [
-            "x_Wk1jAAAAAJ"
+        "associations": [
+            "Liaoning University of Technology",
+            "lnut.edu.cn"
         ]
     },
-    "20": {
-        "author": "MA Wiering",
+    "MA Wiering": {
         "citations": 176.0,
         "titles": [
             "Reinforcement learning algorithms for solving classification problems",
             "Reinforcement learning algorithms for solving classification problems"
         ],
-        "author_ids": [
-            "880vFIgAAAAJ"
+        "associations": [
+            "Institute of Artificial Intelligence and Cognitive Engineering, University of Groningen",
+            "rug.nl"
         ]
     },
-    "21": {
-        "author": "H Van Hasselt",
+    "H Van Hasselt": {
         "citations": 176.0,
         "titles": [
             "Reinforcement learning algorithms for solving classification problems",
             "Reinforcement learning algorithms for solving classification problems"
         ],
-        "author_ids": [
-            "W80oBMkAAAAJ"
+        "associations": [
+            "Research Scientist, DeepMind; Honorary Professor, UCL",
+            "google.com"
         ]
     },
-    "22": {
-        "author": "X Huo",
+    "X Huo": {
         "citations": 157.0,
         "titles": [
             "Adaptive-critic design for decentralized event-triggered control of constrained nonlinear interconnected systems within an identifier-critic framework"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "23": {
-        "author": "Y Jiang",
+    "Y Jiang": {
         "citations": 156.0,
         "titles": [
             "Data-driven cooperative output regulation of multi-agent systems via robust adaptive dynamic programming",
@@ -255,12 +259,12 @@
             "Robust adaptive dynamic programming: recent results and applications",
             "Robust adaptive dynamic programming: recent results and applications"
         ],
-        "author_ids": [
-            "QYanTRsAAAAJ"
+        "associations": [
+            "clearmotion.com",
+            "Sr. Technical Specialist, ClearMotion, Inc."
         ]
     },
-    "24": {
-        "author": "L Lei",
+    "L Lei": {
         "citations": 150.0,
         "titles": [
             "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming",
@@ -270,12 +274,12 @@
             "AVDDPG: Federated reinforcement learning applied to autonomous platoon control",
             "AVDDPG: Federated reinforcement learning applied to autonomous platoon control"
         ],
-        "author_ids": [
-            "Ut0-14IAAAAJ"
+        "associations": [
+            "University of Guelph",
+            "uoguelph.ca"
         ]
     },
-    "25": {
-        "author": "W Gao",
+    "W Gao": {
         "citations": 146.0,
         "titles": [
             "Data-driven cooperative output regulation of multi-agent systems via robust adaptive dynamic programming",
@@ -283,23 +287,23 @@
             "Data-Driven Adaptive Optimal Tracking and Its Applications to Intelligent Transportation Systems",
             "Data-Driven Adaptive Optimal Tracking and Its Applications to Intelligent Transportation Systems"
         ],
-        "author_ids": [
-            "XNYwzswAAAAJ"
+        "associations": [
+            "mail.neu.edu.cn",
+            "Professor, IEEE Senior Member, Northeastern University CN"
         ]
     },
-    "26": {
-        "author": "M Davari",
+    "M Davari": {
         "citations": 146.0,
         "titles": [
             "Data-driven cooperative output regulation of multi-agent systems via robust adaptive dynamic programming",
             "Data-driven cooperative output regulation of multi-agent systems via robust adaptive dynamic programming"
         ],
-        "author_ids": [
-            "fHOM7SEAAAAJ"
+        "associations": [
+            "Associate Professor in Power Electronics Applications at Georgia Southern University, SM IEEE, ACUE",
+            "georgiasouthern.edu"
         ]
     },
-    "27": {
-        "author": "K Zheng",
+    "K Zheng": {
         "citations": 144.0,
         "titles": [
             "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming",
@@ -307,185 +311,176 @@
             "Deep reinforcement learning aided platoon control relying on V2X information",
             "Deep reinforcement learning aided platoon control relying on V2X information"
         ],
-        "author_ids": [
-            "IX_id5UAAAAJ"
+        "associations": [
+            "ieee.org",
+            "IEEE Fellow, Ningbo University"
         ]
     },
-    "28": {
-        "author": "J Abramson",
+    "J Abramson": {
         "citations": 141.0,
         "titles": [
             "Optimizing agent behavior over long time scales by transporting value"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "29": {
-        "author": "M Ranzato",
+    "M Ranzato": {
         "citations": 138.0,
         "titles": [
             "Advances in Neural Information Processing Systems 34",
             "Advances in Neural Information Processing Systems 34"
         ],
-        "author_ids": [
-            "NbXF7T8AAAAJ"
+        "associations": [
+            "google.com",
+            "DeepMind"
         ]
     },
-    "30": {
-        "author": "Y Dauphin",
+    "Y Dauphin": {
         "citations": 138.0,
         "titles": [
             "Advances in Neural Information Processing Systems 34",
             "Advances in Neural Information Processing Systems 34"
         ],
-        "author_ids": [
-            "XSforroAAAAJ"
+        "associations": [
+            "dauphin.io",
+            "Google AI"
         ]
     },
-    "31": {
-        "author": "PS Liang",
+    "PS Liang": {
         "citations": 138.0,
         "titles": [
             "Advances in Neural Information Processing Systems 34",
             "Advances in Neural Information Processing Systems 34"
         ],
-        "author_ids": [
-            "pouyVyUAAAAJ"
+        "associations": [
+            "cs.stanford.edu",
+            "Associate Professor of Computer Science, Stanford University"
         ]
     },
-    "32": {
-        "author": "K Yu",
+    "K Yu": {
         "citations": 134.0,
         "titles": [
             "A blockchain-based shamir's threshold cryptography scheme for data protection in industrial internet of things settings"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "33": {
-        "author": "L Tan",
+    "L Tan": {
         "citations": 134.0,
         "titles": [
             "A blockchain-based shamir's threshold cryptography scheme for data protection in industrial internet of things settings"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "34": {
-        "author": "C Yang",
+    "C Yang": {
         "citations": 134.0,
         "titles": [
             "A blockchain-based shamir's threshold cryptography scheme for data protection in industrial internet of things settings"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "35": {
-        "author": "KKR Choo",
+    "KKR Choo": {
         "citations": 134.0,
         "titles": [
             "A blockchain-based shamir's threshold cryptography scheme for data protection in industrial internet of things settings"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "36": {
-        "author": "A Zhang",
+    "A Zhang": {
         "citations": 116.0,
         "titles": [
             "Learning causal state representations of partially observable environments",
             "Learning causal state representations of partially observable environments",
             "Drone Swarm Robust Cooperative Formation Pursuit through Relative Positioning in a Location Denial Environment."
         ],
-        "author_ids": [
-            "mXtH1UYAAAAJ"
+        "associations": [
+            "austin.utexas.edu",
+            "Assistant Professor of Electrical and Computer Engineering at University of Texas at Austin"
         ]
     },
-    "37": {
-        "author": "ZC Lipton",
+    "ZC Lipton": {
         "citations": 116.0,
         "titles": [
             "Learning causal state representations of partially observable environments",
             "Learning causal state representations of partially observable environments"
         ],
-        "author_ids": [
-            "MN9Kfg8AAAAJ"
+        "associations": [
+            "Raj Reddy Associate Professor of Machine Learning @ Carnegie Mellon University; CTO + CSO @ Abridge",
+            "cmu.edu"
         ]
     },
-    "38": {
-        "author": "L Pineda",
+    "L Pineda": {
         "citations": 116.0,
         "titles": [
             "Learning causal state representations of partially observable environments",
             "Learning causal state representations of partially observable environments"
         ],
-        "author_ids": [
-            "rebEn8oAAAAJ"
+        "associations": [
+            "fb.com",
+            "Research Engineer, Facebook AI Research"
         ]
     },
-    "39": {
-        "author": "M Gong",
+    "M Gong": {
         "citations": 90.0,
         "titles": [
             "Fuzzy observer constraint based on adaptive control for uncertain nonlinear MIMO systems with time-varying state constraints"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "40": {
-        "author": "S Tong",
+    "S Tong": {
         "citations": 90.0,
         "titles": [
             "Fuzzy observer constraint based on adaptive control for uncertain nonlinear MIMO systems with time-varying state constraints"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "41": {
-        "author": "L Hanzo",
+    "L Hanzo": {
         "citations": 86.0,
         "titles": [
             "Deep reinforcement learning aided platoon control relying on V2X information",
             "Deep reinforcement learning aided platoon control relying on V2X information"
         ],
-        "author_ids": [
-            "p0jnEW0AAAAJ"
+        "associations": [
+            "ecs.soton.ac.uk",
+            "Chair of Telecommunications, University of Southampton"
         ]
     },
-    "42": {
-        "author": "W Tang",
+    "W Tang": {
         "citations": 76.0,
         "titles": [
             "Data-driven control: Overview and perspectives",
             "Data-driven control: Overview and perspectives"
         ],
-        "author_ids": [
-            "K67JZlsAAAAJ"
+        "associations": [
+            "ncsu.edu",
+            "North Carolina State University"
         ]
     },
-    "43": {
-        "author": "P Daoutidis",
+    "P Daoutidis": {
         "citations": 76.0,
         "titles": [
             "Data-driven control: Overview and perspectives",
             "Data-driven control: Overview and perspectives"
         ],
-        "author_ids": [
-            "qIm39l8AAAAJ"
+        "associations": [
+            "umn.edu",
+            "Professor, Universiy of Minnesota"
         ]
     },
-    "44": {
-        "author": "T Liu",
+    "T Liu": {
         "citations": 72.0,
         "titles": [
             "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming",
             "Deep reinforcement learning aided platoon control relying on V2X information"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "45": {
-        "author": "A Beygelzimer",
+    "A Beygelzimer": {
         "citations": 69.0,
         "titles": [
             "Advances in Neural Information Processing Systems 34"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "46": {
-        "author": "X Chen",
+    "X Chen": {
         "citations": 68.0,
         "titles": [
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems",
@@ -493,35 +488,34 @@
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity",
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity"
         ],
-        "author_ids": [
-            "Jcrh5xAAAAAJ",
-            "5l-RAfEAAAAJ"
+        "associations": [
+            "cug.edu.cn",
+            "Professor, China University of Geosciences (Wuhan)"
         ]
     },
-    "47": {
-        "author": "D Cappello",
+    "D Cappello": {
         "citations": 64.0,
         "titles": [
             "Distributed differential games for control of multi-agent systems",
             "Distributed differential games for control of multi-agent systems"
         ],
-        "author_ids": [
-            "xjmL-7IAAAAJ"
+        "associations": [
+            "Leonardo Labs, Leonardo S.p.A.",
+            "leonardo.com"
         ]
     },
-    "48": {
-        "author": "T Mylvaganam",
+    "T Mylvaganam": {
         "citations": 64.0,
         "titles": [
             "Distributed differential games for control of multi-agent systems",
             "Distributed differential games for control of multi-agent systems"
         ],
-        "author_ids": [
-            "fIEuk78AAAAJ"
+        "associations": [
+            "Senior Lecturer, Imperial College London",
+            "imperial.ac.uk"
         ]
     },
-    "49": {
-        "author": "G Jing",
+    "G Jing": {
         "citations": 62.0,
         "titles": [
             "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent",
@@ -529,12 +523,12 @@
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation",
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation"
         ],
-        "author_ids": [
-            "Czk87NYAAAAJ"
+        "associations": [
+            "cqu.edu.cn",
+            "Chongqing University"
         ]
     },
-    "50": {
-        "author": "H Bai",
+    "H Bai": {
         "citations": 62.0,
         "titles": [
             "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent",
@@ -542,12 +536,9 @@
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation",
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation"
         ],
-        "author_ids": [
-            "z7N_-U4AAAAJ"
-        ]
+        "associations": []
     },
-    "51": {
-        "author": "J George",
+    "J George": {
         "citations": 62.0,
         "titles": [
             "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent",
@@ -555,69 +546,69 @@
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation",
             "Model-free optimal control of linear multiagent systems via decomposition and hierarchical approximation"
         ],
-        "author_ids": [
-            "caxjdt4AAAAJ"
+        "associations": [
+            "mail.mil",
+            "U.S. Army Research Laboratory"
         ]
     },
-    "52": {
-        "author": "M Hutter",
+    "M Hutter": {
         "citations": 59.0,
         "titles": [
             "Self-predictive universal AI",
             "Compress and control",
             "Compress and control"
         ],
-        "author_ids": [
-            "7hmCntEAAAAJ"
+        "associations": [
+            "anu.edu.au",
+            "Researcher@DeepMind & Professor at ANU"
         ]
     },
-    "53": {
-        "author": "K Zhang",
+    "K Zhang": {
         "citations": 58.0,
         "titles": [
             "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming",
             "Autonomous platoon control with integrated deep reinforcement learning and dynamic programming"
         ],
-        "author_ids": [
-            "hLT3_twAAAAJ"
+        "associations": [
+            "unl.edu",
+            "Department of Electrical and Computer Engineering, University of Nebraska-Lincoln"
         ]
     },
-    "54": {
-        "author": "J Veness",
+    "J Veness": {
         "citations": 56.0,
         "titles": [
             "Compress and control",
             "Compress and control"
         ],
-        "author_ids": [
-            "_iYrAxEAAAAJ"
+        "associations": [
+            "Google DeepMind",
+            "google.com"
         ]
     },
-    "55": {
-        "author": "M Bellemare",
+    "M Bellemare": {
         "citations": 56.0,
         "titles": [
             "Compress and control",
             "Compress and control"
         ],
-        "author_ids": [
-            "uyYPun0AAAAJ"
+        "associations": [
+            "Reliant AI",
+            "reliant.ai"
         ]
     },
-    "56": {
-        "author": "Y Li",
+    "Y Li": {
         "citations": 54.0,
         "titles": [
             "Multiagent reinforcement learning-based cooperative multitype task offloading strategy for internet of vehicles in B5G/6G network",
             "Deep reinforcement learning for wireless scheduling in distributed networked control",
             "Deep reinforcement learning for wireless scheduling in distributed networked control"
         ],
-        "author_ids": [
-            "xLj8A2EAAAAJ"
+        "associations": [
+            "sydney.edu.au",
+            "the University of Sydney"
         ]
     },
-    "57": {
-        "author": "J Peters",
+    "J Peters": {
         "citations": 52.0,
         "titles": [
             "Towards machine learning of motor skills",
@@ -625,12 +616,26 @@
             "Policy learning for motor skills",
             "Policy learning for motor skills"
         ],
-        "author_ids": [
-            "-kIVAcAAAAAJ"
+        "associations": [
+            "cg.tuwien.ac.at",
+            "google.com",
+            "unige.it",
+            "MINES Paristech",
+            "uni-oldenburg.de",
+            "gatech.edu",
+            "ucm.es",
+            "Georgia Institute of Technology",
+            "Google DeepMind",
+            "MaLGa Machine Learning Genoa Center - Universit\u00e0 degli Studi di Genova",
+            "Shanghai Jiao Tong University | VGG, University of Oxford",
+            "Universidad Complutense Madrid",
+            "robots.ox.ac.uk",
+            "pku.edu.cn",
+            "Peking University, Peng Cheng Laboratory",
+            "Carnegie Mellon University"
         ]
     },
-    "58": {
-        "author": "S Schaal",
+    "S Schaal": {
         "citations": 52.0,
         "titles": [
             "Towards machine learning of motor skills",
@@ -638,209 +643,202 @@
             "Policy learning for motor skills",
             "Policy learning for motor skills"
         ],
-        "author_ids": [
-            "YGQs1AYAAAAJ"
+        "associations": [
+            "google.com",
+            "Robotics, Machine Learning, AI, Neuroscience"
         ]
     },
-    "59": {
-        "author": "Z Peng",
+    "Z Peng": {
         "citations": 52.0,
         "titles": [
             "Data-driven containment control of discrete-time multi-agent systems via value iteration",
             "Data-driven containment control of discrete-time multi-agent systems via value iteration"
         ],
-        "author_ids": [
-            "9AUL9JEAAAAJ"
+        "associations": [
+            "uestc.edu.cn",
+            "University of Electronic Science and Technology of China"
         ]
     },
-    "60": {
-        "author": "J Hu",
+    "J Hu": {
         "citations": 52.0,
         "titles": [
             "Data-driven containment control of discrete-time multi-agent systems via value iteration",
             "Data-driven containment control of discrete-time multi-agent systems via value iteration"
         ],
-        "author_ids": [
-            "KMoR83sAAAAJ"
+        "associations": [
+            "uestc.edu.cn",
+            "University of Electronic Science and Technology of China"
         ]
     },
-    "61": {
-        "author": "B Goertzel",
+    "B Goertzel": {
         "citations": 52.0,
         "titles": [
             "The general theory of general intelligence: a pragmatic patternist perspective",
             "The general theory of general intelligence: a pragmatic patternist perspective"
         ],
-        "author_ids": [
-            "kTfdhRcAAAAJ"
+        "associations": [
+            "singularitynet.io",
+            "SingularityNET"
         ]
     },
-    "62": {
-        "author": "M Huang",
+    "M Huang": {
         "citations": 46.0,
         "titles": [
             "Deep Reinforcement Learning-Based DoS Attack and its Countermeasures in Cyber-Physical Systems",
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity",
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity"
         ],
-        "author_ids": [
-            "5j_jAr8AAAAJ"
+        "associations": [
+            "meta.com",
+            "Research Scientist"
         ]
     },
-    "63": {
-        "author": "S Ma",
+    "S Ma": {
         "citations": 46.0,
         "titles": [
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity",
             "Decentralized stochastic bilevel optimization with improved per-iteration complexity"
         ],
-        "author_ids": [
-            "kkzUrUgAAAAJ"
+        "associations": [
+            "rice.edu",
+            "Rice University"
         ]
     },
-    "64": {
-        "author": "H Li",
+    "H Li": {
         "citations": 45.0,
         "titles": [
             "Multiagent reinforcement learning-based cooperative multitype task offloading strategy for internet of vehicles in B5G/6G network",
             "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "65": {
-        "author": "KG Vamvoudakis",
+    "KG Vamvoudakis": {
         "citations": 44.0,
         "titles": [
             "Online optimal operation of parallel voltage-source inverters using partial information",
             "Online optimal operation of parallel voltage-source inverters using partial information"
         ],
-        "author_ids": [
-            "4hWyM_gAAAAJ"
+        "associations": [
+            "gatech.edu",
+            "Dutton-Ducoffe Endowed Professor, School of Aerospace Engineering, Georgia Institute of Technology"
         ]
     },
-    "66": {
-        "author": "JP Hespanha",
+    "JP Hespanha": {
         "citations": 44.0,
         "titles": [
             "Online optimal operation of parallel voltage-source inverters using partial information",
             "Online optimal operation of parallel voltage-source inverters using partial information"
         ],
-        "author_ids": [
-            "AsT__tUAAAAJ"
-        ]
+        "associations": []
     },
-    "67": {
-        "author": "B Zhao",
+    "B Zhao": {
         "citations": 40.0,
         "titles": [
             "Event-triggered local control for nonlinear interconnected systems through particle swarm optimization-based adaptive dynamic programming",
             "Event-triggered local control for nonlinear interconnected systems through particle swarm optimization-based adaptive dynamic programming"
         ],
-        "author_ids": [
-            "977NXzsAAAAJ"
+        "associations": [
+            "Associate Professor, Beijing Normal University, Chinese Academy of Sciences, Jilin University",
+            "bnu.edu.cn"
         ]
     },
-    "68": {
-        "author": "G Pang",
+    "G Pang": {
         "citations": 36.0,
         "titles": [
             "Deep reinforcement learning for wireless scheduling in distributed networked control",
             "Deep reinforcement learning for wireless scheduling in distributed networked control"
         ],
-        "author_ids": [
-            "v1X_GU4AAAAJ"
+        "associations": [
+            "University of Sydney",
+            "sydney.edu.au"
         ]
     },
-    "69": {
-        "author": "DE Quevedo",
+    "DE Quevedo": {
         "citations": 36.0,
         "titles": [
             "Deep reinforcement learning for wireless scheduling in distributed networked control",
             "Deep reinforcement learning for wireless scheduling in distributed networked control"
         ],
-        "author_ids": [
-            "s0MIz4sAAAAJ"
+        "associations": [
+            "The University of Sydney",
+            "sydney.edu.au"
         ]
     },
-    "70": {
-        "author": "B Vucetic",
+    "B Vucetic": {
         "citations": 36.0,
         "titles": [
             "Deep reinforcement learning for wireless scheduling in distributed networked control",
             "Deep reinforcement learning for wireless scheduling in distributed networked control"
         ],
-        "author_ids": [
-            "uS5QyboAAAAJ"
+        "associations": [
+            "The University of Sydney",
+            "sydney.edu.au"
         ]
     },
-    "71": {
-        "author": "X Zhang",
+    "X Zhang": {
         "citations": 36.0,
         "titles": [
             "Gaussian Distribution.",
             "Gaussian Distribution."
         ],
-        "author_ids": [
-            "jrkrn3sAAAAJ"
+        "associations": [
+            "University of Illinois Chicago",
+            "uic.edu"
         ]
     },
-    "72": {
-        "author": "K Young",
+    "K Young": {
         "citations": 34.0,
         "titles": [
             "The benefits of model-based generalization in reinforcement learning",
             "The benefits of model-based generalization in reinforcement learning"
         ],
-        "author_ids": [
-            "zI2uHi8AAAAJ"
+        "associations": [
+            "University of Alberta",
+            "ualberta.ca"
         ]
     },
-    "73": {
-        "author": "A Ramesh",
+    "A Ramesh": {
         "citations": 34.0,
         "titles": [
             "The benefits of model-based generalization in reinforcement learning",
             "The benefits of model-based generalization in reinforcement learning"
         ],
-        "author_ids": [
-            "60K82BkAAAAJ"
+        "associations": [
+            "idsia.ch",
+            "PhD student at the Swiss AI Lab (IDSIA)"
         ]
     },
-    "74": {
-        "author": "L Kirsch",
+    "L Kirsch": {
         "citations": 34.0,
         "titles": [
             "The benefits of model-based generalization in reinforcement learning",
             "The benefits of model-based generalization in reinforcement learning"
         ],
-        "author_ids": [
-            "w8AkOEAAAAAJ"
+        "associations": [
+            "idsia.ch",
+            "The Swiss AI Lab IDSIA"
         ]
     },
-    "75": {
-        "author": "E Uchibe",
+    "E Uchibe": {
         "citations": 32.0,
         "titles": [
             "Cooperative behavior acquisition by learning and evolution in a multi-agent environment for mobile robots",
             "Cooperative behavior acquisition by learning and evolution in a multi-agent environment for mobile robots"
         ],
-        "author_ids": [
-            "nXqBRo8AAAAJ"
+        "associations": [
+            "atr.jp",
+            "Dept. of Brain Robot Interface, ATR Computational Neuroscience Labs."
         ]
     },
-    "76": {
-        "author": "W Zhao",
+    "W Zhao": {
         "citations": 30.0,
         "titles": [
             "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning",
             "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning"
         ],
-        "author_ids": [
-            "tzJ9BsoAAAAJ"
-        ]
+        "associations": []
     },
-    "77": {
-        "author": "R Song",
+    "R Song": {
         "citations": 30.0,
         "titles": [
             "Containment control of heterogeneous systems with active leaders of bounded unknown control using reinforcement learning",
@@ -848,12 +846,12 @@
             "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs",
             "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
         ],
-        "author_ids": [
-            "wGWQpLIAAAAJ"
+        "associations": [
+            "University of Science and Technology Beijing",
+            "ustb.edu.cn"
         ]
     },
-    "78": {
-        "author": "Y Yang",
+    "Y Yang": {
         "citations": 28.0,
         "titles": [
             "Containment control of heterogeneous systems with non-autonomous leaders: A distributed optimal model reference approach",
@@ -863,12 +861,12 @@
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach",
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
         ],
-        "author_ids": [
-            "smwQtUwAAAAJ"
+        "associations": [
+            "Associate Professor, University of Science and Technology Beijing",
+            "ustb.edu.cn"
         ]
     },
-    "79": {
-        "author": "DC Wunsch",
+    "DC Wunsch": {
         "citations": 28.0,
         "titles": [
             "Containment control of heterogeneous systems with non-autonomous leaders: A distributed optimal model reference approach",
@@ -876,44 +874,40 @@
             "Containment control of heterogeneous systems with active leaders of bounded unknown control using reinforcement learning",
             "Containment control of heterogeneous systems with active leaders of bounded unknown control using reinforcement learning"
         ],
-        "author_ids": [
-            "fQC7bIoAAAAJ"
+        "associations": [
+            "mst.edu",
+            "Missouri University of Science and Technology"
         ]
     },
-    "80": {
-        "author": "A Chua",
+    "A Chua": {
         "citations": 28.0,
         "titles": [
             "Compress and control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "81": {
-        "author": "A Luo",
+    "A Luo": {
         "citations": 27.0,
         "titles": [
             "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "82": {
-        "author": "Q Zhou",
+    "Q Zhou": {
         "citations": 27.0,
         "titles": [
             "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "83": {
-        "author": "H Ma",
+    "H Ma": {
         "citations": 27.0,
         "titles": [
             "Observer-based consensus control for MASs with prescribed constraints via reinforcement learning algorithm"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "84": {
-        "author": "X Dong",
+    "X Dong": {
         "citations": 27.0,
         "titles": [
             "Data-Driven Distributed Current Sharing Consensus Optimal Control of DC Microgrids via Reinforcement Learning",
@@ -922,64 +916,63 @@
             "Resilient Output Formation-Containment Tracking of Heterogeneous Multi-Agent Systems: A Learning-Based Framework using Dynamic Data",
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method"
         ],
-        "author_ids": [
-            "4GeHHnUAAAAJ"
+        "associations": [
+            "Professor, University of Chinese Academy of Sciences",
+            "ucas.ac.cn"
         ]
     },
-    "85": {
-        "author": "F Tatari",
+    "F Tatari": {
         "citations": 26.0,
         "titles": [
             "Distributed optimal synchronization control of linear networked systems under unknown dynamics",
             "Distributed optimal synchronization control of linear networked systems under unknown dynamics"
         ],
-        "author_ids": [
-            "kocqXnAAAAAJ"
+        "associations": [
+            "msu.edu",
+            "Research Assistant, Michigan State University"
         ]
     },
-    "86": {
-        "author": "BK Ghosh",
+    "BK Ghosh": {
         "citations": 26.0,
         "titles": [
             "Data-driven containment control of discrete-time multi-agent systems via value iteration"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "87": {
-        "author": "NK Dhar",
+    "NK Dhar": {
         "citations": 24.0,
         "titles": [
             "An online event-triggered near-optimal controller for Nash solution in interconnected system",
             "An online event-triggered near-optimal controller for Nash solution in interconnected system"
         ],
-        "author_ids": [
-            "xH9YlKQAAAAJ"
+        "associations": [
+            "Indian Institute of Technology Mandi",
+            "iitmandi.ac.in"
         ]
     },
-    "88": {
-        "author": "NK Verma",
+    "NK Verma": {
         "citations": 24.0,
         "titles": [
             "An online event-triggered near-optimal controller for Nash solution in interconnected system",
             "An online event-triggered near-optimal controller for Nash solution in interconnected system"
         ],
-        "author_ids": [
-            "Iir1EBsAAAAJ"
+        "associations": [
+            "iitk.ac.in",
+            "Indian Institute of Technology Kanpur"
         ]
     },
-    "89": {
-        "author": "L Behera",
+    "L Behera": {
         "citations": 24.0,
         "titles": [
             "An online event-triggered near-optimal controller for Nash solution in interconnected system",
             "An online event-triggered near-optimal controller for Nash solution in interconnected system"
         ],
-        "author_ids": [
-            "QWTcyP8AAAAJ"
+        "associations": [
+            "iitk.ac.in",
+            "IIT Kanpur"
         ]
     },
-    "90": {
-        "author": "LA Cox Jr",
+    "LA Cox Jr": {
         "citations": 24.0,
         "titles": [
             "Information structures for causally explainable decisions",
@@ -987,12 +980,12 @@
             "Causally explainable decision recommendations using causal artificial intelligence",
             "Causally explainable decision recommendations using causal artificial intelligence"
         ],
-        "author_ids": [
-            "i0PiR8UAAAAJ"
+        "associations": [
+            "Associate Professor of Business Analytics, University of Colorado",
+            "ucdenver.edu"
         ]
     },
-    "91": {
-        "author": "Y Shi",
+    "Y Shi": {
         "citations": 24.0,
         "titles": [
             "Fully data-driven robust output formation tracking control for heterogeneous multiagent system with multiple leaders and actuator faults",
@@ -1002,12 +995,12 @@
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method",
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method"
         ],
-        "author_ids": [
-            "DBqSTJ0AAAAJ"
+        "associations": [
+            "cityu.edu.hk",
+            "City University of Hong Kong"
         ]
     },
-    "92": {
-        "author": "J Yu",
+    "J Yu": {
         "citations": 24.0,
         "titles": [
             "Fully data-driven robust output formation tracking control for heterogeneous multiagent system with multiple leaders and actuator faults",
@@ -1017,34 +1010,34 @@
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method",
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method"
         ],
-        "author_ids": [
-            "XaGaDnYAAAAJ"
+        "associations": [
+            "Beihang University",
+            "buaa.edu.cn"
         ]
     },
-    "93": {
-        "author": "Y Sun",
+    "Y Sun": {
         "citations": 22.0,
         "titles": [
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems",
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems"
         ],
-        "author_ids": [
-            "jhV1sqwAAAAJ"
+        "associations": [
+            "cug.edu.cn",
+            "China University of Geosciences (Wuhan)"
         ]
     },
-    "94": {
-        "author": "W Wang",
+    "W Wang": {
         "citations": 22.0,
         "titles": [
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems",
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems"
         ],
-        "author_ids": [
-            "UedS9LQAAAAJ"
+        "associations": [
+            "cs.ucla.edu",
+            "Leonard Kleinrock Professor in Computer Science, UCLA"
         ]
     },
-    "95": {
-        "author": "H Cai",
+    "H Cai": {
         "citations": 22.0,
         "titles": [
             "Drone Swarm Robust Cooperative Formation Pursuit through Relative Positioning in a Location Denial Environment.",
@@ -1052,99 +1045,90 @@
             "Distributed tracking of leader-follower multiagent systems subject to disturbed leader's information",
             "Distributed tracking of leader-follower multiagent systems subject to disturbed leader's information"
         ],
-        "author_ids": [
-            "g3ugXlkAAAAJ"
+        "associations": [
+            "South China University of Technology",
+            "scut.edu.cn"
         ]
     },
-    "96": {
-        "author": "G Shi",
+    "G Shi": {
         "citations": 20.0,
         "titles": [
             "Event-triggered local control for nonlinear interconnected systems through particle swarm optimization-based adaptive dynamic programming"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "97": {
-        "author": "D Liu",
+    "D Liu": {
         "citations": 20.0,
         "titles": [
             "Event-triggered local control for nonlinear interconnected systems through particle swarm optimization-based adaptive dynamic programming"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "98": {
-        "author": "Y Cui",
+    "Y Cui": {
         "citations": 18.0,
         "titles": [
             "Multiagent reinforcement learning-based cooperative multitype task offloading strategy for internet of vehicles in B5G/6G network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "99": {
-        "author": "D Zhang",
+    "D Zhang": {
         "citations": 18.0,
         "titles": [
             "Multiagent reinforcement learning-based cooperative multitype task offloading strategy for internet of vehicles in B5G/6G network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "100": {
-        "author": "A Zhu",
+    "A Zhu": {
         "citations": 18.0,
         "titles": [
             "Multiagent reinforcement learning-based cooperative multitype task offloading strategy for internet of vehicles in B5G/6G network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "101": {
-        "author": "K Huang",
+    "K Huang": {
         "citations": 18.0,
         "titles": [
             "Deep reinforcement learning for wireless scheduling in distributed networked control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "102": {
-        "author": "L Xia",
+    "L Xia": {
         "citations": 16.0,
         "titles": [
             "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs",
             "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
         ],
-        "author_ids": [
-            "Euxh1SoAAAAJ"
+        "associations": [
+            "xs.ustb.edu.cn",
+            "School of Automation and Electrical Engineering, University of Science and Technology Beijing"
         ]
     },
-    "103": {
-        "author": "H Liu",
+    "H Liu": {
         "citations": 15.0,
         "titles": [
             "Distributed Vibration Control of Large Flexible Satellite Solar Panel Via Reinforcement Learning",
             "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning",
             "Robust optimal control law learning for heterogeneous rotorcraft formation involving unknown parameters"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "104": {
-        "author": "W Lin",
+    "W Lin": {
         "citations": 15.0,
         "titles": [
             "Robust optimal formation control of heterogeneous multi-agent system via reinforcement learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "105": {
-        "author": "Y Yin",
+    "Y Yin": {
         "citations": 15.0,
         "titles": [
             "Containment control of heterogeneous systems with non-autonomous leaders: A distributed optimal model reference approach",
             "Containment control of heterogeneous systems with active leaders of bounded unknown control using reinforcement learning",
             "Model-Free Containment Control of Fully Heterogeneous Linear Multiagent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "106": {
-        "author": "L Yang",
+    "L Yang": {
         "citations": 15.0,
         "titles": [
             "Learning optimal stochastic sensor scheduling for remote estimation with channel capacity constraint",
@@ -1152,12 +1136,12 @@
             "Robust optimal control law learning for heterogeneous rotorcraft formation involving unknown parameters",
             "Distributed Containment Control Strategy for the Dynamic Stabilization of Integrated Energy System With Multiple Virtual Leaders"
         ],
-        "author_ids": [
-            "G-u29p4AAAAJ"
+        "associations": [
+            "qut.edu.au",
+            "Research Fellow, Queensland University of Technology (QUT)"
         ]
     },
-    "107": {
-        "author": "H Zhang",
+    "H Zhang": {
         "citations": 14.0,
         "titles": [
             "Data-Driven Distributed Current Sharing Consensus Optimal Control of DC Microgrids via Reinforcement Learning",
@@ -1165,156 +1149,149 @@
             "Distributed Containment Control Strategy for the Dynamic Stabilization of Integrated Energy System With Multiple Virtual Leaders",
             "Distributed Containment Control Strategy for the Dynamic Stabilization of Integrated Energy System With Multiple Virtual Leaders"
         ],
-        "author_ids": [
-            "nbQu9moAAAAJ"
+        "associations": [
+            "mail.neu.edu.cn",
+            "Northeastern University, China"
         ]
     },
-    "108": {
-        "author": "A Chakrabortty",
+    "A Chakrabortty": {
         "citations": 14.0,
         "titles": [
             "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent",
             "Asynchronous distributed reinforcement learning for lqr control via zeroth-order block coordinate descent"
         ],
-        "author_ids": [
-            "cyRBMkkAAAAJ"
+        "associations": [
+            "ncsu.edu",
+            "Professor of Electrical Engineering, Associate Department Head for Research, NC State University"
         ]
     },
-    "109": {
-        "author": "GP Liu",
+    "GP Liu": {
         "citations": 14.0,
         "titles": [
             "A leader-follower formation strategy for networked multi-agent systems based on the PI predictive control method",
             "A leader-follower formation strategy for networked multi-agent systems based on the PI predictive control method"
         ],
-        "author_ids": [
-            "jWmF7IQAAAAJ"
+        "associations": [
+            "University of South Wales",
+            "southwales.ac.uk"
         ]
     },
-    "110": {
-        "author": "DW Zhang",
+    "DW Zhang": {
         "citations": 14.0,
         "titles": [
             "A leader-follower formation strategy for networked multi-agent systems based on the PI predictive control method",
             "A leader-follower formation strategy for networked multi-agent systems based on the PI predictive control method"
         ],
-        "author_ids": [
-            "94h31jkAAAAJ"
+        "associations": [
+            "stu.hit.edu.cn",
+            "Center for Control Theory and Guidance Technology, Harbin Institute of Technology"
         ]
     },
-    "111": {
-        "author": "MB Naghibi-Sistani",
+    "MB Naghibi-Sistani": {
         "citations": 13.0,
         "titles": [
             "Distributed optimal synchronization control of linear networked systems under unknown dynamics"
         ],
-        "author_ids": [
-            "3OiE5loAAAAJ"
+        "associations": [
+            "Associate Professor of Electrical Engineering, Ferdowsi University of Mashhad",
+            "um.ac.ir"
         ]
     },
-    "112": {
-        "author": "MB Naghibi",
+    "MB Naghibi": {
         "citations": 13.0,
         "titles": [
             "Distributed optimal synchronization control of linear networked systems under unknown dynamics"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "113": {
-        "author": "Y Grinberg",
+    "Y Grinberg": {
         "citations": 12.0,
         "titles": [
             "Goal-directed online learning of predictive models",
             "Goal-directed online learning of predictive models"
         ],
-        "author_ids": [
-            "z-sG3n4AAAAJ"
+        "associations": [
+            "nrc-cnrc.gc.ca",
+            "Senior Research Officer, National Research Council of Canada"
         ]
     },
-    "114": {
-        "author": "J Pineau",
+    "J Pineau": {
         "citations": 12.0,
         "titles": [
             "Goal-directed online learning of predictive models",
             "Goal-directed online learning of predictive models"
         ],
-        "author_ids": [
-            "CEt6_mMAAAAJ"
+        "associations": [
+            "cs.mcgill.ca",
+            "School of Computer Science, McGill University; FAIR, Meta AI; Mila"
         ]
     },
-    "115": {
-        "author": "Y Hua",
+    "Y Hua": {
         "citations": 12.0,
         "titles": [
             "Fully data-driven robust output formation tracking control for heterogeneous multiagent system with multiple leaders and actuator faults",
             "Resilient Output Formation-Containment Tracking of Heterogeneous Multi-Agent Systems: A Learning-Based Framework using Dynamic Data",
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "116": {
-        "author": "H Fu",
+    "H Fu": {
         "citations": 11.0,
         "titles": [
             "Model-free output consensus control for partially observable heterogeneous multivehicle systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "117": {
-        "author": "J Grand-Cl\u00e9ment",
+    "J Grand-Cl\u00e9ment": {
         "citations": 11.0,
         "titles": [
             "Reducing blackwell and average optimality to discounted mdps via the blackwell discount factor"
         ],
-        "author_ids": [
-            "K_ZLzdoAAAAJ"
+        "associations": [
+            "HEC Paris",
+            "hec.fr"
         ]
     },
-    "118": {
-        "author": "M Petrik",
+    "M Petrik": {
         "citations": 11.0,
         "titles": [
             "Reducing blackwell and average optimality to discounted mdps via the blackwell discount factor"
         ],
-        "author_ids": [
-            "yT-xSLoAAAAJ"
+        "associations": [
+            "University of New Hampshire",
+            "cs.unh.edu"
         ]
     },
-    "119": {
-        "author": "J Grand",
+    "J Grand": {
         "citations": 11.0,
         "titles": [
             "Reducing blackwell and average optimality to discounted mdps via the blackwell discount factor"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "120": {
-        "author": "H Gao",
+    "H Gao": {
         "citations": 11.0,
         "titles": [
             "Drone Swarm Robust Cooperative Formation Pursuit through Relative Positioning in a Location Denial Environment.",
             "Distributed tracking of leader-follower multiagent systems subject to disturbed leader's information"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "121": {
-        "author": "X Li",
+    "X Li": {
         "citations": 11.0,
         "titles": [
             "Distributed tracking of leader-follower multiagent systems subject to disturbed leader's information"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "122": {
-        "author": "S Xu",
+    "S Xu": {
         "citations": 11.0,
         "titles": [
             "Distributed tracking of leader-follower multiagent systems subject to disturbed leader's information"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "123": {
-        "author": "ZP Jiang",
+    "ZP Jiang": {
         "citations": 10.0,
         "titles": [
             "Robust adaptive dynamic programming: An overview of recent results",
@@ -1322,348 +1299,338 @@
             "Robust adaptive dynamic programming: recent results and applications",
             "Robust adaptive dynamic programming: recent results and applications"
         ],
-        "author_ids": [
-            "COrhJXcAAAAJ"
+        "associations": [
+            "nyu.edu",
+            "Professor of Electrical and Computer Engineering, Tandon School of Engineering, NYU"
         ]
     },
-    "124": {
-        "author": "B Sch\u00f6lkopf",
+    "B Sch\u00f6lkopf": {
         "citations": 8.0,
         "titles": [
             "Towards machine learning of motor skills",
             "Towards machine learning of motor skills"
         ],
-        "author_ids": [
-            "DZ-fHPgAAAAJ"
+        "associations": [
+            "tuebingen.mpg.de",
+            "Director, Max Planck Institute for Intelligent Systems & ELLIS Institute T\u00fcbingen; Professor at ETH"
         ]
     },
-    "125": {
-        "author": "SK Paul",
+    "SK Paul": {
         "citations": 8.0,
         "titles": [
             "Solving partially observable environments with universal search using dataflow graph-based programming model",
             "Solving partially observable environments with universal search using dataflow graph-based programming model"
         ],
-        "author_ids": [
-            "YHRO7eoAAAAJ"
+        "associations": [
+            "Tata Consultancy Services",
+            "tcs.com"
         ]
     },
-    "126": {
-        "author": "P Bhaumik",
+    "P Bhaumik": {
         "citations": 8.0,
         "titles": [
             "Solving partially observable environments with universal search using dataflow graph-based programming model",
             "Solving partially observable environments with universal search using dataflow graph-based programming model"
         ],
-        "author_ids": [
-            "dzrHTMcAAAAJ"
+        "associations": [
+            "jadavpuruniversity.in",
+            "Associate Professor, Department of Information Technology, Jadavpur university"
         ]
     },
-    "127": {
-        "author": "DM Bossens",
+    "DM Bossens": {
         "citations": 8.0,
         "titles": [
             "Lifetime policy reuse and the importance of task capacity",
             "Lifetime policy reuse and the importance of task capacity"
         ],
-        "author_ids": [
-            "w2feGIoAAAAJ"
+        "associations": [
+            "cfar.a-star.edu.sg",
+            "Senior Scientist, Centre for Frontier AI Research, A*STAR"
         ]
     },
-    "128": {
-        "author": "AJ Sobey",
+    "AJ Sobey": {
         "citations": 8.0,
         "titles": [
             "Lifetime policy reuse and the importance of task capacity",
             "Lifetime policy reuse and the importance of task capacity"
         ],
-        "author_ids": [
-            "inoZq8AAAAAJ"
+        "associations": [
+            "soton.ac.uk",
+            "Programme Director, Data-Centric Engineering, The Alan Turing Institute/Professor of Data-Centric"
         ]
     },
-    "129": {
-        "author": "L Chen",
+    "L Chen": {
         "citations": 8.0,
         "titles": [
             "Adaptive event-triggered transmission scheduling in rate-limited multiloop remote control",
             "Adaptive event-triggered transmission scheduling in rate-limited multiloop remote control"
         ],
-        "author_ids": [
-            "-0n0cu8AAAAJ"
+        "associations": [
+            "cg.tuwien.ac.at",
+            "google.com",
+            "unige.it",
+            "MINES Paristech",
+            "uni-oldenburg.de",
+            "gatech.edu",
+            "ucm.es",
+            "Georgia Institute of Technology",
+            "Google DeepMind",
+            "MaLGa Machine Learning Genoa Center - Universit\u00e0 degli Studi di Genova",
+            "Shanghai Jiao Tong University | VGG, University of Oxford",
+            "Universidad Complutense Madrid",
+            "robots.ox.ac.uk",
+            "pku.edu.cn",
+            "Peking University, Peng Cheng Laboratory",
+            "Carnegie Mellon University"
         ]
     },
-    "130": {
-        "author": "Q Li",
+    "Q Li": {
         "citations": 8.0,
         "titles": [
             "Output resilient containment control of heterogeneous systems with active leaders using reinforcement learning under attack inputs"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "131": {
-        "author": "S Cheng",
+    "S Cheng": {
         "citations": 7.0,
         "titles": [
             "Containment control of heterogeneous systems with non-autonomous leaders: A distributed optimal model reference approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "132": {
-        "author": "Y Xu",
+    "Y Xu": {
         "citations": 7.0,
         "titles": [
             "Learning optimal stochastic sensor scheduling for remote estimation with channel capacity constraint",
             "Adaptive dynamic programming approach for Stackelberg game-based fault-tolerant control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "133": {
-        "author": "L Cao",
+    "L Cao": {
         "citations": 7.0,
         "titles": [
             "A leader-follower formation strategy for networked multi-agent systems based on the PI predictive control method"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "134": {
-        "author": "E Catt",
+    "E Catt": {
         "citations": 6.0,
         "titles": [
             "Self-predictive universal AI",
             "Self-predictive universal AI"
         ],
-        "author_ids": [
-            "d1JYeMIAAAAJ"
+        "associations": [
+            "google.com",
+            "Research Scientist, Google DeepMind"
         ]
     },
-    "135": {
-        "author": "SX Yang",
+    "SX Yang": {
         "citations": 6.0,
         "titles": [
             "AVDDPG: Federated reinforcement learning applied to autonomous platoon control",
             "AVDDPG: Federated reinforcement learning applied to autonomous platoon control"
         ],
-        "author_ids": [
-            "cyRDiPMAAAAJ"
+        "associations": [
+            "University of Guelph",
+            "uoguelph.ca"
         ]
     },
-    "136": {
-        "author": "SCW Ong",
+    "SCW Ong": {
         "citations": 6.0,
         "titles": [
             "Goal-directed online learning of predictive models"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "137": {
-        "author": "Z Huang",
+    "Z Huang": {
         "citations": 6.0,
         "titles": [
             "Learning optimal stochastic sensor scheduling for remote estimation with channel capacity constraint"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "138": {
-        "author": "H Rao",
+    "H Rao": {
         "citations": 6.0,
         "titles": [
             "Learning optimal stochastic sensor scheduling for remote estimation with channel capacity constraint"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "139": {
-        "author": "JVDF Neto",
+    "JVDF Neto": {
         "citations": 6.0,
         "titles": [
             "HDP algorithms for trajectory tracking and formation control of multi-agent systems",
             "HDP algorithms for trajectory tracking and formation control of multi-agent systems"
         ],
-        "author_ids": [
-            "gkCdm_8AAAAJ"
+        "associations": [
+            "dee.ufma.br",
+            "Universidade Federal do Maranh\u00e3o"
         ]
     },
-    "140": {
-        "author": "RR Selmic",
+    "RR Selmic": {
         "citations": 6.0,
         "titles": [
             "HDP algorithms for trajectory tracking and formation control of multi-agent systems",
             "HDP algorithms for trajectory tracking and formation control of multi-agent systems"
         ],
-        "author_ids": [
-            "PxMC2pcAAAAJ"
+        "associations": [
+            "concordia.ca",
+            "Concordia University"
         ]
     },
-    "141": {
-        "author": "X Xie",
+    "X Xie": {
         "citations": 4.0,
         "titles": [
             "Data-Driven Distributed Current Sharing Consensus Optimal Control of DC Microgrids via Reinforcement Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "142": {
-        "author": "Z Ming",
+    "Z Ming": {
         "citations": 4.0,
         "titles": [
             "Data-Driven Distributed Current Sharing Consensus Optimal Control of DC Microgrids via Reinforcement Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "143": {
-        "author": "B Hu",
+    "B Hu": {
         "citations": 4.0,
         "titles": [
             "Adaptive event-triggered transmission scheduling in rate-limited multiloop remote control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "144": {
-        "author": "ZH Guan",
+    "ZH Guan": {
         "citations": 4.0,
         "titles": [
             "Adaptive event-triggered transmission scheduling in rate-limited multiloop remote control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "145": {
-        "author": "J Grau-Moya",
+    "J Grau-Moya": {
         "citations": 3.0,
         "titles": [
             "Self-predictive universal AI"
         ],
-        "author_ids": [
-            "u8ccN8sAAAAJ"
+        "associations": [
+            "deepmind.com",
+            "Research Scientist at Google DeepMind"
         ]
     },
-    "146": {
-        "author": "J Grau",
+    "J Grau": {
         "citations": 3.0,
         "titles": [
             "Self-predictive universal AI"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "147": {
-        "author": "C Boin",
+    "C Boin": {
         "citations": 3.0,
         "titles": [
             "AVDDPG: Federated reinforcement learning applied to autonomous platoon control",
             "A Federated Reinforcement Learning Approach for Autonomous Vehicle Platooning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "148": {
-        "author": "EFM Ferreira",
+    "EFM Ferreira": {
         "citations": 3.0,
         "titles": [
             "HDP algorithms for trajectory tracking and formation control of multi-agent systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "149": {
-        "author": "H Han",
+    "H Han": {
         "citations": 3.0,
         "titles": [
             "Distributed Containment Control Strategy for the Dynamic Stabilization of Integrated Energy System With Multiple Virtual Leaders"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "150": {
-        "author": "J Yang",
+    "J Yang": {
         "citations": 3.0,
         "titles": [
             "Distributed Containment Control Strategy for the Dynamic Stabilization of Integrated Energy System With Multiple Virtual Leaders"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "151": {
-        "author": "Z Yang",
+    "Z Yang": {
         "citations": 3.0,
         "titles": [
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "152": {
-        "author": "D Li",
+    "D Li": {
         "citations": 3.0,
         "titles": [
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "153": {
-        "author": "W Nai",
+    "W Nai": {
         "citations": 3.0,
         "titles": [
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "154": {
-        "author": "J Sun",
+    "J Sun": {
         "citations": 3.0,
         "titles": [
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "155": {
-        "author": "X Lv",
+    "X Lv": {
         "citations": 3.0,
         "titles": [
             "Compressible Non-Newtonian Fluid Based Road Traffic Flow Equation Solved by Physical-Informed Rational Neural Network"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "156": {
-        "author": "W He",
+    "W He": {
         "citations": 3.0,
         "titles": [
             "Distributed cooperative formation control for multi-agent systems based on robust adaptive strategy"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "157": {
-        "author": "B Yan",
+    "B Yan": {
         "citations": 3.0,
         "titles": [
             "Distributed cooperative formation control for multi-agent systems based on robust adaptive strategy"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "158": {
-        "author": "C Wu",
+    "C Wu": {
         "citations": 3.0,
         "titles": [
             "Distributed cooperative formation control for multi-agent systems based on robust adaptive strategy"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "159": {
-        "author": "SW Lin",
+    "SW Lin": {
         "citations": 2.0,
         "titles": [
             "Distributed Actor-Critic Approach for Frequency Synchronization of Isolated AC Microgrids",
             "Distributed Actor-Critic Approach for Frequency Synchronization of Isolated AC Microgrids"
         ],
-        "author_ids": [
-            "qwFjTH0AAAAJ"
+        "associations": [
+            "\u570b\u7acb\u6e05\u83ef\u5927\u5b78",
+            "m106.nthu.edu.tw"
         ]
     },
-    "160": {
-        "author": "CC Chu",
+    "CC Chu": {
         "citations": 2.0,
         "titles": [
             "Distributed Actor-Critic Approach for Frequency Synchronization of Isolated AC Microgrids",
             "Distributed Actor-Critic Approach for Frequency Synchronization of Isolated AC Microgrids"
         ],
-        "author_ids": [
-            "RHOx02cAAAAJ"
+        "associations": [
+            "ee.nthu.edu.tw",
+            "Department of Electrical Engieering, National Tsing Hua University, Taiwan, R.O.C."
         ]
     },
-    "161": {
-        "author": "J Li",
+    "J Li": {
         "citations": 2.0,
         "titles": [
             "Reinforcement Learning for Synchronization of Heterogeneous Multiagent Systems by Improved -Functions",
@@ -1672,132 +1639,138 @@
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?",
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?"
         ],
-        "author_ids": [
-            "jHwxA4oAAAAJ",
-            "V_M8l4IAAAAJ"
-        ]
+        "associations": []
     },
-    "162": {
-        "author": "H Shafieirad",
+    "H Shafieirad": {
         "citations": 2.0,
         "titles": [
             "On Meeting a Maximum Delay Constraint Using Reinforcement Learning in Wireless Networks",
             "On Meeting a Maximum Delay Constraint Using Reinforcement Learning in Wireless Networks"
         ],
-        "author_ids": [
-            "8Q85_zQAAAAJ"
+        "associations": [
+            "University of Toronto",
+            "ece.utoronto.ca"
         ]
     },
-    "163": {
-        "author": "D Abel",
+    "D Abel": {
         "citations": 2.0,
         "titles": [
             "Three Dogmas of Reinforcement Learning",
             "Three Dogmas of Reinforcement Learning"
         ],
-        "author_ids": [
-            "lvBJlmwAAAAJ"
+        "associations": [
+            "deepmind.com",
+            "DeepMind / University of Edinburgh"
         ]
     },
-    "164": {
-        "author": "MK Ho",
+    "MK Ho": {
         "citations": 2.0,
         "titles": [
             "Three Dogmas of Reinforcement Learning",
             "Three Dogmas of Reinforcement Learning"
         ],
-        "author_ids": [
-            "yK7yTiwAAAAJ"
+        "associations": [
+            "nyu.edu",
+            "Assistant Professor, New York University"
         ]
     },
-    "165": {
-        "author": "A Harutyunyan",
+    "A Harutyunyan": {
         "citations": 2.0,
         "titles": [
             "Three Dogmas of Reinforcement Learning",
             "Three Dogmas of Reinforcement Learning"
         ],
-        "author_ids": [
-            "Pon8OksAAAAJ"
-        ]
+        "associations": []
     },
-    "166": {
-        "author": "KY Yan",
+    "KY Yan": {
         "citations": 2.0,
         "titles": [
             "AGI via Combining Logic with Deep Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "167": {
-        "author": "B Jiang",
+    "B Jiang": {
         "citations": 2.0,
         "titles": [
             "Adaptive dynamic programming approach for Stackelberg game-based fault-tolerant control",
             "Adaptive dynamic programming approach for Stackelberg game-based fault-tolerant control"
         ],
-        "author_ids": [
-            "FRXg54EAAAAJ"
+        "associations": [
+            "nuaa.edu.cn",
+            "Nanjing University of Aeronautics and Astronautics"
         ]
     },
-    "168": {
-        "author": "H Kazemi",
+    "H Kazemi": {
         "citations": 2.0,
         "titles": [
             "Intelligent Transportation Systems, Hybrid Electric Vehicles, Powertrain Control, Cooperative Adaptive Cruise Control, Model Predictive Control",
             "Intelligent Transportation Systems, Hybrid Electric Vehicles, Powertrain Control, Cooperative Adaptive Cruise Control, Model Predictive Control"
         ],
-        "author_ids": [
-            "O2-z9TYAAAAJ"
+        "associations": [
+            "apple.com",
+            "Apple Inc."
         ]
     },
-    "169": {
-        "author": "P Poupart",
+    "P Poupart": {
         "citations": 2.0,
         "titles": [
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach.",
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach."
         ],
-        "author_ids": [
-            "KhAJWroAAAAJ"
+        "associations": [
+            "uwaterloo.ca",
+            "University of Waterloo"
         ]
     },
-    "170": {
-        "author": "S Das",
+    "S Das": {
         "citations": 2.0,
         "titles": [
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach.",
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach."
         ],
-        "author_ids": [
-            "HRSDO6IAAAAJ"
+        "associations": [
+            "gmu.edu",
+            "Professor of Computer Science, George Mason University"
         ]
     },
-    "171": {
-        "author": "Y Geng",
+    "Y Geng": {
         "citations": 2.0,
         "titles": [
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach.",
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach."
         ],
-        "author_ids": [
-            "SbA3q80AAAAJ"
+        "associations": [
+            "huawei.com",
+            "Research Scientist, Senior IEEE Member, Huawei Technologies"
         ]
     },
-    "172": {
-        "author": "C Chi",
+    "C Chi": {
         "citations": 2.0,
         "titles": [
             "Theory Embedded Learning",
             "Theory Embedded Learning",
             "Theory Embedded Learning A Universal Framework for Combining Theory With Learning"
         ],
-        "author_ids": [
-            "-BZtJogAAAAJ"
+        "associations": [
+            "cg.tuwien.ac.at",
+            "google.com",
+            "unige.it",
+            "MINES Paristech",
+            "uni-oldenburg.de",
+            "gatech.edu",
+            "ucm.es",
+            "Georgia Institute of Technology",
+            "Google DeepMind",
+            "MaLGa Machine Learning Genoa Center - Universit\u00e0 degli Studi di Genova",
+            "Shanghai Jiao Tong University | VGG, University of Oxford",
+            "Universidad Complutense Madrid",
+            "robots.ox.ac.uk",
+            "pku.edu.cn",
+            "Peking University, Peng Cheng Laboratory",
+            "Carnegie Mellon University"
         ]
     },
-    "173": {
-        "author": "J L\u00fc",
+    "J L\u00fc": {
         "citations": 2.0,
         "titles": [
             "Resilient Output Formation-Containment Tracking of Heterogeneous Multi-Agent Systems: A Learning-Based Framework using Dynamic Data",
@@ -1805,936 +1778,873 @@
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method",
             "Cooperative Fault-Tolerant Formation Tracking Control for Heterogeneous Air-Ground Systems Using a Learning-Based Method"
         ],
-        "author_ids": [
-            "mCjNN7kAAAAJ"
+        "associations": [
+            "Professor of Beihang University",
+            "iss.ac.cn"
         ]
     },
-    "174": {
-        "author": "ME Duntz",
+    "ME Duntz": {
         "citations": 2.0,
         "titles": [
             "Counter autonomy defense for aerial autonomous systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "175": {
-        "author": "SE Alam",
+    "SE Alam": {
         "citations": 2.0,
         "titles": [
             "Communication-efficient allocation of multiple indivisible resources in a federated multi-agent system",
             "Communication-efficient allocation of multiple indivisible resources in a federated multi-agent system"
         ],
-        "author_ids": [
-            "8PZoDZkAAAAJ"
+        "associations": [
+            "University of Alberta, Canada",
+            "ualberta.ca"
         ]
     },
-    "176": {
-        "author": "D Shukla",
+    "D Shukla": {
         "citations": 2.0,
         "titles": [
             "Communication-efficient allocation of multiple indivisible resources in a federated multi-agent system",
             "Communication-efficient allocation of multiple indivisible resources in a federated multi-agent system"
         ],
-        "author_ids": [
-            "KXHNQNwAAAAJ"
+        "associations": [
+            "Professor & Chair, Dr. J. Herbert Smith / ACOA in Technology Management and Entrepreneurship",
+            "unb.ca"
         ]
     },
-    "177": {
-        "author": "M Motoki",
+    "M Motoki": {
         "citations": 2.0,
         "titles": [
             "Balancing Fairness and Efficiency in Energy Resource Allocations",
             "Balancing Fairness and Efficiency in Energy Resource Allocations"
         ],
-        "author_ids": [
-            "fOWhQ3AAAAAJ"
+        "associations": [
+            "uw.edu",
+            "University of Washington"
         ]
     },
-    "178": {
-        "author": "B Zhang",
+    "B Zhang": {
         "citations": 2.0,
         "titles": [
             "Balancing Fairness and Efficiency in Energy Resource Allocations",
             "Balancing Fairness and Efficiency in Energy Resource Allocations"
         ],
-        "author_ids": [
-            "3svZOGAAAAAJ"
+        "associations": [
+            "Keith and Nancy Rattie Endowed Career Development Professor, University of Washington",
+            "uw.edu"
         ]
     },
-    "179": {
-        "author": "CF Tung",
+    "CF Tung": {
         "citations": 1.0,
         "titles": [
             "Distributed Actor-Critic Approach for Frequency Synchronization of Isolated AC Microgrids"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "180": {
-        "author": "Y Guo",
+    "Y Guo": {
         "citations": 1.0,
         "titles": [
             "Differential graphical game\u2010based multi\u2010agent tracking control using integral reinforcement learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "181": {
-        "author": "Q Sun",
+    "Q Sun": {
         "citations": 1.0,
         "titles": [
             "Differential graphical game\u2010based multi\u2010agent tracking control using integral reinforcement learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "182": {
-        "author": "Y Wang",
+    "Y Wang": {
         "citations": 1.0,
         "titles": [
             "Differential graphical game\u2010based multi\u2010agent tracking control using integral reinforcement learning",
             "Secure Control for Markov Jump Cyber\u2013Physical Systems Subject to Malicious Attacks: A Resilient Hybrid Learning Scheme"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "183": {
-        "author": "Q Pan",
+    "Q Pan": {
         "citations": 1.0,
         "titles": [
             "Differential graphical game\u2010based multi\u2010agent tracking control using integral reinforcement learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "184": {
-        "author": "P Zeman",
+    "P Zeman": {
         "citations": 1.0,
         "titles": [
             "Assessing Policy Optimization agents using Algorithmic IQ test"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "185": {
-        "author": "Y Meng",
+    "Y Meng": {
         "citations": 1.0,
         "titles": [
             "Adaptive dynamic programming approach for Stackelberg game-based fault-tolerant control"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "186": {
-        "author": "M Shein",
+    "M Shein": {
         "citations": 1.0,
         "titles": [
             "A spiking neural network of state transition probabilities in model-based reinforcement learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "187": {
-        "author": "Z Li",
+    "Z Li": {
         "citations": 1.0,
         "titles": [
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach."
         ],
-        "author_ids": []
+        "associations": []
     },
-    "188": {
-        "author": "Z Chen",
+    "Z Chen": {
         "citations": 1.0,
         "titles": [
             "Faster Policy Adaptation in Environments with Exogeneity: A State Augmentation Approach."
         ],
-        "author_ids": []
+        "associations": []
     },
-    "189": {
-        "author": "F Wang",
+    "F Wang": {
         "citations": 1.0,
         "titles": [
             "Model-Free Containment Control of Fully Heterogeneous Linear Multiagent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "190": {
-        "author": "A Cao",
+    "A Cao": {
         "citations": 1.0,
         "titles": [
             "Model-Free Containment Control of Fully Heterogeneous Linear Multiagent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "191": {
-        "author": "Z Liu",
+    "Z Liu": {
         "citations": 1.0,
         "titles": [
             "Model-Free Containment Control of Fully Heterogeneous Linear Multiagent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "192": {
-        "author": "B Shi",
+    "B Shi": {
         "citations": 1.0,
         "titles": [
             "Jamming the Relay-Assisted Multi-User Wireless Communication System: A Zero-Sum Game Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "193": {
-        "author": "H Shao",
+    "H Shao": {
         "citations": 1.0,
         "titles": [
             "Jamming the Relay-Assisted Multi-User Wireless Communication System: A Zero-Sum Game Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "194": {
-        "author": "J Lin",
+    "J Lin": {
         "citations": 1.0,
         "titles": [
             "Jamming the Relay-Assisted Multi-User Wireless Communication System: A Zero-Sum Game Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "195": {
-        "author": "S Zhao",
+    "S Zhao": {
         "citations": 1.0,
         "titles": [
             "Jamming the Relay-Assisted Multi-User Wireless Communication System: A Zero-Sum Game Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "196": {
-        "author": "X Jia",
+    "X Jia": {
         "citations": 0,
         "titles": [
             "Optimal Consensus Control for Continuous-time Multi-agent Systems via Actor-Critic Neural Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "197": {
-        "author": "K Wolter",
+    "K Wolter": {
         "citations": 0,
         "titles": [
             "Optimal Consensus Control for Continuous-time Multi-agent Systems via Actor-Critic Neural Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "198": {
-        "author": "K Jiang",
+    "K Jiang": {
         "citations": 0,
         "titles": [
             "Safe Reinforcement Learning for Connected and Automated Vehicle Platooning",
             "Safe Reinforcement Learning for Connected and Automated Vehicle Platooning"
         ],
-        "author_ids": [
-            "tCHMPX0AAAAJ"
+        "associations": [
+            "Beihang University",
+            "buaa.edu.cn"
         ]
     },
-    "199": {
-        "author": "Y Lu",
+    "Y Lu": {
         "citations": 0,
         "titles": [
             "Safe Reinforcement Learning for Connected and Automated Vehicle Platooning",
             "Safe Reinforcement Learning for Connected and Automated Vehicle Platooning"
         ],
-        "author_ids": [
-            "_uFez_0AAAAJ"
+        "associations": [
+            "ntu.edu.sg",
+            "Nanyang Technological University"
         ]
     },
-    "200": {
-        "author": "R Su",
+    "R Su": {
         "citations": 0,
         "titles": [
             "Safe Reinforcement Learning for Connected and Automated Vehicle Platooning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "201": {
-        "author": "J Huang",
+    "J Huang": {
         "citations": 0,
         "titles": [
             "Distributed Vibration Control of Large Flexible Satellite Solar Panel Via Reinforcement Learning",
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "202": {
-        "author": "X Liu",
+    "X Liu": {
         "citations": 0,
         "titles": [
             "Distributed Vibration Control of Large Flexible Satellite Solar Panel Via Reinforcement Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "203": {
-        "author": "SHQ Li",
+    "SHQ Li": {
         "citations": 0,
         "titles": [
             "General sum stochastic games with networked information flows",
             "General sum stochastic games with networked information flows"
         ],
-        "author_ids": [
-            "yZhro2IAAAAJ"
+        "associations": [
+            "ETH Zurich",
+            "control.ee.ethz.ch"
         ]
     },
-    "204": {
-        "author": "LJ Ratliff",
+    "LJ Ratliff": {
         "citations": 0,
         "titles": [
             "General sum stochastic games with networked information flows",
             "General sum stochastic games with networked information flows"
         ],
-        "author_ids": [
-            "LVPkbeYAAAAJ"
+        "associations": [
+            "Associate Professor, University of Washington",
+            "uw.edu"
         ]
     },
-    "205": {
-        "author": "P Kumar",
+    "P Kumar": {
         "citations": 0,
         "titles": [
             "General sum stochastic games with networked information flows",
             "General sum stochastic games with networked information flows"
         ],
-        "author_ids": [
-            "mh6kznYAAAAJ"
+        "associations": [
+            "uw.edu",
+            "University of Washington Seattle; Microsoft Research"
         ]
     },
-    "206": {
-        "author": "D Yu",
+    "D Yu": {
         "citations": 0,
         "titles": [
             "Integral-Reinforcement-Learning-Based Hierarchical Optimal Evolutionary Strategy for Continuous Action Social Dilemma Games",
             "Integral-Reinforcement-Learning-Based Hierarchical Optimal Evolutionary Strategy for Continuous Action Social Dilemma Games"
         ],
-        "author_ids": [
-            "sxN3HdcAAAAJ"
+        "associations": [
+            "Northwestern Polytechnical University",
+            "nwpu.edu.cn"
         ]
     },
-    "207": {
-        "author": "L Fan",
+    "L Fan": {
         "citations": 0,
         "titles": [
             "Integral-Reinforcement-Learning-Based Hierarchical Optimal Evolutionary Strategy for Continuous Action Social Dilemma Games"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "208": {
-        "author": "Z Wang",
+    "Z Wang": {
         "citations": 0,
         "titles": [
             "Integral-Reinforcement-Learning-Based Hierarchical Optimal Evolutionary Strategy for Continuous Action Social Dilemma Games"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "209": {
-        "author": "L Yuan",
+    "L Yuan": {
         "citations": 0,
         "titles": [
             "Reinforcement Learning for Synchronization of Heterogeneous Multiagent Systems by Improved -Functions"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "210": {
-        "author": "W Cheng",
+    "W Cheng": {
         "citations": 0,
         "titles": [
             "Reinforcement Learning for Synchronization of Heterogeneous Multiagent Systems by Improved -Functions"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "211": {
-        "author": "T Chai",
+    "T Chai": {
         "citations": 0,
         "titles": [
             "Reinforcement Learning for Synchronization of Heterogeneous Multiagent Systems by Improved -Functions"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "212": {
-        "author": "J Yan",
+    "J Yan": {
         "citations": 0,
         "titles": [
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution",
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution"
         ],
-        "author_ids": [
-            "HtjDQ1AAAAAJ"
+        "associations": [
+            "ysu.edu.cn",
+            "Yanshan University"
         ]
     },
-    "213": {
-        "author": "X Yang",
+    "X Yang": {
         "citations": 0,
         "titles": [
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution",
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution"
         ],
-        "author_ids": [
-            "ISADH70AAAAJ"
+        "associations": [
+            "ysu.edu.cn",
+            "Yanshan University"
         ]
     },
-    "214": {
-        "author": "C Chen",
+    "C Chen": {
         "citations": 0,
         "titles": [
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution",
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution"
         ],
-        "author_ids": [
-            "NGQrfUwAAAAJ"
+        "associations": [
+            "Shanghai Jiao Tong University",
+            "sjtu.edu.cn"
         ]
     },
-    "215": {
-        "author": "T Zhang",
+    "T Zhang": {
         "citations": 0,
         "titles": [
             "Digital Twin-Driven Formation Control of ROVs: An Integral Reinforcement Learning-Based Solution"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "216": {
-        "author": "C DONALD",
+    "C DONALD": {
         "citations": 0,
         "titles": [
             "Containment Control of Heterogeneous Systems with Non-Autonomous Leaders: A Distributed Optimal Model Reference Approach",
             "Containment Control of Heterogeneous Systems with Non-Autonomous Leaders: A Distributed Optimal Model Reference Approach"
         ],
-        "author_ids": [
-            "fQC7bIoAAAAJ"
+        "associations": [
+            "mst.edu",
+            "Missouri University of Science and Technology"
         ]
     },
-    "217": {
-        "author": "Y YONGLIANG",
+    "Y YONGLIANG": {
         "citations": 0,
         "titles": [
             "Containment Control of Heterogeneous Systems with Non-Autonomous Leaders: A Distributed Optimal Model Reference Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "218": {
-        "author": "S CHENG",
+    "S CHENG": {
         "citations": 0,
         "titles": [
             "Containment Control of Heterogeneous Systems with Non-Autonomous Leaders: A Distributed Optimal Model Reference Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "219": {
-        "author": "Y YIN",
+    "Y YIN": {
         "citations": 0,
         "titles": [
             "Containment Control of Heterogeneous Systems with Non-Autonomous Leaders: A Distributed Optimal Model Reference Approach"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "220": {
-        "author": "P Olhager",
+    "P Olhager": {
         "citations": 0,
         "titles": [
             "Robust Reinforcement Learning Control of a Furuta Pendulum"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "221": {
-        "author": "P Michailidis",
+    "P Michailidis": {
         "citations": 0,
         "titles": [
             "Review and Evaluation of Multi-Agent Control Applications for Energy Management in Buildings.",
             "Review and Evaluation of Multi-Agent Control Applications for Energy Management in Buildings."
         ],
-        "author_ids": [
-            "E5RFom0AAAAJ"
+        "associations": [
+            "ee.duth.gr",
+            "Postdoctoral Research Fellow at ITI-CERTH & Democritus University of Thrace (DUTH)"
         ]
     },
-    "222": {
-        "author": "I Michailidis",
+    "I Michailidis": {
         "citations": 0,
         "titles": [
             "Review and Evaluation of Multi-Agent Control Applications for Energy Management in Buildings.",
             "Review and Evaluation of Multi-Agent Control Applications for Energy Management in Buildings."
         ],
-        "author_ids": [
-            "hUC2CC8AAAAJ"
+        "associations": [
+            "INFORMATION TECHNOLOGIES INSTITUTE, POST-DOCTORAL RESEARCH ASSOCIATE",
+            "iti.gr"
         ]
     },
-    "223": {
-        "author": "D Bossens",
+    "D Bossens": {
         "citations": 0,
         "titles": [
             "Reinforcement learning with limited prior knowledge in long-term environments",
             "Reinforcement learning with limited prior knowledge in long-term environments"
         ],
-        "author_ids": [
-            "w2feGIoAAAAJ"
+        "associations": [
+            "cfar.a-star.edu.sg",
+            "Senior Scientist, Centre for Frontier AI Research, A*STAR"
         ]
     },
-    "224": {
-        "author": "V Sadhu",
+    "V Sadhu": {
         "citations": 0,
         "titles": [
             "Real-Time Autonomic Decision Making Under Uncertain Environments for UAV-Based Search-And-Rescue Missions",
             "Real-Time Autonomic Decision Making Under Uncertain Environments for UAV-Based Search-And-Rescue Missions"
         ],
-        "author_ids": [
-            "K5GcTPYAAAAJ"
+        "associations": [
+            "Advanced Computer Scientist, Artificial Intelligence Center, SRI International",
+            "sri.com"
         ]
     },
-    "225": {
-        "author": "D CIRINO",
+    "D CIRINO": {
         "citations": 0,
         "titles": [
             "State entropy maximization in POMDPs"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "226": {
-        "author": "A Hawbani",
+    "A Hawbani": {
         "citations": 0,
         "titles": [
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks",
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": [
-            "HZRx6AkAAAAJ"
+        "associations": [
+            "Professor (Full), Shenyang Aerospace University",
+            "ustc.edu.cn"
         ]
     },
-    "227": {
-        "author": "L Zhao",
+    "L Zhao": {
         "citations": 0,
         "titles": [
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks",
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": [
-            "7KlP2dIAAAAJ"
+        "associations": [
+            "sau.edu.cn",
+            "Professor (Full), Shenyang Aerospace University"
         ]
     },
-    "228": {
-        "author": "N Lin",
+    "N Lin": {
         "citations": 0,
         "titles": [
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "229": {
-        "author": "H Tang",
+    "H Tang": {
         "citations": 0,
         "titles": [
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "230": {
-        "author": "Y Guan",
+    "Y Guan": {
         "citations": 0,
         "titles": [
             "Joint routing and computation offloading based deep reinforcement learning for Flying Ad hoc Networks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "231": {
-        "author": "N Bougie",
+    "N Bougie": {
         "citations": 0,
         "titles": [
             "Efficient Reinforcement Learning through Improved Cognitive Capabilities.",
             "Efficient Reinforcement Learning through Improved Cognitive Capabilities."
         ],
-        "author_ids": [
-            "j_Kf-msAAAAJ"
-        ]
+        "associations": []
     },
-    "232": {
-        "author": "\uc190\ub3d9\uc6d0",
+    "\uc190\ub3d9\uc6d0": {
         "citations": 0,
         "titles": [
             "Multi-Contact Simulator and Reinforcement Learning for Screw Tightening Tasks"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "233": {
-        "author": "H Drias",
+    "H Drias": {
         "citations": 0,
         "titles": [
             "Leveraging Transfer Learning with Federated DRL for Autonomous Vehicles Platooning",
             "Leveraging Transfer Learning with Federated DRL for Autonomous Vehicles Platooning"
         ],
-        "author_ids": [
-            "KN10OEIAAAAJ"
+        "associations": [
+            "Professor of Computer Science, USTHB",
+            "usthb.dz"
         ]
     },
-    "234": {
-        "author": "B Brik",
+    "B Brik": {
         "citations": 0,
         "titles": [
             "Leveraging Transfer Learning with Federated DRL for Autonomous Vehicles Platooning",
             "Leveraging Transfer Learning with Federated DRL for Autonomous Vehicles Platooning"
         ],
-        "author_ids": [
-            "c3EPy9sAAAAJ"
+        "associations": [
+            "Assistant Professor at Sharjah university, UAE.",
+            "sharjah.ac.ae"
         ]
     },
-    "235": {
-        "author": "MEA Ameur",
+    "MEA Ameur": {
         "citations": 0,
         "titles": [
             "Leveraging Transfer Learning with Federated DRL for Autonomous Vehicles Platooning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "236": {
-        "author": "R Wang",
+    "R Wang": {
         "citations": 0,
         "titles": [
             "End-to-end network slicing design policy in 5G networks",
             "End-to-end network slicing design policy in 5G networks"
         ],
-        "author_ids": [
-            "4FAm6I4AAAAJ"
+        "associations": [
+            "kcl.ac.uk",
+            "Research Associate, King's College London"
         ]
     },
-    "237": {
-        "author": "W Yu",
+    "W Yu": {
         "citations": 0,
         "titles": [
             "Adaptive Optimal Bipartite Consensus Control for Heterogeneous Multi-Agent Systems",
             "Adaptive Optimal Bipartite Consensus Control for Heterogeneous Multi-Agent Systems"
         ],
-        "author_ids": [
-            "I7XxngUAAAAJ"
+        "associations": [
+            "seu.edu.cn",
+            "Endowed Chair Professor, Southeast University, Nanjing China"
         ]
     },
-    "238": {
-        "author": "B Liang",
+    "B Liang": {
         "citations": 0,
         "titles": [
             "Adaptive Optimal Bipartite Consensus Control for Heterogeneous Multi-Agent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "239": {
-        "author": "Y Wei",
+    "Y Wei": {
         "citations": 0,
         "titles": [
             "Adaptive Optimal Bipartite Consensus Control for Heterogeneous Multi-Agent Systems"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "240": {
-        "author": "K Suri",
+    "K Suri": {
         "citations": 0,
         "titles": [
             "Effects of Conservatism on Offline Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "241": {
-        "author": "F Shkurti",
+    "F Shkurti": {
         "citations": 0,
         "titles": [
             "Effects of Conservatism on Offline Learning"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "242": {
-        "author": "Q Meng",
+    "Q Meng": {
         "citations": 0,
         "titles": [
             "Robust optimal control law learning for heterogeneous rotorcraft formation involving unknown parameters"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "243": {
-        "author": "H Tian",
+    "H Tian": {
         "citations": 0,
         "titles": [
             "Robust optimal control law learning for heterogeneous rotorcraft formation involving unknown parameters"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "244": {
-        "author": "T Logemann",
+    "T Logemann": {
         "citations": 0,
         "titles": [
             "Explainability of power grid attack strategies learned by Deep Reinforcement Learning Agents",
             "Explainability of power grid attack strategies learned by Deep Reinforcement Learning Agents"
         ],
-        "author_ids": [
-            "9TgFlZ0AAAAJ"
+        "associations": [
+            "ARL research group, University of Oldenburg, Germany",
+            "uni-oldenburg.de"
         ]
     },
-    "245": {
-        "author": "TD Kulkarni",
+    "TD Kulkarni": {
         "citations": 0,
         "titles": [
             "Learning structured representations for perception and control",
             "Learning structured representations for perception and control"
         ],
-        "author_ids": [
-            "rrPyvsgAAAAJ"
+        "associations": [
+            "mit.edu",
+            "DeepMind, Massachusetts Institute of Technology"
         ]
     },
-    "246": {
-        "author": "M Mazouchi",
+    "M Mazouchi": {
         "citations": 0,
         "titles": [
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach",
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
         ],
-        "author_ids": [
-            "vpqGNf8AAAAJ"
+        "associations": [
+            "msu.edu",
+            "Research Associate, Michigan State University"
         ]
     },
-    "247": {
-        "author": "H Modares",
+    "H Modares": {
         "citations": 0,
         "titles": [
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach",
             "Data-Driven Solutions to Mixed Control: A Hamilton-Inequality-Driven Reinforcement Learning Approach"
         ],
-        "author_ids": [
-            "xhucCdUAAAAJ"
+        "associations": [
+            "msu.edu",
+            "Associate Professor, Michigan State University"
         ]
     },
-    "248": {
-        "author": "G Dubosarskii",
+    "G Dubosarskii": {
         "citations": 0,
         "titles": [
             "Vehicle Networks: Statistical and Game Theoretic Approaches to Their Evaluation and Design",
             "Vehicle Networks: Statistical and Game Theoretic Approaches to Their Evaluation and Design"
         ],
-        "author_ids": [
-            "7kRxVoIAAAAJ"
-        ]
+        "associations": []
     },
-    "249": {
-        "author": "JH Park",
+    "JH Park": {
         "citations": 0,
         "titles": [
             "Secure Control for Markov Jump Cyber\u2013Physical Systems Subject to Malicious Attacks: A Resilient Hybrid Learning Scheme",
             "Secure Control for Markov Jump Cyber\u2013Physical Systems Subject to Malicious Attacks: A Resilient Hybrid Learning Scheme"
         ],
-        "author_ids": [
-            "t-3_zUQAAAAJ"
+        "associations": [
+            "Chunma Chair Professor, Yeungnam University",
+            "ynu.ac.kr"
         ]
     },
-    "250": {
-        "author": "H Shen",
+    "H Shen": {
         "citations": 0,
         "titles": [
             "Secure Control for Markov Jump Cyber\u2013Physical Systems Subject to Malicious Attacks: A Resilient Hybrid Learning Scheme"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "251": {
-        "author": "J Wu",
+    "J Wu": {
         "citations": 0,
         "titles": [
             "Secure Control for Markov Jump Cyber\u2013Physical Systems Subject to Malicious Attacks: A Resilient Hybrid Learning Scheme"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "252": {
-        "author": "A Sundstrom",
+    "A Sundstrom": {
         "citations": 0,
         "titles": [
             "Securing Industrial Production from Sophisticated Cyberattacks.",
             "Securing Industrial Production from Sophisticated Cyberattacks."
         ],
-        "author_ids": [
-            "w7zKpOsAAAAJ"
+        "associations": [
+            "Physics-Informed AI R&D at Siemens",
+            "acm.org"
         ]
     },
-    "253": {
-        "author": "DW Limoge",
+    "DW Limoge": {
         "citations": 0,
         "titles": [
             "Securing Industrial Production from Sophisticated Cyberattacks.",
             "Securing Industrial Production from Sophisticated Cyberattacks."
         ],
-        "author_ids": [
-            "4Slqw1kAAAAJ"
+        "associations": [
+            "nanotronics.co",
+            "Senior R&D Engineer, Nanotronics"
         ]
     },
-    "254": {
-        "author": "V Pinskiy",
+    "V Pinskiy": {
         "citations": 0,
         "titles": [
             "Securing Industrial Production from Sophisticated Cyberattacks."
         ],
-        "author_ids": []
+        "associations": []
     },
-    "255": {
-        "author": "M Putman",
+    "M Putman": {
         "citations": 0,
         "titles": [
             "Securing Industrial Production from Sophisticated Cyberattacks."
         ],
-        "author_ids": []
+        "associations": []
     },
-    "256": {
-        "author": "A Xiang",
+    "A Xiang": {
         "citations": 0,
         "titles": [
             "A Data-Based Adaptive Consensus Control Algorithm of Discrete-Time Multi-Agent Systems",
             "A Data-Based Adaptive Consensus Control Algorithm of Discrete-Time Multi-Agent Systems"
         ],
-        "author_ids": [
-            "WSHo9YgAAAAJ"
+        "associations": [
+            "Beijing University of Technology",
+            "emails.bjut.edu.cn"
         ]
     },
-    "257": {
-        "author": "T Khan Mohd",
+    "T Khan Mohd": {
         "citations": 0,
         "titles": [
             "Multimodal Data Fusion Using Voice and Electromyography Data for Robotic Control",
             "Multimodal Data Fusion Using Voice and Electromyography Data for Robotic Control"
         ],
-        "author_ids": [
-            "nh1Jx2kAAAAJ"
+        "associations": [
+            "Assistant Professor, Eastern Michigan University, Ypsilanti",
+            "emich.edu"
         ]
     },
-    "258": {
-        "author": "D Baumann",
+    "D Baumann": {
         "citations": 0,
         "titles": [
             "Fast and Resource-Efficient Control of Wireless Cyber-Physical Systems",
             "Fast and Resource-Efficient Control of Wireless Cyber-Physical Systems"
         ],
-        "author_ids": [
-            "bJX8-CEAAAAJ"
+        "associations": [
+            "aalto.fi",
+            "Aalto University, Espoo, Finland"
         ]
     },
-    "259": {
-        "author": "Z Xu",
+    "Z Xu": {
         "citations": 0,
         "titles": [
             "Bioinspired Intelligent Control of Autonomous Robots with State Estimation",
             "Bioinspired Intelligent Control of Autonomous Robots with State Estimation"
         ],
-        "author_ids": [
-            "hS8epm8AAAAJ"
+        "associations": [
+            "mcmaster.ca",
+            "Post Doctoral Fellow"
         ]
     },
-    "260": {
-        "author": "M Finzi",
+    "M Finzi": {
         "citations": 0,
         "titles": [
             "Understanding and Incorporating Mathematical Inductive Biases in Neural Networks",
             "Understanding and Incorporating Mathematical Inductive Biases in Neural Networks"
         ],
-        "author_ids": [
-            "ysMAhlwAAAAJ"
+        "associations": [
+            "g.hmc.edu",
+            "Postdoc at Carnegie Mellon University"
         ]
     },
-    "261": {
-        "author": "CY Chiu",
+    "CY Chiu": {
         "citations": 0,
         "titles": [
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?",
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?"
         ],
-        "author_ids": [
-            "cl9ModoAAAAJ"
+        "associations": [
+            "berkeley.edu",
+            "University of California, Berkeley"
         ]
     },
-    "262": {
-        "author": "M Bhatt",
+    "M Bhatt": {
         "citations": 0,
         "titles": [
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?",
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?"
         ],
-        "author_ids": [
-            "O9WQVAEAAAAJ"
+        "associations": [
+            "PhD Student, University of California, Berkeley",
+            "berkeley.edu"
         ]
     },
-    "263": {
-        "author": "N Mehr",
+    "N Mehr": {
         "citations": 0,
         "titles": [
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?",
             "To What Extent do Open-loop and Feedback Nash Equilibria Diverge in General-Sum Linear Quadratic Dynamic Games?"
         ],
-        "author_ids": [
-            "oAlCitYAAAAJ"
+        "associations": [
+            "berkeley.edu",
+            "Assistant Professor, University of California, Berkeley"
         ]
     },
-    "264": {
-        "author": "W Li",
+    "W Li": {
         "citations": 0,
         "titles": [
             "Drone Swarm Robust Cooperative Formation Pursuit through Relative Positioning in a Location Denial Environment.",
             "Drone Swarm Robust Cooperative Formation Pursuit through Relative Positioning in a Location Denial Environment."
         ],
-        "author_ids": [
-            "BZhoy6AAAAAJ"
+        "associations": [
+            "South China University of Technology",
+            "mail.scut.edu.cn"
         ]
     },
-    "265": {
-        "author": "W Ma",
+    "W Ma": {
         "citations": 0,
         "titles": [
             "VARIABLE COUPLING CONTAINMENT CONTROL IN HETEROGENEOUS MULTI-AGENT SWITCHING TOPOLOGY BASED ON EVENT-TRIGGERED"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "266": {
-        "author": "O Francuski",
+    "O Francuski": {
         "citations": 0,
         "titles": [
             "U\u010cENJE USLOVLJAVANJEM UZ PO\u0160TOVANJE SIGURNOSNIH MEHANIZAMA\u2013STUDIJA SLU\u010cAJA RADA UZ SAMO-MODIFIKACIJU"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "267": {
-        "author": "M Pavli\u0107",
+    "M Pavli\u0107": {
         "citations": 0,
         "titles": [
             "U\u010cENJE USLOVLJAVANJEM UZ PO\u0160TOVANJE SIGURNOSNIH MEHANIZAMA\u2013STUDIJA SLU\u010cAJA RADA UZ SIGURNOSNI PREKID"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "268": {
-        "author": "RNDM Mal\u00fd",
+    "RNDM Mal\u00fd": {
         "citations": 0,
         "titles": [
             "Reinforcement Learning with Abstraction"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "269": {
-        "author": "\u30cb\u30b3\u30e9\u30b9\u30d6\u30fc\u30ae\u30fc",
+    "\u30cb\u30b3\u30e9\u30b9\u30d6\u30fc\u30ae\u30fc": {
         "citations": 0,
         "titles": [
             "Efficient Reinforcement Learning through Improved Cognitive Capabilities (\u8a8d\u77e5\u80fd\u529b\u306e\u6539\u5584\u306b\u3088\u308b\u52b9\u7387\u7684\u306a\u5f37\u5316\u5b66\u7fd2)"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "270": {
-        "author": "\u5f35\u90b5\u7440",
+    "\u5f35\u90b5\u7440": {
         "citations": 0,
         "titles": [
             "\u57fa\u65bc\u6df1\u5ea6\u5b78\u7fd2\u53ca\u9077\u79fb\u5f0f\u5b78\u7fd2\u4e4b\u6a5f\u5668\u4eba\u64cd\u4f5c\u5e73\u677f\u96fb\u8166\u865b\u64ec\u9375\u76e4\u7684\u8996\u89ba\u8207\u52d5\u4f5c\u5354\u8abf\u7cfb\u7d71"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "271": {
-        "author": "\u6e29\u5e7f\u8f89\uff0c \u6768\u6d9b\uff0c \u5468\u4f73\u73b2\uff0c \u4ed8\u4fca\u6770\uff0c \u5f90\u78ca",
+    "\u6e29\u5e7f\u8f89\uff0c \u6768\u6d9b\uff0c \u5468\u4f73\u73b2\uff0c \u4ed8\u4fca\u6770\uff0c \u5f90\u78ca": {
         "citations": 0,
         "titles": [
             "\u5f3a\u5316\u5b66\u4e60\u4e0e\u81ea\u9002\u5e94\u52a8\u6001\u89c4\u5212: \u4ece\u57fa\u7840\u7406\u8bba\u5230\u591a\u667a\u80fd\u4f53\u7cfb\u7edf\u4e2d\u7684\u5e94\u7528\u8fdb\u5c55\u7efc\u8ff0"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "272": {
-        "author": "A Garc\u00eda Belmonte",
+    "A Garc\u00eda Belmonte": {
         "citations": 0,
         "titles": [
             "Metode d'explicabilitat per Aprenentatge Per Refor\u00e7 Multiagent en pres\u00e8ncia de comunicaci\u00f3"
         ],
-        "author_ids": []
+        "associations": []
     },
-    "273": {
-        "author": "A Teymur",
+    "A Teymur": {
         "citations": 0,
         "titles": [
             "\u0158\u00edzen\u00ed robot\u016f pomoc\u00ed stukturovan\u00e9ho hlubok\u00e9ho u\u010den\u00ed"
         ],
-        "author_ids": []
+        "associations": []
     }
 }

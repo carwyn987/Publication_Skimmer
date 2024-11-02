@@ -4,16 +4,16 @@ import time
 import random
 import json
 
-def google_scholar_search(query):
+def google_scholar_search(query, num_pages_to_query):
 
     with open('secret_sauce.json') as f: 
         api_key = json.load(f)["api_key"]
 
     results = []
 
-    # Iterate over 3 pages of Google Scholar search results. Randomization is used to avoid getting blocked.
+    # Iterate over num_pages_to_query pages of Google Scholar search results. Randomization is used to avoid getting blocked.
     # for start in sorted(list(range(0, 40, 20)), key=lambda x: random.random()):
-    for start in range(0, 100, 20):
+    for start in range(0, num_pages_to_query*20, 20):
         params = {
             "q": query,
             "hl": "en",
@@ -28,23 +28,27 @@ def google_scholar_search(query):
         if res["search_metadata"]["status"] != "Success":
                 print("Error")
                 continue
-        res = res["organic_results"]
-
-        for result in res:
-
-            # result_dict = {
-            #     "Title": result["title"],
-            #     "Author": ', '.join(author["name"] for author in result["publication_info"]["authors"]),
-            #     "Author ID": ', '.join(author["author_id"] for author in result["publication_info"]["authors"]),
-            #     "Description": result["snippet"],
-            #     "Year": result["publication_info"]["summary"].split(" - ")[1],
-            #     "Citations": result["inline_links"]["cited_by"]["total"]
-            # }
-
-            results.append(result)
-            # print(result_dict)
         
+        try:
+            res = res["organic_results"]
+
+            for result in res:
+
+                # result_dict = {
+                #     "Title": result["title"],
+                #     "Author": ', '.join(author["name"] for author in result["publication_info"]["authors"]),
+                #     "Author ID": ', '.join(author["author_id"] for author in result["publication_info"]["authors"]),
+                #     "Description": result["snippet"],
+                #     "Year": result["publication_info"]["summary"].split(" - ")[1],
+                #     "Citations": result["inline_links"]["cited_by"]["total"]
+                # }
+
+                results.append(result)
+                # print(result_dict)
+        except:
+             print("error with serp query? No organic results: ", res)
+
     print(len(results))
     return results
 
-google_scholar_search("machine learning")
+# google_scholar_search("machine learning")
